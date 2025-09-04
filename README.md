@@ -1091,11 +1091,11 @@ Mike Conover and Matt Hayes and Ankit Mathur and Jianwei Xie and Jun Wan and Sam
 
 2. **Exploring LLM Agents for Cleaning Tabular Machine Learning Datasets**
 
-   Bendinelli, Tommaso, Artur Dox, and Christian Holz. arXiv preprint arXiv:2503.06664* (2025).[[Paper](https://arxiv.org/abs/2503.06664)]
+   Bendinelli, Tommaso, Artur Dox, and Christian Holz. *arXiv:2503.06664* (2025).[[Paper](https://arxiv.org/abs/2503.06664)]
 
 3. **ZeroED: Hybrid Zero-shot Error Detection through Large Language Model Reasoning**
 
-   Ni, Wei, et al. arXiv preprint arXiv:2504.05345* (2025).[[Paper](https://arxiv.org/abs/2504.05345v1)]
+   Ni, Wei, et al. *arXiv:2504.05345* (2025).[[Paper](https://arxiv.org/abs/2504.05345v1)]
 
 4. **GIDCL: A Graph-Enhanced Interpretable Data Cleaning Framework with Large Language Models**  
    Mengyi Yan, Yaoshu Wang, Yue Wang, Xiaoye Miao, Jianxin Li. *Proceedings of the ACM on Management of Data, Volume 2, Issue 6, 2024.* [[Paper](https://dl.acm.org/doi/10.1145/3698811)]
@@ -1111,36 +1111,35 @@ Mike Conover and Matt Hayes and Ankit Mathur and Jianwei Xie and Jun Wan and Sam
 
 8. **Anomaly Detection of Tabular Data Using LLMs**
 
-   Li, Aodong, et al. arXiv preprint arXiv:2406.16308* (2024).[[Paper](https://arxiv.org/abs/2406.16308)]
+   Li, Aodong, et al. *arXiv:2406.16308* (2024).[[Paper](https://arxiv.org/abs/2406.16308)]
 
 9. **Cleaning Semi-Structured Errors in Open Data Using Large Language Models**
 
-   M. Mondal, J. Audiffren, L. Dolamic, G. Bovet and P. Cudré-Mauroux, 2024 11th IEEE Swiss Conference on Data Science (SDS)*.[[Paper](https://ieeexplore.ieee.org/abstract/document/10675754)]
+   M. Mondal, J. Audiffren, L. Dolamic, G. Bovet and P. Cudré-Mauroux, *2024 11th IEEE Swiss Conference on Data Science (SDS)*.[[Paper](https://ieeexplore.ieee.org/abstract/document/10675754)]
 
-10. **IterClean: An Iterative Data Cleaning Framework with Large Language Models**
-
-   Ni, Wei and Zhang, Kaihang and Miao, Xiaoye and Zhao, Xiangyu and Wu, Yangyang and Yin, Jianwei.Proceedings of the ACM Turing Award Celebration Conference - China 2024.[[Paper](https://dl.acm.org/doi/abs/10.1145/3674399.3674436)]
+10. **IterClean: An Iterative Data Cleaning Framework with Large Language Models**       
+    Wei Ni, Kaihang Zhang, Xiaoye Miao, et al. *Proceedings of the ACM Turing Award Celebration Conference - China 2024*.[[Paper](https://dl.acm.org/doi/abs/10.1145/3674399.3674436)]
 
 ##### Data Imputation
 
 1. **Does Prompt Design Impact Quality of Data Imputation by LLMs?**
 
-   Srinivasan, Shreenidhi, and Lydia Manikonda. arXiv preprint arXiv:2506.04172* (2025).[[Paper](https://arxiv.org/abs/2506.04172)]
+   Srinivasan, Shreenidhi, and Lydia Manikonda.  *arXiv:2506.04172* (2025).[[Paper](https://arxiv.org/abs/2506.04172)]
 
 2. **On LLM-Enhanced Mixed-Type Data Imputation with High-Order Message Passing**
 
-   Wang, Jianwei, et al.arXiv preprint arXiv:2501.02191* (2025).[[Paper](https://arxiv.org/abs/2501.02191)]
+   Wang, Jianwei, et al. *arXiv:2501.02191* (2025).[[Paper](https://arxiv.org/abs/2501.02191)]
 
 3. **RetClean: Retrieval-Based Data Cleaning Using LLMs and Data Lakes**  
    Zan Ahmad Naeem, Mohammad Shahmeer Ahmad, Mohamed Eltabakh, et al. *VLDB Endowment 2024*. [[Paper](https://dl.acm.org/doi/10.14778/3685800.3685890)]
 
 4. **Data Augmentation using Large Language Models: Data Perspectives, Learning Paradigms and Challenges**
 
-   Ding, Bosheng, et al. arXiv preprint arXiv:2403.02990* (2024).[[Paper](https://arxiv.org/abs/2403.02990)]
+   Ding, Bosheng, et al. *arXiv:2403.02990* (2024).[[Paper](https://arxiv.org/abs/2403.02990)]
 
 5. **A Context-Aware Approach for Enhancing Data Imputation with Pre-trained Language Models**
 
-   Hayat, Ahatsham, and Mohammad Rashedul Hasan. arXiv preprint arXiv:2405.17712* (2024).[[Paper](https://arxiv.org/abs/2405.17712v2)]
+   Hayat, Ahatsham, and Mohammad Rashedul Hasan. *arXiv:2405.17712* (2024).[[Paper](https://arxiv.org/abs/2405.17712v2)]
 
 #### 4.1.2 LLM for Data Integration
 
@@ -1177,7 +1176,7 @@ Mike Conover and Matt Hayes and Ankit Mathur and Jianwei Xie and Jun Wan and Sam
 
 1. **Towards Scalable Schema Mapping using Large Language Models**
 
-   Buss, Christopher, et al. arXiv preprint arXiv:2505.24716* (2025).[[Paper](https://arxiv.org/abs/2505.24716)]
+   Buss, Christopher, et al. *arXiv:2505.24716* (2025).[[Paper](https://arxiv.org/abs/2505.24716)]
 
 2. **Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching**  
    Chuangtao Ma, Sriom Chakrabarti, Arijit Khan, Bálint Molnár. *arxiv 2025.* [[Paper](https://arxiv.org/abs/2501.08686)]
@@ -1200,7 +1199,7 @@ Mike Conover and Matt Hayes and Ankit Mathur and Jianwei Xie and Jun Wan and Sam
 
 8. **TableGPT2: A Large Multimodal Model with Tabular Data Integration**
 
-   Su, Aofeng, et al. arXiv preprint arXiv:2411.02059* (2024).[[Paper](https://arxiv.org/abs/2411.02059)]
+   Su, Aofeng, et al. *arXiv:2411.02059* (2024).[[Paper](https://arxiv.org/abs/2411.02059)]
 
 #### 4.1.3 LLM for Data Discovery
 
@@ -1220,17 +1219,16 @@ Mike Conover and Matt Hayes and Ankit Mathur and Jianwei Xie and Jun Wan and Sam
 
 4. **LLM-Aided Customizable Profiling of Code Data Based On Programming Language Concepts**
 
-   Thorat, Pankaj, et al. "LLM-Aided Customizable Profiling of Code Data Based On Programming Language Concepts." *arXiv preprint arXiv:2503.15571* (2025).[[Paper](https://arxiv.org/abs/2503.15571)]
+   Thorat, Pankaj, et al. *arXiv:2503.15571* (2025).[[Paper](https://arxiv.org/abs/2503.15571)]
 
-5. https://dl.acm.org/doi/abs/10.1145/3665939.3665957 **Cocoon: Semantic Table Profiling Using Large Language Models**
+5. **Cocoon: Semantic Table Profiling Using Large Language Models**
 
-   Huang, Zezhou, and Eugene Wu.Proceedings of the 2024 Workshop on Human-In-the-Loop Data Analytics*. 2024.[[Paper](https://dl.acm.org/doi/abs/10.1145/3665939.3665957)]
+   Huang, Zezhou, and Eugene Wu. *Proceedings of the 2024 Workshop on Human-In-the-Loop Data Analytics*. 2024.[[Paper](https://dl.acm.org/doi/abs/10.1145/3665939.3665957)]
 
 ##### Data Annotation
 
-1. **LLMs as Data Annotators: How Close Are We to Human Performance**
-
-   Haq, Muhammad Uzair Ul, Davide Rigoni, and Alessandro Sperduti. arXiv preprint arXiv:2504.15022* (2025).[[Paper](https://arxiv.org/abs/2504.15022)]
+1. **LLMs as Data Annotators: How Close Are We to Human Performance **     
+   Haq, Muhammad Uzair Ul, Davide Rigoni, and Alessandro Sperduti. *arXiv:2504.15022*.[[Paper](https://arxiv.org/abs/2504.15022)]
 
 2. **Birdie: Natural Language-Driven Table Discovery Using Differentiable Search Index**  
    Yuxiang Guo, Zhonghao Hu, Yuren Mao, Baihua Zheng, Yunjun Gao, Mingwei Zhou. *VLDB 2025*. [[Paper](https://arxiv.org/abs/2504.21282)]
@@ -1241,35 +1239,40 @@ Mike Conover and Matt Hayes and Ankit Mathur and Jianwei Xie and Jun Wan and Sam
 4. **Evaluating Knowledge Generation and Self-Refinement Strategies for LLM-based Column Type Annotation**  
    Keti Korini, Christian Bizer. *arXiv 2025*. [[Paper](https://arxiv.org/abs/2503.02718)]
 
+4. **Columbo: Expanding Abbreviated Column Names for Tabular Data Using Large Language Models**    
+   Ting Cai, Stephen Sheen, AnHai Doan. *arXiv 2025*. [[Paper](https://arxiv.org/abs/2508.09403v2)]
+
+4. **An LLM Agent-Based Complex Semantic Table Annotation Approach**    
+   Yilin Geng, Shujing Wang, Chuan Wang, et al. *arXiv 2025*. [[Paper](https://arxiv.org/abs/2508.12868)]
+
 5. **Open-Source LLMs for Text Annotation: A Practical Guide for Model Setting and Fine-Tuning**
 
-   Alizadeh, Meysam, et al. Journal of Computational Social Science* 8.1 (2025): 1-25.[[Paper](https://arxiv.org/abs/2307.02179)]
+   Alizadeh, Meysam, et al. *Journal of Computational Social Science* 8.1 (2025): 1-25.[[Paper](https://arxiv.org/abs/2307.02179)]
 
 6. **Prompt Candidates, then Distill: A Teacher-Student Framework for LLM-driven Data Annotation**
 
-   Xia, Mingxuan, et al. arXiv preprint arXiv:2506.03857* (2025).[[Paper](https://arxiv.org/abs/2506.03857)]
+   Xia, Mingxuan, et al. *arXiv:2506.03857* (2025).[[Paper](https://arxiv.org/abs/2506.03857)]
 
 7. **Evaluating how LLM annotations represent diverse views on contentious topics**
 
-   Brown, Megan A., et al. arXiv preprint arXiv:2503.23243* (2025).[[Paper](https://arxiv.org/abs/2503.23243)]
+   Brown, Megan A., et al. *arXiv:2503.23243* (2025).[[Paper](https://arxiv.org/abs/2503.23243)]
 
 8. **CHORUS: Foundation Models for Unified Data Discovery and Exploration**  
-   Moe Kayali, Anton Lykov, Ilias Fountalis, Nikolaos Vasiloglou, Dan Olteanu, Dan Suciu. *Proceedings of the VLDB Endowment, Volume 17, Issue 8, 2024.* [[Paper](https://dl.acm.org/doi/10.14778/3659437.3659461)]
+   Moe Kayali, Anton Lykov, Ilias Fountalis, et al. *Proceedings of the VLDB Endowment, Volume 17, Issue 8, 2024.* [[Paper](https://dl.acm.org/doi/10.14778/3659437.3659461)]
 
 9. **RACOON: An LLM-based Framework for Retrieval-Augmented Column Type Annotation with a Knowledge Graph**  
    Lindsey Linxi Wei, Guorui Xiao, Magdalena Balazinska. *arXiv 2024*. [[Paper](https://arxiv.org/abs/2409.14556)]
 
-10. **AutoLabel: Automated Textual Data Annotation Method Based on Active Learning and Large Language Model**
-
-   Ming, Xuran, et al. International Conference on Knowledge Science, Engineering and Management*. Singapore: Springer Nature Singapore, 2024.[[Paper](https://dl.acm.org/doi/10.1007/978-981-97-5501-1_30)]
+12. **AutoLabel: Automated Textual Data Annotation Method Based on Active Learning and Large Language Model**    
+    Ming, Xuran, et al. *International Conference on Knowledge Science, Engineering and Management*. 2024.[[Paper](https://dl.acm.org/doi/10.1007/978-981-97-5501-1_30)]
 
 11. **The Promises and Pitfalls of LLM Annotations in Dataset Labeling: a Case Study on Media Bias Detection**
 
-    Horych, Tomas, et al. arXiv preprint arXiv:2411.11081* (2024).[[Paper](https://arxiv.org/abs/2411.11081)]
+    Horych, Tomas, et al. *arXiv:2411.11081*.[[Paper](https://arxiv.org/abs/2411.11081)]
 
 12. **Large Language Models as Annotators: Enhancing Generalization of NLP Models at Minimal Cost**
 
-    Bansal, Parikshit, and Amit Sharma. arXiv preprint arXiv:2306.15766* (2023).[[Paper](https://arxiv.org/abs/2306.15766)]
+    Bansal, Parikshit, and Amit Sharma. *arXiv:2306.15766*.[[Paper](https://arxiv.org/abs/2306.15766)]
 
 ### 4.2 LLM for Data Analysis
 
@@ -1501,7 +1504,7 @@ Mike Conover and Matt Hayes and Ankit Mathur and Jianwei Xie and Jun Wan and Sam
     Viraj Thakkar, Qi Lin, Kenanya Keandra Adriel Prasetyo, et al. *arXiv 2025*. [[Paper](https://arxiv.org/abs/2502.17606)]
 2. **MLETune: Streamlining Database Knob Tuning via Multi-LLMs Experts Guided Deep Reinforcement Learning**    
     Wenlong Dong, Wei Liu, Rui Xi, et al. *ICPADS 2024.* [[Paper](https://doi.org/10.1109/ICPADS63350.2024.00038)]
-   
+
 ##### Tuning Task-Aware Prompt Engineering
 
 1. **λ-Tune: Harnessing Large Language Models for Automated Database System Tuning**  
