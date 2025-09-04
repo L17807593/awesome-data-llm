@@ -1227,7 +1227,7 @@ Mike Conover and Matt Hayes and Ankit Mathur and Jianwei Xie and Jun Wan and Sam
 
 ##### Data Annotation
 
-1. **LLMs as Data Annotators: How Close Are We to Human Performance **     
+1. **LLMs as Data Annotators: How Close Are We to Human Performance**     
    Haq, Muhammad Uzair Ul, Davide Rigoni, and Alessandro Sperduti. *arXiv:2504.15022*.[[Paper](https://arxiv.org/abs/2504.15022)]
 
 2. **Birdie: Natural Language-Driven Table Discovery Using Differentiable Search Index**  
@@ -1590,3 +1590,4 @@ Mike Conover and Matt Hayes and Ankit Mathur and Jianwei Xie and Jun Wan and Sam
    Guoliang Li, Xuanhe Zhou, Xinyang Zhao. *PVLDB 17(12).* 2024. [[Paper](https://doi.org/10.14778/3685800.3685838)]
 4. **LLM-Enhanced Data Management**     
    Xuanhe Zhou, Xinyang Zhao, Guoliang Li. *arXiv 2024*. [[Paper](https://doi.org/10.48550/arXiv.2402.02643)]
+
