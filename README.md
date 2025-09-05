@@ -902,13 +902,15 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. [[Source](https://www.databricks.
 
 #### KV Shrinking
 
-1. **Fast State Restoration in LLM Serving with HCache**  
+1. **Adaptive KV-Cache Compression without Manually Setting Budget**     
+   Chenxia Tang, Jianchun Liu, Hongli Xu, et al. *arXiv 2025*. [[Paper](https://arxiv.org/abs/2509.03136)]
+2. **Fast State Restoration in LLM Serving with HCache**  
    Shiwei Gao, Youmin Chen, Jiwu Shu. *EuroSys 2025.* [[Paper](https://arxiv.org/abs/2410.05004)]
-2. **CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving**  
+3. **CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving**  
    Yuhan Liu, Hanchen Li, Yihua Cheng, et al. *SIGCOMM 2024.* [[Paper](https://dl.acm.org/doi/abs/10.1145/3651890.3672274)]
-3. **MiniCache: KV Cache Compression in Depth Dimension for Large Language Models**  
+4. **MiniCache: KV Cache Compression in Depth Dimension for Large Language Models**  
    Akide Liu, Jing Liu, Zizheng Pan, et al. *NeurIPS 2024*. [[Paper](https://neurips.cc/virtual/2024/poster/93380)]
-4. **Animating rotation with quaternion curves**  
+5. **Animating rotation with quaternion curves**  
    Ken Shoemake. *ACM SIGGRAPH Computer Graphics, Volume 19, Issue 3. 1985*. [[Paper](https://dl.acm.org/doi/10.1145/325165.325242)]
 
 #### KV Indexing
@@ -1176,30 +1178,33 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. [[Source](https://www.databricks.
 
 ##### Schema Matching
 
-1. **Towards Scalable Schema Mapping using Large Language Models**
+1. **SCHEMORA: Schema Matching via Multi-stage Recommendation and Metadata Enrichment using Off-the-Shelf LLMs**    
+   Osman Erman Gungor, Derak Paulsen, William Kang. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2507.14376v1)]
+
+2. **Towards Scalable Schema Mapping using Large Language Models**
 
    Buss, Christopher, et al. *arXiv:2505.24716* (2025).[[Paper](https://arxiv.org/abs/2505.24716)]
 
-2. **Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching**  
+3. **Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching**  
    Chuangtao Ma, Sriom Chakrabarti, Arijit Khan, et al. *arxiv 2025.* [[Paper](https://arxiv.org/abs/2501.08686)]
 
-3. **Interactive Data Harmonization with LLM Agents**  
+4. **Interactive Data Harmonization with LLM Agents**  
    Aécio Santos, Eduardo H. M. Pena, Roque Lopez, et al. *arXiv 2025*. [[Paper](https://arxiv.org/abs/2502.07132)]
 
-4. **Schema Matching with Large Language Models: an Experimental Study**  
+5. **Schema Matching with Large Language Models: an Experimental Study**  
    Marcel Parciak, Brecht Vandevoort, Frank Neven, et al. *TaDA 2024 Workshop, collocated with VLDB 2024.* [[Paper](https://doi.org/10.48550/arXiv.2407.11852)]
 
-5. **Magneto: Combining Small and Large Language Models for Schema Matching**  
+6. **Magneto: Combining Small and Large Language Models for Schema Matching**  
    Yurong Liu, Eduardo Pena, Aecio Santos, et al. *VLDB Endowment 2024.*  [[Paper](https://www.vldb.org/pvldb/vol17/p2750-fan.pdf)]
 
-6. **Agent-OM: Leveraging LLM Agents for Ontology Matching**
+7. **Agent-OM: Leveraging LLM Agents for Ontology Matching**
    Zhangcheng Qiang, Weiqing Wang, Kerry Taylor. *Proceedings of the VLDB Endowment, Volume 18, Issue 3, 2024.* [[Paper](https://dl.acm.org/doi/10.14778/3712221.3712222)]
 
-7. **Matchmaker: Self-Improving Large Language Model Programs for Schema Matching**
+8. **Matchmaker: Self-Improving Large Language Model Programs for Schema Matching**
 
    Seedat, Nabeel, and Mihaela van der Schaar. *arXiv preprint arXiv:2410.24105* (2024).[[Paper](https://arxiv.org/abs/2410.24105)]
 
-8. **TableGPT2: A Large Multimodal Model with Tabular Data Integration**
+9. **TableGPT2: A Large Multimodal Model with Tabular Data Integration**
 
    Su, Aofeng, et al. *arXiv:2411.02059* (2024).[[Paper](https://arxiv.org/abs/2411.02059)]
 
@@ -1210,20 +1215,23 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. [[Source](https://www.databricks.
 
 ##### Data Profiling
 
-1. **Pneuma: Leveraging LLMs for Tabular Data Representation and Retrieval in an End-to-End System**  
+1. **Flexible metadata harvesting for ecology using large language models**    
+   Zehao Lu, Thijs L van der Plas, Parinaz Rashidi, et al. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2508.20115)]
+
+2. **Pneuma: Leveraging LLMs for Tabular Data Representation and Retrieval in an End-to-End System**  
    Muhammad Imam Luthfi Balaka, David Alexander, Qiming Wang, et al. *SIGMOD 2025*. [[Paper](https://arxiv.org/abs/2504.09207#:~:text=In%20this%20paper%2C%20we%20introduce%20Pneuma%2C%20a%20retrieval-augmented,designed%20to%20efficiently%20and%20effectively%20discover%20tabular%20data.)]
 
-2. **AutoDDG: Automated Dataset Description Generation using Large Language Models**  
+3. **AutoDDG: Automated Dataset Description Generation using Large Language Models**  
    Haoxiang Zhang, Yurong Liu, Wei-Lun (Allen) Hung, et al. *arxiv 2025.* [[Paper](https://arxiv.org/abs/2502.01050)]
 
-3. **LEDD: Large Language Model-Empowered Data Discovery in Data Lakes**  
+4. **LEDD: Large Language Model-Empowered Data Discovery in Data Lakes**  
    Qi An, Chihua Ying, Yuqing Zhu, et al. *arXiv 2025*. [[Paper](https://arxiv.org/abs/2502.15182)]
 
-4. **LLM-Aided Customizable Profiling of Code Data Based On Programming Language Concepts**
+5. **LLM-Aided Customizable Profiling of Code Data Based On Programming Language Concepts**
 
    Thorat, Pankaj, et al. *arXiv:2503.15571* (2025).[[Paper](https://arxiv.org/abs/2503.15571)]
 
-5. **Cocoon: Semantic Table Profiling Using Large Language Models**
+6. **Cocoon: Semantic Table Profiling Using Large Language Models**
 
    Huang, Zezhou, and Eugene Wu. *Proceedings of the 2024 Workshop on Human-In-the-Loop Data Analytics*. 2024.[[Paper](https://dl.acm.org/doi/abs/10.1145/3665939.3665957)]
 
@@ -1286,43 +1294,49 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. [[Source](https://www.databricks.
 
 ###### LLM for Natural Language Interfaces
 
-1. **Cracking SQL Barriers: An LLM-based Dialect Translation System**  
+1. **Text to Query Plans for Question Answering on Large Tables**    
+   Yipeng Zhang, Chen Wang, Yuzhe Zhang, et al. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2508.18758v1)]
+2. **RubikSQL: Lifelong Learning Agentic Knowledge Base as an Industrial NL2SQL System**    
+   Zui Chen, Han Li, Xinhao Zhang, et al. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2508.17590)]
+3. **An advanced AI driven database system**     
+   M. Tedeschi, S. Rizwan, C. Shringi, et al. *EDULEARN25 Conference Proceedings. 2025.* [[Paper](https://arxiv.org/abs/2507.17778)]
+4. **Cracking SQL Barriers: An LLM-based Dialect Translation System**  
    Wei Zhou, Yuyang Gao, Xuanhe Zhou, Guoliang Li. *SIGMOD 2025*. [[Paper](https://dbgroup.cs.tsinghua.edu.cn/ligl/SIGMOD25-CrackSQL.pdf)]
-2. **CrackSQL: A Hybrid SQL Dialect Translation System Powered by Large Language Models**    
+5. **CrackSQL: A Hybrid SQL Dialect Translation System Powered by Large Language Models**    
    Wei Zhou, Yuyang Gao, Xuanhe Zhou, Guoliang Li. *arXiv 2025*. [[Paper](https://arxiv.org/abs/2504.00882#:~:text=In%20this%20demonstration%2C%20we%20present%20CrackSQL%2C%20the%20first,rule%20and%20LLM-based%20methods%20to%20overcome%20these%20limitations.)]
-3. **Automatic Metadata Extraction for Text-to-SQL**     
+6. **Automatic Metadata Extraction for Text-to-SQL**     
    Vladislav Shkapenyuk, Divesh Srivastava, Theodore Johnson, et al. *arXiv 2025* [[Paper](https://arxiv.org/abs/2505.19988)]
-4. **CSC-SQL: Corrective Self-Consistency in Text-to-SQL via Reinforcement Learning**     
+7. **CSC-SQL: Corrective Self-Consistency in Text-to-SQL via Reinforcement Learning**     
    Lei Sheng, Shuai-Shuai Xu. *arXiv 2025* [[Paper](https://arxiv.org/abs/2505.13271)]
-5. **Reasoning-SQL: Reinforcement Learning with SQL Tailored Partial Rewards for Reasoning-Enhanced Text-to-SQL**       
+8. **Reasoning-SQL: Reinforcement Learning with SQL Tailored Partial Rewards for Reasoning-Enhanced Text-to-SQL**       
    Lei Sheng, Shuai-Shuai Xu. *arXiv 2025* [[Paper](https://arxiv.org/abs/2505.13271)]
-6. **OmniSQL: Synthesizing High-quality Text-to-SQL Data at Scale**    
+9. **OmniSQL: Synthesizing High-quality Text-to-SQL Data at Scale**    
    Haoyang Li, Shang Wu, Xiaokang Zhang, et al. *arXiv 2025* [[Paper](https://arxiv.org/abs/2503.02240)]
-7. **OpenSearch-SQL: Enhancing Text-to-SQL with Dynamic Few-shot and Consistency Alignment**   
+10. **OpenSearch-SQL: Enhancing Text-to-SQL with Dynamic Few-shot and Consistency Alignment**   
    Xiangjin Xie, Guangwei Xu, Lingyan Zhao, Ruijie Guo. *arXiv 2025* [[Paper](https://arxiv.org/abs/2502.14913)]
-8. **Cheaper, Better, Faster, Stronger: Robust Text-to-SQL without Chain-of-Thought or Fine-Tuning**    
-   Yusuf Denizay Dönder, Derek Hommel, Andrea W Wen-Yi, et al. *arXiv 2025* [[Paper](https://arxiv.org/abs/2505.14174)]
-9. **A Preview of XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**   
-   Yingqi Gao, Yifu Liu, Xiaoxia Li, et al. *arXiv 2025* [[Paper](https://arxiv.org/abs/2411.08599)]
-10. **FinSQL: Model-Agnostic LLMs-based Text-to-SQL Framework for Financial Analysis**  
+11. **Cheaper, Better, Faster, Stronger: Robust Text-to-SQL without Chain-of-Thought or Fine-Tuning**    
+    Yusuf Denizay Dönder, Derek Hommel, Andrea W Wen-Yi, et al. *arXiv 2025* [[Paper](https://arxiv.org/abs/2505.14174)]
+12. **A Preview of XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**   
+    Yingqi Gao, Yifu Liu, Xiaoxia Li, et al. *arXiv 2025* [[Paper](https://arxiv.org/abs/2411.08599)]
+13. **FinSQL: Model-Agnostic LLMs-based Text-to-SQL Framework for Financial Analysis**  
     Chao Zhang, Yuren Mao, Yijiang Fan, et al. *SIGMOD 2024.* [[Paper](https://doi.org/10.1145/3626246.3653375)]
-11. **CodeS: Towards Building Open-source Language Models for Text-to-SQL**  
+14. **CodeS: Towards Building Open-source Language Models for Text-to-SQL**  
     Haoyang Li, Jing Zhang, Hanbing Liu, et al. *Proceedings of the ACM on Management of Data, Volume 2, Issue 3, 2024.* [[Paper](https://doi.org/10.1145/3654930)]
-12. **The Dawn of Natural Language to SQL: Are We Fully Ready?**  
+15. **The Dawn of Natural Language to SQL: Are We Fully Ready?**  
     Boyan Li, Yuyu Luo, Chengliang Chai, Guoliang Li, Nan Tang. *VLDB 2024.* [[Paper](https://arxiv.org/abs/2406.01265)]
-13. **Contextualized Data-Wrangling Code Generation in Computational Notebooks**  
+16. **Contextualized Data-Wrangling Code Generation in Computational Notebooks**  
     Junjie Huang, Daya Guo, Chenglong Wang, et al. *ASE 2024*. [[Paper](https://dl.acm.org/doi/abs/10.1145/3691620.3695503)]
-14. **PET-SQL: A Prompt-Enhanced Two-Round Refinement of Text-to-SQL with Cross-consistency**  
+17. **PET-SQL: A Prompt-Enhanced Two-Round Refinement of Text-to-SQL with Cross-consistency**  
     Zhishuai Li, Xiang Wang, Jingjing Zhao, et al. *arXiv 2024.* [[Paper](https://doi.org/10.48550/arXiv.2403.09732)]
-15. **CHESS: Contextual Harnessing for Efficient SQL Synthesis**   
+18. **CHESS: Contextual Harnessing for Efficient SQL Synthesis**   
     Shayan Talaei, Mohammadreza Pourreza, Yu-Chen Chang, et al. *arXiv 2024.* [[Paper](https://doi.org/10.48550/arXiv.2405.16755)]
-16. **Data Interpreter: An LLM Agent For Data Science**  
+19. **Data Interpreter: An LLM Agent For Data Science**  
     Sirui Hong, Yizhang Lin, Bang Liu, et al. *arXiv 2024.* [[Paper](https://arxiv.org/abs/2402.18679)]
-17. **DIN-SQL: Decomposed In-Context Learning of Text-to-SQL with Self-Correction**  
+20. **DIN-SQL: Decomposed In-Context Learning of Text-to-SQL with Self-Correction**  
     Mohammadreza Pourreza, Davood Rafiei. *NeurIPS 2023*. [[Paper](https://dl.acm.org/doi/10.5555/3666122.3667699)]
-18. **Natural Language to Code Generation in Interactive Data Science Notebooks**   
+21. **Natural Language to Code Generation in Interactive Data Science Notebooks**   
     Pengcheng Yin, Wen-Ding Li, Kefan Xiao, et al. *ACL 2023.* [[Paper](https://aclanthology.org/2023.acl-long.9/)]
-19. **PaLM: Scaling Language Modeling with Pathways**   
+22. **PaLM: Scaling Language Modeling with Pathways**   
     Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, et al. *JMLR 2023.* [[Paper](https://dl.acm.org/doi/10.5555/3648699.3648939)]
 
 ###### LLM for Semantic Analysis
@@ -1409,7 +1423,9 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. [[Source](https://www.databricks.
 
 #### 4.2.2 LLM for Semi-Structured Data Analysis
 
-1. **Querying Semi-Structured Data**  
+1. **ST-Raptor: LLM-Powered Semi-Structured Table Question Answering**    
+   Zirui Tang, Boyu Niu, Xuanhe Zhou, et al. *SIGMOD 2026.* 2025. [[Paper](https://arxiv.org/abs/2508.18190v3)]
+2. **Querying Semi-Structured Data**  
    Serge Abiteboul. *ICDT 1997.* [[Paper](https://dl.acm.org/doi/10.5555/645502.656103)]
 
 ##### 4.2.2.1 Markup Language
@@ -1477,8 +1493,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. [[Source](https://www.databricks.
 
 ###### LLM-based Semantic-aware Analysis
 
-1. **Improving Code Summarization With Tree Transformer Enhanced by Position-Related Syntax Complement**  
-   Jie Song, Zexin Zhang, Zirui Tang, et al. *IEEE TAI 2024.* [[Paper](https://ieeexplore.ieee.org/document/10510878/metrics#metrics)]
+1.  
 2. **Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning**  
    Mingyang Geng, Shangwen Wang, Dezun Dong, et al. *ICSE 2024.* [[Paper](https://doi.org/10.1145/3597503.3608134)]
 3. **Automatic Semantic Augmentation of Language Model Prompts (for Code Summarization)**  
@@ -1540,23 +1555,27 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. [[Source](https://www.databricks.
 
 ##### Optimization-Aware Prompt Engineering
 
-1. **QUITE: A Query Rewrite System Beyond Rules with LLM Agents**  
+1. **E3-Rewrite: Learning to Rewrite SQL for Executability, Equivalence,and Efficiency**    
+   Dongjie Xu, Yue Cui, Weijie Shi, et al. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2508.09023v2)]
+2. **LLM4Hint: Leveraging Large Language Models for Hint Recommendation in Offline Query Optimization**    
+   Suchen Liu, Jun Gao, Yinjun Han, et al. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2507.03384v1)]
+3. **QUITE: A Query Rewrite System Beyond Rules with LLM Agents**  
    Yuyang Song, Hanxu Yan, Jiale Lao, et al. *arXiv 2025.* [[Paper](https://arxiv.org/pdf/2506.07675)]
-2. **Can Large Language Models Be Query Optimizer for Relational Databases?**  
+4. **Can Large Language Models Be Query Optimizer for Relational Databases?**  
    Jie Tan, Kangfei Zhao, Rui Li, et al. *arXiv 2025.* [[Paper](https://doi.org/10.48550/arXiv.2502.05562)]
-3. **A Query Optimization Method Utilizing Large Language Models**  
+5. **A Query Optimization Method Utilizing Large Language Models**  
    Zhiming Yao, Haoyang Li, Jing Zhang, et al. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2503.06902)]
-4. **Query Rewriting via LLMs**  
+6. **Query Rewriting via LLMs**  
    Sriram Dharwada, Himanshu Devrani, Jayant Haritsa, et al. *arXiv 2025.* [[Paper](https://doi.org/10.48550/arXiv.2502.12918)]
-5. **DB-GPT: Large Language Model Meets Database** [[Paper](https://link.springer.com/article/10.1007/s41019-023-00235-6)]
-6. **LLM-R2: A Large Language Model Enhanced Rule-Based Rewrite System for Boosting Query Efficiency**  
+7. **DB-GPT: Large Language Model Meets Database** [[Paper](https://link.springer.com/article/10.1007/s41019-023-00235-6)]
+8. **LLM-R2: A Large Language Model Enhanced Rule-Based Rewrite System for Boosting Query Efficiency**  
    Zhaodonghui Li, Haitao Yuan, Huiming Wang, et al. *VLDB 2024.* [[Paper](https://doi.org/10.14778/3696435.3696440)]
-7. **The Unreasonable Effectiveness of LLMs for Query Optimization**  
+9. **The Unreasonable Effectiveness of LLMs for Query Optimization**  
      Peter Akioyamen, Zixuan Yi, Ryan Marcus. *ML for Systems Workshop at NeurIPS 2024.* [[Paper](https://doi.org/10.48550/arXiv.2411.02862)]
-8. **R-Bot: An LLM-based Query Rewrite System**  
+10. **R-Bot: An LLM-based Query Rewrite System**  
    Zhaoyan Sun, Xuanhe Zhou, Guoliang Li. *arXiv 2024.* [[Paper](https://arxiv.org/abs/2412.01661)]
-9. **Query Rewriting via Large Language Models**  
-     Jie Liu, Barzan Mozafari. *arXiv 2024.* [[Paper](https://doi.org/10.48550/arXiv.2403.09060)]
+11. **Query Rewriting via Large Language Models**  
+      Jie Liu, Barzan Mozafari. *arXiv 2024.* [[Paper](https://doi.org/10.48550/arXiv.2403.09060)]
 
 
 
@@ -1569,9 +1588,11 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. [[Source](https://www.databricks.
 
 ##### RAG Based Diagnosis Experience Enrichment
 
-1. **Query Performance Explanation through Large Language Model for HTAP Systems**   
+1. **DBAIOps: A Reasoning LLM-Enhanced Database Operation and Maintenance System using Knowledge Graphs**     
+   Wei Zhou, Peng Sun, Xuanhe Zhou, et al. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2508.01136)]
+2. **Query Performance Explanation through Large Language Model for HTAP Systems**   
    Haibo Xiu, Li Zhang, Tieying Zhang, et al. *ICDE 2025.* [[Paper](https://doi.org/10.48550/arXiv.2412.01709)]
-2. **D-Bot: Database Diagnosis System using Large Language Models**  
+3. **D-Bot: Database Diagnosis System using Large Language Models**  
    Xuanhe Zhou, Guoliang Li, Zhaoyan Sun, et al. *Proceedings of the VLDB Endowment, Volume 17, Issue 10. 2024.* [[Paper](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/dbot_vldb_camera_ready_v1.pdf)]
 4. **LLM As DBA**  
    Xuanhe Zhou, Guoliang Li, Zhiyuan Liu. *arXiv 2023.* [[Paper](https://arxiv.org/abs/2308.05481)]
