@@ -130,7 +130,7 @@ The **IaaS** concept for LLM data (phonetically echoing *Infrastructure as a Ser
 #### General Instruction Following
 
 1. **Free dolly: Introducing the world’s first truly open instruction-tuned llm**    
-Mike Conover, Matt Hayes, Ankit Mathur, et al. 2023. [[Source](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)]
+Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)]
 
 #### Specific Domain Usage
 
@@ -261,7 +261,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. 2023. [[Source](https://www.datab
 13. **Learning Transferable Visual Models From Natural Language Supervision**  
     Alec Radford, Jong Wook Kim, Chris Hallacy, et al. *ICML 2021.* [[Paper](https://proceedings.mlr.press/v139/radford21a)]
 14. **Tesseract: an open-source optical character recognition engine**  
-    Anthony Kay. Linux Journal, Volume 2007. [[Paper](https://dl.acm.org/doi/10.5555/1288165.1288167)]
+    Anthony Kay. *Linux Journal, Volume 2007*. [[Paper](https://dl.acm.org/doi/10.5555/1288165.1288167)]
 
 
 
@@ -1157,7 +1157,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. 2023. [[Source](https://www.datab
 
 2. **Large Language Models for Data Discovery and Integration: Challenges and Opportunities**
 
-   Freire, Juliana, et al.   [IEEE Data Eng. Bull. 49(1)](https://dblp.org/db/journals/debu/debu49.html#FreireFFKLPSSW25): 3-31 (2025). [[Paper](http://sites.computer.org/debull/A25mar/p3.pdf)]
+   Freire, Juliana, et al.   *[IEEE Data Eng. Bull. 49(1)](https://dblp.org/db/journals/debu/debu49.html#FreireFFKLPSSW25): 3-31 (2025)*. [[Paper](http://sites.computer.org/debull/A25mar/p3.pdf)]
 
 3. **Entity matching using large language models**  
    Ralph Peeters, Christian Bizer. *EDBT 2025.* [[Paper](https://arxiv.org/abs/2310.11244)]
