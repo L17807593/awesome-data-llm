@@ -16,6 +16,15 @@
     journal={arXiv preprint arXiv:2505.18458},
     url={https://arxiv.org/abs/2505.18458}
 }
+@misc{tang2025llmagentasdataanalystsurvey,
+      title={LLM/Agent-as-Data-Analyst: A Survey}, 
+      author={Zirui Tang and Weizheng Wang and Zihang Zhou and Yang Jiao and Bangrui Xu and Boyu Niu and Xuanhe Zhou and Guoliang Li and Yeye He and Wei Zhou and Yitong Song and Cheng Tan and Bin Wang and Conghui He and Xiaoyang Wang and Fan Wu},
+      year={2025},
+      eprint={2509.23988},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2509.23988}, 
+}
 ```
 
 
@@ -28,6 +37,9 @@ The **IaaS** concept for LLM data (phonetically echoing *Infrastructure as a Ser
 
 [![Cover](https://github.com/SUPERZJ827/LLM4DB/raw/main/assets/iaas_overview_v2.png)](https://github.com/SUPERZJ827/LLM4DB/blob/main/assets/iaas_overview_v2.png)
 
+## 🌟 
+
+[![Cover2](https://github.com/SUPERZJ827/LLM4DB/raw/main/assets/data_analysis_survey.png)](https://github.com/SUPERZJ827/LLM4DB/blob/main/assets/data_analysis_survey.png)
 
 
 ## Table of Contents
@@ -65,7 +77,11 @@ The **IaaS** concept for LLM data (phonetically echoing *Infrastructure as a Ser
   - [4.1 LLM for Data Manipulation](#41-llm-for-data-manipulation)
   - [4.2 LLM for Data Analysis](#42-llm-for-data-analysis)
   - [4.3 LLM for Data System Optimization](#43-llm-for-data-system-optimization)
-
+- [5 LLM/Agent as Data Analyst](#5-llm-as-data-analyst)
+   - [5.1 LLM/Agent for Structured Data Analysis](#51-llm-for-structured-data)
+   - [5.2 LLM/Agent for Semi-Structured Data Analysis](#52-llm-for-semistructured-data)
+   - [5.3 LLM/Agent for unstructured Data Analysis](#53-llm-for-unstructured-data)
+   - [5.4 LLM/Agent for Heterogeneous Data Analysis](#54-llm-for-heterogenous-data)
 
 ## Datasets
 
@@ -1634,4 +1650,248 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
    Guoliang Li, Xuanhe Zhou, Xinyang Zhao. *PVLDB 17(12).* 2024. [[Paper](https://doi.org/10.14778/3685800.3685838)]
 4. **LLM-Enhanced Data Management**     
    Xuanhe Zhou, Xinyang Zhao, Guoliang Li. *arXiv 2024*. [[Paper](https://doi.org/10.48550/arXiv.2402.02643)]
+
+## 5 LLM/Agent as Data Analyst
+
+### 5.1 LLM/Agent for Structured Data Analysis
+
+#### 5.1.1 Relational Data
+
+##### NL2SQL
+
+
+
+1. **Finsql: Model-agnostic llms-based text-to-sql framework for financial analysis** [[Paper](https://dl.acm.org/doi/abs/10.1145/3626246.3653375)]
+
+2. **Pet-sql: A prompt-enhanced two-round refinement of text-to-sql with cross-consistency** [[Paper](https://arxiv.org/abs/2403.09732)]
+
+3. **Chess: Contextual harnessing for efficient sql synthesis** [[Paper](https://arxiv.org/abs/2405.16755)]
+
+4. **Codes: Towards building open-source language models for text-to-sql** [[Paper](https://dl.acm.org/doi/abs/10.1145/3654930)]
+
+5. **Combining small language models and large language models for zero-shot nl2sql** [[Paper](https://dl.acm.org/doi/abs/10.14778/3681954.3681960)]
+
+6. **Cracking SQL Barriers: An llm-based dialect translation system** [[Paper](https://dl.acm.org/doi/abs/10.1145/3725278)]
+
+7. **Cracksql: A hybrid sql dialect translation system powered by large language models** [[Paper](https://arxiv.org/abs/2504.00882)]
+
+8. **Din-sql: Decomposed in-context learning of text-to-sql with self-correction** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/72223cc66f63ca1aa59edaec1b3670e6-Abstract-Conference.html)]
+
+9. **Opensearch-sql: Enhancing text-to-sql with dynamic few-shot and consistency alignment** [[Paper](https://dl.acm.org/doi/abs/10.1145/3725331)]
+
+10. **Bridging the semantic gap between text and table: A case study on nl2sql** [[Paper](https://openreview.net/forum?id=qmsX2R19p9)]
+
+11. **The dawn of natural language to sql: Are we fully ready?** [[Paper](https://arxiv.org/abs/2406.01265)]
+
+##### NL2Code
+
+1. **Natural language to code generation in interactive data science notebooks** [[Paper](https://arxiv.org/abs/2212.09248)]
+
+2. Palm: Scaling language modeling with pathways [[Paper](https://www.jmlr.org/papers/v24/22-1144.html)]
+
+3. Contextualized data-wrangling code generation in computational notebooks [[Paper](https://dl.acm.org/doi/abs/10.1145/3691620.3695503)]
+
+4. Data interpreter: An llm agent for data science [[Paper](https://arxiv.org/abs/2402.18679)]
+
+5. Collaboration between intelligent agents and large language models: A novel approach for enhancing code generation capability [[Paper](https://www.sciencedirect.com/science/article/pii/S095741742403224X)]
+
+6. BART: denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension. [[Paper](https://arxiv.org/abs/1910.13461?spm=a2c6h.13046898.publish-article.9.99fc6ffa8EPYJl&file=1910.13461)]
+
+##### LLM for Semantic Analysis.
+
+**Multi-Step QA.**
+
+1. Tat-llm: A specialized language model for discrete reasoning over financial tab- ular and textual data [[Paper](https://dl.acm.org/doi/abs/10.1145/3677052.3698685)]
+
+2. S3HQA: A three-stage approach for multi-hop text-table hybrid question answering [[Paper](https://arxiv.org/abs/2305.11725)]
+
+3. Plugging schema graph into multi-table qa: A human-guided framework for reducing llm reliance. [[Paper](https://arxiv.org/abs/2506.04427)]
+
+4. TaPERA: Enhancing faithfulness and interpretability in long-form table QA by content planning and execution-based reasoni [[Paper](https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2024.acl-long.692.pdf)]
+
+5. Reactable: Enhancing react for table question answering [[Paper](https://dl.acm.org/doi/abs/10.14778/3659437.3659452)]
+
+6. Chain-of-table: Evolving tables in the reasoning chain for table understanding [[Paper](https://arxiv.org/abs/2401.04398)]
+
+**End-to-End QA**
+
+1. Table-gpt: Table-tuned gpt for diverse table tasks [[Paper](https://dl.acm.org/doi/abs/10.1145/3654979)]
+
+2. Tablegpt2: A large multimodal model with tabular data integration [[Paper](https://arxiv.org/abs/2411.02059)]
+
+3. Cabinet: Content relevance based noise reduction for table question answering [[Paper](https://arxiv.org/abs/2402.01155)]
+
+4. Tablemaster: A recipe to advance table understanding with language models [[Paper](https://arxiv.org/abs/2501.19378)]
+
+5. Mmqa: Evaluating llms with multi-table multi-hop complex questions. [[Paper](https://openreview.net/pdf?id=GGlpykXDCa)]
+
+6. Multimodal table understanding [[Paper](https://arxiv.org/abs/2406.08100)]
+
+7. Improved baselines with visual instruction tuning [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Improved_Baselines_with_Visual_Instruction_Tuning_CVPR_2024_paper.html)]
+
+8. Tabpedia: Towards comprehensive visual table understanding with concept synergy [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0d97fe65d7a1dc12a05642d9fa4cd578-Abstract-Conference.html)]
+
+9. Judging llm-as-a-judge with mt-bench and chatbot arena. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract-Datasets_and_Benchmarks.html)]
+
+##### LLM for Time Series Analysis.
+
+1. Time series databases and influxdb [[Paper](https://www.devopsschool.com/blog/wp-content/uploads/2022/09/influxdb_2017.pdf)]
+
+2. Towards cross-modality modeling for time series analytics: A survey in the llm era [[Paper](https://arxiv.org/abs/2505.02583)]
+
+3. A comparison of arima and lstm in forecasting time series [[Paper](https://ieeexplore.ieee.org/abstract/document/8614252)]
+
+4. Association between forecasting models’ precision and nonlinear patterns of daily river flow time series [[Paper](https://link.springer.com/article/10.1007/s40808-022-01351-4)]
+
+5. The performance of lstm and bilstm in forecasting time series [[Paper](https://ieeexplore.ieee.org/abstract/document/9005997)]
+
+6. Hmckrautoencoder: An interpretable deep learning framework for time series analysis. [[Paper](https://ieeexplore.ieee.org/abstract/document/9713986)]
+
+**TS2NL.**
+
+1. Can large language models be anomaly detectors for time series? [[Paper](https://ieeexplore.ieee.org/abstract/document/10722786)]
+
+2. Timerag: Boosting llm time series forecasting via retrieval-augmented generation.
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10889933/)]
+
+3. Dynamic time warping algorithm review. [[Paper](https://www.researchgate.net/profile/Pavel-Senin/publication/228785661_Dynamic_Time_Warping_Algorithm_Review/links/02bfe5100f11a7929f000000/Dynamic-Time-Warping-Algorithm-Review.pdf)]
+
+4. Temporal data meets llm–explainable financial time series forecasting. [[Paper](https://arxiv.org/abs/2306.11025)]
+
+5. Exploring large language models for climate forecasting [[Paper](https://arxiv.org/abs/2411.13724)]
+
+6. Timecap: Learning to contextualize, augment, and predict time series events with large language model agents [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33989)]
+
+7. Explainable multi-modal time series prediction with llm-in-the-loop [[Paper](https://arxiv.org/abs/2503.01013)]
+
+8. From news to forecast: Integrating event analysis in llm-based time series forecasting with reflection [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6aef8bffb372096ee73d98da30119f89-Abstract-Conference.html)]
+
+**Alignment.**
+
+1. Time-llm: Time series forecasting by reprogramming large language models [[Paper](https://arxiv.org/abs/2310.01728)]
+
+2. Seed: A structural encoder for embedding-driven decoding in time series prediction with llms [[Paper](https://arxiv.org/abs/2506.20167)]
+
+3. Timecma: Towards llm-empowered multivariate time series forecasting via cross-modality alignment [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34067)]
+
+4. Calf: Aligning llms for time series forecasting via cross-modal fine-tuning [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34082)]
+
+5. S2IP-LLM: Semantic space informed prompt learning with LLM for time series forecasting [[Paper](https://openreview.net/forum?id=qwQVV5R8Y7)]
+
+6. Llm4ts: Aligning pre-trained llms as data-efficient time-series forecasters [[Paper](https://dl.acm.org/doi/abs/10.1145/3719207)]
+
+7. Large language models are few-shot multivariate time series classifiers. [[Paper](https://link.springer.com/article/10.1007/s10618-025-01145-z)]
+
+#### Graph Data Analysis
+1. A comparison of current graph database models [[Paper](https://ieeexplore.ieee.org/abstract/document/6313676)]
+
+**Natural Language To Graph Analysis Query.**
+
+1. Nat-nl2gql: A novel multi-agent framework for translating natural language to graph query language [[Paper](https://arxiv.org/abs/2412.10434)]
+
+2. r3-NL2GQL: A model coordination and knowledge graph alignment approach for NL2GQL [[Paper](https://arxiv.org/abs/2311.01862)]
+
+3. Aligning large language models to a domain-specific graph database for nl2gql [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679713)]
+
+4. Graph learning in the era of llms: A survey from the perspective of data, models, and tasks [[Paper](https://arxiv.org/abs/2412.12456)]
+
+5. Leveraging biomolecule and natural language through multi-modal learning: A survey [[Paper](https://arxiv.org/abs/2403.01528)]
+
+**LLM-based Semantic Analysis.**
+
+- Retrieval-Then-Reasoning.
+
+1. Subgraph retrieval enhanced model for multi-hop knowledge base question answering [[Paper](https://arxiv.org/abs/2202.13296)]
+
+2. Unikgqa: Unified retrieval and reasoning for solving multi-hop question answering over knowledge graph [[Paper](https://arxiv.org/abs/2212.00959)]
+
+3. G-retriever: Retrieval-augmented generation for textual graph understanding and question answering [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/efaf1c9726648c8ba363a5c927440529-Abstract-Conference.html)]
+
+- Execution-Then-Reasoning
+
+1. Interactive-kbqa: Multi-turn inter-actions for knowledge base question answering with large language models [[Paper](https://arxiv.org/abs/2402.15131)]
+
+2. Mcts-kbqa: Monte carlo tree search for knowledge base question answering [[Paper](https://arxiv.org/abs/2502.13428)]
+
+3. Flexkbqa: A flexible llm-powered framework for few-shot knowledge base question answering [[Paper]()]https://ojs.aaai.org/index.php/AAAI/article/view/29823
+
+**Graph Task Based Fine-tuning Methods.**
+
+1. Language is all a graph needs [[Paper](https://arxiv.org/abs/2308.07134)]
+
+2. Instruct-graph: Boosting large language models via graph-centric instruction tuning and preference alignment [[Paper](https://arxiv.org/abs/2402.08785)]
+
+3. Direct preference optimization: Your language model is secretly a reward model [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html)]
+
+4. Graphgpt: Graph instruction tuning for large language models [[Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657775)]
+
+5. Inductive representation learning on large graphs [[Paper](https://proceedings.neurips.cc/paper/2017/hash/5dd9db5e033da9c6fb5ba83c7a7ebea9-Abstract.html)]
+
+6. Semi-supervised classification with graph convolutional networks. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Jiang_Semi-Supervised_Learning_With_Graph_Learning-Convolutional_Networks_CVPR_2019_paper.html)]
+
+7. Glam: Fine-tuning large language models for domain knowledge graph alignment via neighborhood partitioning and generative sub-graph encoding [[Paper](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31186
+)]
+
+- Agent Based Methods.
+
+1. Structgpt: A general framework for large language model to reason over structured data [[Paper](https://arxiv.org/abs/2305.09645)]
+
+2. Kbqa-o1: Agentic knowledge base question answering with monte carlo tree search. [[Paper](https://arxiv.org/abs/2501.18922)]
+
+3. Call me when necessary: Llms can efficiently and faithfully reason over structured environments [[Paper](https://arxiv.org/abs/2403.08593)]
+
+#### Structured Data Generation for LLM
+
+1. Compositional Semantic Parsing on Semi-Structured Tables [[Paper](https://arxiv.org/abs/1508.00305)]
+
+2. Spider: A large-scale human-labeled dataset for complex and cross-domain semantic parsing and text-to-sql task [[Paper](https://arxiv.org/abs/1809.08887)]
+
+##### Relational Data Generation.
+
+1. REaLTabFormer: Generating Realistic Relational and Tabular Data using Transformers [[Paper](https://arxiv.org/abs/2302.02041)]
+
+2. Relational data generation with graph neural networks and latent diffusion models [[Paper](https://openreview.net/forum?id=MNLR2NYN2Z)]
+
+3. Synthetic data generation of many-to-many datasets via random graph generation. [[Paper](https://openreview.net/forum?id=Q120_4COf-K)]
+
+4. Mixed-type tabular data synthesis with score-based diffusion in latent space [[Paper](https://arxiv.org/abs/2310.09656)]
+
+5. Syntaxsqlnet: Syntax tree networks for complex and cross-domain text-to-sql task [[Paper](https://arxiv.org/abs/1810.05237)]
+
+6. Codes: Towards building open-source language models for text-to-sql [[Paper](https://dl.acm.org/doi/abs/10.1145/3654930)]
+
+7. Itf-gan: Synthetic time series dataset generation and manipulation by interpretable features [[Paper](https://www.sciencedirect.com/science/article/pii/S095070512300881X)]
+
+8. ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning [[Paper](https://arxiv.org/abs/2412.03104)]
+
+##### Graph Data Generation. 
+
+1. A framework for large-scale synthetic graph dataset generation [[Paper](https://ieeexplore.ieee.org/abstract/document/10943225)]
+
+2. A temporal knowledge graph generation dataset supervised distantly by large language models [[Paper](https://www.nature.com/articles/s41597-025-05062-0)]
+
+#### 5.1.2 Graph Data
+
+
+### 5.2 LLM/Agent for Semi-Structured Data Analysis
+
+#### 5.2.1 Markup Language
+
+#### 5.2.2 Semi-Structured Table
+
+
+### 5.3 LLM/Agent for Unstructured Data Analysis
+
+#### 5.3.1 Chart Analysis
+
+#### 5.3.2 Video Analysis
+
+#### 5.3.3 Document Analysis
+
+#### 5.3.4 Program Analysis
+
+#### 5.3.5 3D Model Analysis
+
+### 5.4 LLM/Agent for Heterogeneous Data Analysis
+
 
