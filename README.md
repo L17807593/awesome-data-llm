@@ -1954,51 +1954,51 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 **Traditional Approaches**
 1. DVQA: Understanding Data Visualizations viaQuestion Answering
-[[Paper](https://arxiv.org/abs/1801.08163}]
+[[Paper](https://arxiv.org/abs/1801.08163)]
 
 **Chart Captioning**
-1. Describing Complex Charts in Natural Language A Caption Generation System
-[[Paper](https://aclanthology.org/J98-3004/}]
+1。 Describing Complex Charts in Natural Language A Caption Generation System
+[[Paper](https://aclanthology.org/J98-3004/)]
 
-2. An Architecture for Data-to-Text Systems[[Paper](https://aclanthology.org/W07-2315/}]
+2. An Architecture for Data-to-Text Systems[[Paper](https://aclanthology.org/W07-2315/)]
 
-3. Chartthinker: A contextual chain-of-thought approach to optimized chart summarization[[Paper](https://arxiv.org/abs/2403.11236}]
+3. Chartthinker: A contextual chain-of-thought approach to optimized chart summarization[[Paper](https://arxiv.org/abs/2403.11236)]
 
-4. Chart-to-Text: Generating Natural Language Descriptions for Charts by Adapting the Transformer Model[[Paper](https://aclanthology.org/2020.inlg-1.20/}]
+4. Chart-to-Text: Generating Natural Language Descriptions for Charts by Adapting the Transformer Model[[Paper](https://aclanthology.org/2020.inlg-1.20/)]
 
-5. FigCaps-HF: A Figure-to-Caption Generative Framework and Benchmark with Human Feedback[[Paper](https://arxiv.org/abs/2307.10867}]
+5. FigCaps-HF: A Figure-to-Caption Generative Framework and Benchmark with Human Feedback[[Paper](https://arxiv.org/abs/2307.10867)]
 
-6. Unichart: A universal vision-language pretrained model for chart comprehension and reasoning[[Paper](https://arxiv.org/abs/2305.14761}]
+6. Unichart: A universal vision-language pretrained model for chart comprehension and reasoning[[Paper](https://arxiv.org/abs/2305.14761)]
 
 **Chart Question Answering**
 1. ChartLlama: A Multimodal LLM for Chart Undestanding and Generation
-[[Paper](https://arxiv.org/abs/2311.16483}]
+[[Paper](https://arxiv.org/abs/2311.16483)]
 
 2. ChartBench: A Benchmark for Complex Visual easoning in Charts
-[[Paper](https://arxiv.org/abs/2312.15915}]
+[[Paper](https://arxiv.org/abs/2312.15915)]
 
-3. Evochart: A benchmark and a self-training approach towards real-world chart understanding[[Paper](https://arxiv.org/abs/2409.01577}]
+3. Evochart: A benchmark and a self-training approach towards real-world chart understanding[[Paper](https://arxiv.org/abs/2409.01577)]
 
-4. Chartinsights: Evaluating multimodal large language models for low-level chart question answering[[Paper](https://arxiv.org/abs/2405.07001}]
+4. Chartinsights: Evaluating multimodal large language models for low-level chart question answering[[Paper](https://arxiv.org/abs/2405.07001)]
 
-5. Vizability: Enhancing chart accessibility with llm-based conversational interaction[[Paper](https://arxiv.org/abs/2310.09611}]
+5. Vizability: Enhancing chart accessibility with llm-based conversational interaction[[Paper](https://arxiv.org/abs/2310.09611)]
 
-6. Charts-of-Thought: Enhancing LLM Visualization Literacy Through Structured Data Extraction[[Paper](https://arxiv.org/abs/2508.04842}]
+6. Charts-of-Thought: Enhancing LLM Visualization Literacy Through Structured Data Extraction[[Paper](https://arxiv.org/abs/2508.04842)]
 
-7. ChartMoE: Mixture of Diversely Aligned Expert Connector for Chart Understanding[[Paper](https://arxiv.org/abs/2409.03277}]
+7. ChartMoE: Mixture of Diversely Aligned Expert Connector for Chart Understanding[[Paper](https://arxiv.org/abs/2409.03277)]
 
 8. ChartGemma: Visual Instruction-tuning for Cart Reasoning in the Wild
-[[Paper](https://arxiv.org/abs/2407.04172}]
+[[Paper](https://arxiv.org/abs/2407.04172)]
 
 9. mPLUG-Owl: Modularization Empowers Large Laguage Models with Multimodality
-[[Paper](https://arxiv.org/abs/2304.14178}]
+[[Paper](https://arxiv.org/abs/2304.14178)]
 
 **Chart-to-Code**
-1. ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via Chart-to-Code Generation[[Paper](https://arxiv.org/abs/2406.09961}]
+1. ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via Chart-to-Code Generation[[Paper](https://arxiv.org/abs/2406.09961)]
 
-2. Text2Chart31: Instruction Tuning for Chart Generation with Automatic Feedback[[Paper](https://arxiv.org/abs/2410.04064}]
+2. Text2Chart31: Instruction Tuning for Chart Generation with Automatic Feedback[[Paper](https://arxiv.org/abs/2410.04064)]
 
-3. Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation[[Paper](https://arxiv.org/abs/2508.13587}]
+3. Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation[[Paper](https://arxiv.org/abs/2508.13587)]
 
 #### 5.3.2 Video Analysis
 ##### Temporally-Anchored Approaches
