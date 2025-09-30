@@ -69,11 +69,11 @@ The **IaaS** concept for LLM data (phonetically echoing *Infrastructure as a Ser
   - [4.1 LLM for Data Manipulation](#41-llm-for-data-manipulation)
   - [4.2 LLM for Data Analysis](#42-llm-for-data-analysis)
   - [4.3 LLM for Data System Optimization](#43-llm-for-data-system-optimization)
-- [5 LLM/Agent as Data Analyst](#5-llm-as-data-analyst)
+<!-- - [5 LLM/Agent as Data Analyst](#5-llm-as-data-analyst)
    - [5.1 LLM/Agent for Structured Data Analysis](#51-llm-for-structured-data)
    - [5.2 LLM/Agent for Semi-Structured Data Analysis](#52-llm-for-semistructured-data)
    - [5.3 LLM/Agent for unstructured Data Analysis](#53-llm-for-unstructured-data)
-   - [5.4 LLM/Agent for Heterogeneous Data Analysis](#54-llm-for-heterogenous-data)
+   - [5.4 LLM/Agent for Heterogeneous Data Analysis](#54-llm-for-heterogenous-data) -->
 
 ## Datasets
 
@@ -1643,7 +1643,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 4. **LLM-Enhanced Data Management**     
    Xuanhe Zhou, Xinyang Zhao, Guoliang Li. *arXiv 2024*. [[Paper](https://doi.org/10.48550/arXiv.2402.02643)]
 
-## 5 LLM/Agent as Data Analyst
+<!-- ## 5 LLM/Agent as Data Analyst
 
 ### 5.1 LLM/Agent for Structured Data Analysis
 
@@ -1886,4 +1886,4 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 ### 5.4 LLM/Agent for Heterogeneous Data Analysis
 
-
+ -->
