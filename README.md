@@ -1931,6 +1931,65 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 3. Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation[[Paper](https://arxiv.org/abs/2508.13587}]
 
 #### 5.3.2 Video Analysis
+#####Temporally-Anchored Approaches
+
+1.Timemarker: A versatile video-llm for long and short video understanding with superior temporal localization ability [[Paper](https://arxiv.org/abs/2411.18211)]
+
+2.Seq2time: Sequential knowledge transfer for video llm temporal grounding [[Paper](https://arxiv.org/abs/2411.16932)]
+
+3.Tempme: Video temporal token merging for efficient text-video retrieval [[Paper](https://arxiv.org/abs/2409.01156)]
+
+4.Video token merging for long-form video understanding [[Paper](https://arxiv.org/abs/2410.23782)]
+
+6.Grounded-videollm: Sharpening fine-grained temporal grounding in video large language models [[Paper](https://arxiv.org/abs/2410.03290)]
+
+#####Instruction-Aware Relative Temporal Localization
+
+1.From image to video, what do we need in multimodal llms? [[Paper](https://arxiv.org/abs/2404.11865)]
+
+2.Llms meet long video: Advancing long video comprehension with an interactive visual adapter in llms [[Paper](https://arxiv.org/abs/2402.13546)]
+
+
+#####Video Emotional Analysis
+
+1.Predicting Team Well-Being through Face Video Analysis with AI [[Paper](https://www.mdpi.com/2076-3417/14/3/1284)]
+
+2.AI based multimodal emotion and behavior analysis of interviewee [[Paper](https://www.researchgate.net/profile/Vijaya-Bharathi-Jagan/publication/370653388_I_NTERNATIONAL_J_OURNAL_OF_S_CIENTIFIC_R_ESEARCH_IN_E_NGINEERING_AND_M_ANAGEMENT_IJSREM_AI_Based_Multimodal_Emotion_and_Behavior_Analysis_of_Interviewee/links/645bd6d2f43b8a29ba40d2f8/I-NTERNATIONAL-J-OURNAL-OF-S-CIENTIFIC-R-ESEARCH-IN-E-NGINEERING-AND-M-ANAGEMENT-IJSREM-AI-Based-Multimodal-Emotion-and-Behavior-Analysis-of-Interviewee.pdf)]
+
+#####Object Detection
+
+1.Videorefer suite: Advancing spatial-temporal object understanding with video llm [[Paper](https://arxiv.org/abs/2501.00599)]
+
+2.Video summarisation with incident and context information using generative ai [[Paper](https://arxiv.org/abs/2501.04764)]
+
+3.Abnormal event detection in surveillance videos through LSTM auto-encoding and local minima assistance [[Paper](https://link.springer.com/content/pdf/10.1007/s43926-025-00127-3.pdf)]
+
+#####Gesture and Behavior Detection
+
+1.Utilizing multimodal large language models for video analysis of posture in studying collaborative learning: A case study [[Paper](https://learning-analytics.info/index.php/JLA/article/view/8595)]
+
+2.Artificial intelligence–powered 3D analysis of video-based caregiver-child interactions [[Paper](https://www.science.org/doi/full/10.1126/sciadv.adp4422)]
+
+#####Video Data for LLM
+
+1.VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding [[Paper](https://arxiv.org/abs/2507.13353)]
+
+2.Nuwa-infinity: Autoregressive over autoregressive generation for infinite visual synthesis [[Paper](https://arxiv.org/abs/2207.09814)]
+
+3.Text2video-zero: Text-to-image diffusion models are zero-shot video generators [[Paper](https://arxiv.org/abs/2303.13439)]
+
+4.Align your latents: High-resolution video synthesis with latent diffusion models [[Paper](https://arxiv.org/abs/2304.08818)]
+
+5.Sadtalker: Learning realistic 3d motion coefficients for stylized audio-driven single image talking face animation [[Paper](https://arxiv.org/abs/2211.12194)]
+
+6.DreamTalk: When Emotional Talking Head Generation Meets Diffusion Probabilistic Models [[Paper](https://arxiv.org/abs/2312.09767)]
+
+7.Disco: Disentangled control for realistic human dance generation [[Paper](https://arxiv.org/abs/2307.00040)]
+
+8.Imagen video: High definition video generation with diffusion models [[Paper](https://arxiv.org/abs/2210.02303)]
+
+9.Make-a-video: Text-to-video generation without text-video data [[Paper](https://arxiv.org/abs/2209.14792)]
+
 
 #### 5.3.3 Document Analysis
 
@@ -1938,6 +1997,55 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 #### 5.3.5 3D Model Analysis
 
+#####3D-Language Fusion
+1.3d-llm: Injecting the 3d world into large language models [[Paper](https://arxiv.org/abs/2307.12981)]
+
+2.3ur-llm: An end-to-end multimodal large language model for 3d scene understanding [[Paper](https://arxiv.org/abs/2501.07819)]
+
+3.Towards 3d molecule-text interpretation in language models [[Paper](https://arxiv.org/abs/2401.13923)]
+
+4.Proteinchat: Towards achieving chatgpt-like functionalities on protein 3d structures [[Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.23120606)]
+
+5.Protchatgpt: Towards understanding proteins with large language models [[Paper](https://arxiv.org/abs/2402.09649)]
+
+#####3D-Derived Task Enhancement
+1.Do Large Language Models Truly Understand Geometric Structures? [[Paper](https://arxiv.org/abs/2501.13773)]
+
+2.3DSMILES-GPT: 3D molecular pocket-based generation with token-only large language model [[Paper](https://pubs.rsc.org/en/content/articlehtml/2024/sc/d4sc06864e)]
+
+3.SMILES, a chemical language and information system. 1. Introduction to methodology and encoding rules [[Paper](https://pubs.acs.org/doi/pdf/10.1021/ci00057a005)]
+
+4.ProtChat: An AI Multi-Agent for Automated Protein Analysis Leveraging GPT-4 and Protein Language Model [[Paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.4c01345)]
+
+5.A multimodal protein representation framework for quantifying transferability across biochemical downstream tasks [[Paper](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202301223)]
+
+#####Cross-modal Capability Refinement
+1.Self-supervised image-based 3d model retrieval [[Paper](https://dl.acm.org/doi/abs/10.1145/3548690)]
+
+2.Llmi3d: Empowering llm with 3d perception from a single 2d image [[Paper](https://arxiv.org/abs/2408.07422)]
+
+#####3-D data for LLM
+1.Fantasia3d: Disentangling geometry and appearance for high-quality text-to-3d content creation [[Paper](https://arxiv.org/abs/2303.13873)]
+
+2.Sweetdreamer: Aligning geometric priors in 2d diffusion for consistent text-to-3d [[Paper](https://arxiv.org/abs/2310.02596)]
+
+3.Richdreamer: A generalizable normal-depth diffusion model for detail richness in text-to-3d [[Paper](https://arxiv.org/abs/2311.16918)]
+
+4.Zero-1-to-3: Zero-shot one image to 3d object [[Paper](https://arxiv.org/abs/2303.11328)]
+
+5.Hunyuan3d 1.0: A unified framework for text-to-3d and image-to-3d generation [[Paper](https://arxiv.org/abs/2411.02293)]
+
+6.Craftsman3d: High-fidelity mesh generation with 3d native generation and interactive geometry refiner [[Paper](https://arxiv.org/abs/2405.14979)]
+
+7.Direct3d: Scalable image-to-3d generation via 3d latent diffusion transformer [[Paper](https://arxiv.org/abs/2405.14832)]
+
+8.Meshanything: Artist-created mesh generation with autoregressive transformers [[Paper](https://arxiv.org/abs/2406.10163)]
+
+9.Llama-mesh: Unifying 3d mesh generation with language models [[Paper](https://arxiv.org/abs/2411.09595)]
+
+
+
 ### 5.4 LLM/Agent for Heterogeneous Data Analysis
 
  -->
+
