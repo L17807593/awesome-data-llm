@@ -1,7 +1,5 @@
 # A Survey of LLM × DATA
 
-
-
 > A collection of papers and projects related to LLMs and corresponding data-centric methods. [![arXiv](https://camo.githubusercontent.com/dc1f84975e5d05724930d5c650e4b6eaea49e9f4c03d00de50bd7bf950394b4f/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f6261646765732f7261772f6d61696e2f70617065722d706167652d736d2d6461726b2e737667)](https://arxiv.org/abs/2505.18458)
 >
 > Other publicly-available materials: [[Slide]](./assets/DATA4LLM-en-v1.pdf)
@@ -16,6 +14,12 @@
     journal={arXiv preprint arXiv:2505.18458},
     url={https://arxiv.org/abs/2505.18458}
 }
+@article{tangllmasanalyst,
+    title={LLM/Agent-as-Data-Analyst: A Survey},
+    author={Zirui Tang, Weizheng Wang, Zihang Zhou, Yang Jiao, Bangrui Xu, Boyu Niu, Xuanhe Zhou, Guoliang Li, Yeye He, Wei Zhou, Yitong Song, Cheng Tan, Bin Wang, Conghui He, Xiaoyang Wang, Fan Wu},
+    year={2025},
+    journal={arXiv preprint arXiv:2509.23988},
+    url={https://arxiv.org/abs/2509.23988}
 }
 ```
 
@@ -29,7 +33,9 @@ The **IaaS** concept for LLM data (phonetically echoing *Infrastructure as a Ser
 
 [![Cover](https://github.com/SUPERZJ827/LLM4DB/raw/main/assets/iaas_overview_v2.png)](https://github.com/SUPERZJ827/LLM4DB/blob/main/assets/iaas_overview_v2.png)
 
-## 🌟 The Evolution of LLM/Agent-as-Data-Analyst Techniques
+## 🌟 LLM/Agent-as-Data-Analyst
+
+We observe the evolution of **LLM/Agent-as-Data-Analyst** techniques follows a five-dimension trajectory: (1) Data Modality (homogeneous → heterogeneous); (2) Analysis Functionality (literal → semantic); (3) Knowledge Scope (closed-world →open-world); (4) Tool Integration (tool-coupled → tool-assisted); (5) Development Autonomy (manual → fully autonomous).
 
 [![Cover2](./assets/data_analysis_survey.png)](./assets/data_analysis_survey.png)
 
@@ -69,11 +75,11 @@ The **IaaS** concept for LLM data (phonetically echoing *Infrastructure as a Ser
   - [4.1 LLM for Data Manipulation](#41-llm-for-data-manipulation)
   - [4.2 LLM for Data Analysis](#42-llm-for-data-analysis)
   - [4.3 LLM for Data System Optimization](#43-llm-for-data-system-optimization)
-<!-- - [5 LLM/Agent as Data Analyst](#5-llm-as-data-analyst)
-   - [5.1 LLM/Agent for Structured Data Analysis](#51-llm-for-structured-data)
-   - [5.2 LLM/Agent for Semi-Structured Data Analysis](#52-llm-for-semistructured-data)
-   - [5.3 LLM/Agent for unstructured Data Analysis](#53-llm-for-unstructured-data)
-   - [5.4 LLM/Agent for Heterogeneous Data Analysis](#54-llm-for-heterogenous-data) -->
+- [5 LLM as Data Analyst](#5-llm-as-data-analyst)
+   - [5.1 LLM for Structured Data Analysis](#51-llm-for-structured-data-analysis)
+   - [5.2 LLM for Semi-Structured Data Analysis](#52-llm-for-semistructured-data-analysis)
+   - [5.3 LLM for unstructured Data Analysis](#53-llm-for-unstructured-data-analysis)
+   - [5.4 LLM for Heterogeneous Data Analysis](#54-llm-for-heterogeneous-data-analysis)
 
 ## Datasets
 
@@ -1643,15 +1649,21 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 4. **LLM-Enhanced Data Management**     
    Xuanhe Zhou, Xinyang Zhao, Guoliang Li. *arXiv 2024*. [[Paper](https://doi.org/10.48550/arXiv.2402.02643)]
 
-<!-- ## 5 LLM/Agent as Data Analyst
+## 5 LLM as Data Analyst
 
-### 5.1 LLM/Agent for Structured Data Analysis
+### 5.1 LLM for Structured Data Analysis
 
 #### 5.1.1 Relational Data
 
+1. **A relational model of data for large shared data banks.** [[Paper](https://dl.acm.org/doi/abs/10.1145/362384.362685)]
+
+2. **Multilinear tensor regression for longitudinal relational data** [[Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC4957660/)]
+
+3. **Probabilistic classification and clustering in relational data** [[Paper](http://robotics.stanford.edu/~koller/Papers/Taskar+al:IJCAI01.pdf)]
+
+4. **Outlier detection in relational data: A case study in geographical information systems** [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417411014485)]
+
 ##### NL2SQL
-
-
 
 1. **Finsql: Model-agnostic llms-based text-to-sql framework for financial analysis** [[Paper](https://dl.acm.org/doi/abs/10.1145/3626246.3653375)]
 
@@ -1674,6 +1686,12 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 10. **Bridging the semantic gap between text and table: A case study on nl2sql** [[Paper](https://openreview.net/forum?id=qmsX2R19p9)]
 
 11. **The dawn of natural language to sql: Are we fully ready?** [[Paper](https://arxiv.org/abs/2406.01265)]
+
+12. **A Survey of Text-to-SQL in the Era of LLMs: Where Are We, and Where Are We Going?** [[Paper](https://ieeexplore.ieee.org/abstract/document/11095853/)]
+
+13. **Natural Language to SQL: State of the Art and Open Problems** [[Paper]([https://ieeexplore.ieee.org/abstract/document/11095853/](https://dl.acm.org/doi/abs/10.14778/3750601.3750696))]
+
+14. **A survey on employing large language models for text-to-sql tasks** [[Paper]([https://ieeexplore.ieee.org/abstract/document/11095853/](https://dl.acm.org/doi/abs/10.1145/3737873))]
 
 ##### NL2Code
 
@@ -1774,7 +1792,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 7. Large language models are few-shot multivariate time series classifiers. [[Paper](https://link.springer.com/article/10.1007/s10618-025-01145-z)]
 
-#### Graph Data Analysis
+#### 5.1.2 Graph Data Analysis
 1. A comparison of current graph database models [[Paper](https://ieeexplore.ieee.org/abstract/document/6313676)]
 
 **Natural Language To Graph Analysis Query.**
@@ -1832,7 +1850,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 3. Call me when necessary: Llms can efficiently and faithfully reason over structured environments [[Paper](https://arxiv.org/abs/2403.08593)]
 
-#### Structured Data Generation for LLM
+#### 5.1.3 Structured Data Generation for LLM
 
 1. Compositional Semantic Parsing on Semi-Structured Tables [[Paper](https://arxiv.org/abs/1508.00305)]
 
@@ -1862,17 +1880,75 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 2. A temporal knowledge graph generation dataset supervised distantly by large language models [[Paper](https://www.nature.com/articles/s41597-025-05062-0)]
 
-#### 5.1.2 Graph Data
 
 
-### 5.2 LLM/Agent for Semi-Structured Data Analysis
+### 5.2 LLM for Semi-Structured Data Analysis
 
 #### 5.2.1 Markup Language
 
+**Markup Extraction.**
+
+1. Language models enable simple systems for generating structured views of heterogeneous data lakes
+[[Paper](https://arxiv.org/abs/2304.09433)]
+
+2. Webformer: The web-page transformer for structure information extraction
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512032)]
+
+**Markup Query.**
+
+1. XPath Agent: An Efficient XPath Programming Agent Based on LLM for Web Crawler
+[[Paper](https://arxiv.org/abs/2502.15688)]
+
+2. Bridging the gap: Enabling natural language queries for nosql databases through text-to-nosql translation
+[[Paper](https://arxiv.org/abs/2502.11201)]
+
+**Markup Understanding.**
+
+1. Dom-lm: Learning generalizable representations for html documents
+[[Paper](https://arxiv.org/abs/2201.10608)]
+
+2. Markuplm: Pre-training of text and markup language for visually-rich document understanding
+[[Paper](https://arxiv.org/abs/2110.08518)]
+
+3. Hierarchical multimodal pre-training for visually rich webpage understanding
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635753)]
+
 #### 5.2.2 Semi-Structured Table
 
+**Table Representation.**
 
-### 5.3 LLM/Agent for Unstructured Data Analysis
+1. Tuta: Tree-based transformers for generally structured table pre-training
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467434)]
+
+2. ST-Raptor: LLM-Powered Semi-Structured Table Question Answering
+[[Paper](https://arxiv.org/abs/2508.18190)]
+
+3. Reasoning and Retrieval for Complex Semi-structured Tables via Reinforced Relational Data Transformation
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3726302.3730071)]
+
+4. Auto-Tables: Synthesizing Multi-Step Transformations to Relationalize Tables without Using Examples
+[[Paper](https://arxiv.org/abs/2307.14565)]
+
+5. Can an LLM find its way around a Spreadsheet?
+[[Paper](https://vtechworks.lib.vt.edu/items/51d233b7-b566-4e55-9ba6-8f5d7ca8a256)]
+
+**Table Prompting.**
+
+1. SpreadsheetLLM: encoding spreadsheets for large language models
+[[Paper](https://arxiv.org/abs/2407.09025)]
+
+2. HySem: A context length optimized LLM pipeline for unstructured tabular extraction
+[[Paper](https://openreview.net/forum?id=1f6SIVYExy#discussion)]
+
+**Table Querying.**
+
+1. SpreadsheetLLM: encoding spreadsheets for large language models
+[[Paper](https://arxiv.org/abs/2407.09025)]
+
+2. ST-Raptor: LLM-Powered Semi-Structured Table Question Answering
+[[Paper](https://arxiv.org/abs/2508.18190)]
+
+### 5.3 LLM for Unstructured Data Analysis
 
 #### 5.3.1 Chart Analysis
 
@@ -1895,26 +1971,26 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 6. Unichart: A universal vision-language pretrained model for chart comprehension and reasoning[[Paper](https://arxiv.org/abs/2305.14761)]
 
 **Chart Question Answering**
-7. ChartLlama: A Multimodal LLM for Chart Undestanding and Generation
+1. ChartLlama: A Multimodal LLM for Chart Undestanding and Generation
 [[Paper](https://arxiv.org/abs/2311.16483)]
 
-8. ChartBench: A Benchmark for Complex Visual easoning in Charts
+2. ChartBench: A Benchmark for Complex Visual easoning in Charts
 [[Paper](https://arxiv.org/abs/2312.15915)]
 
-9. Evochart: A benchmark and a self-training approach towards real-world chart understanding[[Paper](https://arxiv.org/abs/2409.01577)]
+3. Evochart: A benchmark and a self-training approach towards real-world chart understanding[[Paper](https://arxiv.org/abs/2409.01577)]
 
-10. Chartinsights: Evaluating multimodal large language models for low-level chart question answering[[Paper](https://arxiv.org/abs/2405.07001)]
+4. Chartinsights: Evaluating multimodal large language models for low-level chart question answering[[Paper](https://arxiv.org/abs/2405.07001)]
 
-11. Vizability: Enhancing chart accessibility with llm-based conversational interaction[[Paper](https://arxiv.org/abs/2310.09611)]
+5. Vizability: Enhancing chart accessibility with llm-based conversational interaction[[Paper](https://arxiv.org/abs/2310.09611)]
 
-12. Charts-of-Thought: Enhancing LLM Visualization Literacy Through Structured Data Extraction[[Paper](https://arxiv.org/abs/2508.04842)]
+6. Charts-of-Thought: Enhancing LLM Visualization Literacy Through Structured Data Extraction[[Paper](https://arxiv.org/abs/2508.04842)]
 
-13. ChartMoE: Mixture of Diversely Aligned Expert Connector for Chart Understanding[[Paper](https://arxiv.org/abs/2409.03277)]
+7. ChartMoE: Mixture of Diversely Aligned Expert Connector for Chart Understanding[[Paper](https://arxiv.org/abs/2409.03277)]
 
-14. ChartGemma: Visual Instruction-tuning for Cart Reasoning in the Wild
+8. ChartGemma: Visual Instruction-tuning for Cart Reasoning in the Wild
 [[Paper](https://arxiv.org/abs/2407.04172)]
 
-15. mPLUG-Owl: Modularization Empowers Large Laguage Models with Multimodality
+9. mPLUG-Owl: Modularization Empowers Large Laguage Models with Multimodality
 [[Paper](https://arxiv.org/abs/2304.14178)]
 
 **Chart-to-Code**
@@ -1925,6 +2001,65 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 3. Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation[[Paper](https://arxiv.org/abs/2508.13587)]
 
 #### 5.3.2 Video Analysis
+##### Temporally-Anchored Approaches
+
+1. Timemarker: A versatile video-llm for long and short video understanding with superior temporal localization ability [[Paper](https://arxiv.org/abs/2411.18211)]
+
+2. Seq2time: Sequential knowledge transfer for video llm temporal grounding [[Paper](https://arxiv.org/abs/2411.16932)]
+
+3. Tempme: Video temporal token merging for efficient text-video retrieval [[Paper](https://arxiv.org/abs/2409.01156)]
+
+4. Video token merging for long-form video understanding [[Paper](https://arxiv.org/abs/2410.23782)]
+
+5. Grounded-videollm: Sharpening fine-grained temporal grounding in video large language models [[Paper](https://arxiv.org/abs/2410.03290)]
+
+##### Instruction-Aware Relative Temporal Localization
+
+1. From image to video, what do we need in multimodal llms? [[Paper](https://arxiv.org/abs/2404.11865)]
+
+2. LLMs meet long video: Advancing long video comprehension with an interactive visual adapter in llms [[Paper](https://arxiv.org/abs/2402.13546)]
+
+
+##### Video Emotional Analysis
+
+1. Predicting Team Well-Being through Face Video Analysis with AI [[Paper](https://www.mdpi.com/2076-3417/14/3/1284)]
+
+2. AI based multimodal emotion and behavior analysis of interviewee [[Paper](https://www.researchgate.net/profile/Vijaya-Bharathi-Jagan/publication/370653388_I_NTERNATIONAL_J_OURNAL_OF_S_CIENTIFIC_R_ESEARCH_IN_E_NGINEERING_AND_M_ANAGEMENT_IJSREM_AI_Based_Multimodal_Emotion_and_Behavior_Analysis_of_Interviewee/links/645bd6d2f43b8a29ba40d2f8/I-NTERNATIONAL-J-OURNAL-OF-S-CIENTIFIC-R-ESEARCH-IN-E-NGINEERING-AND-M-ANAGEMENT-IJSREM-AI-Based-Multimodal-Emotion-and-Behavior-Analysis-of-Interviewee.pdf)]
+
+##### Object Detection
+
+1. Videorefer suite: Advancing spatial-temporal object understanding with video llm [[Paper](https://arxiv.org/abs/2501.00599)]
+
+2. Video summarisation with incident and context information using generative ai [[Paper](https://arxiv.org/abs/2501.04764)]
+
+3. Abnormal event detection in surveillance videos through LSTM auto-encoding and local minima assistance [[Paper](https://link.springer.com/content/pdf/10.1007/s43926-025-00127-3.pdf)]
+
+##### Gesture and Behavior Detection
+
+1. Utilizing multimodal large language models for video analysis of posture in studying collaborative learning: A case study [[Paper](https://learning-analytics.info/index.php/JLA/article/view/8595)]
+
+2. Artificial intelligence–powered 3D analysis of video-based caregiver-child interactions [[Paper](https://www.science.org/doi/full/10.1126/sciadv.adp4422)]
+
+##### Video Data for LLM
+
+1. VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding [[Paper](https://arxiv.org/abs/2507.13353)]
+
+2. Nuwa-infinity: Autoregressive over autoregressive generation for infinite visual synthesis [[Paper](https://arxiv.org/abs/2207.09814)]
+
+3. Text2video-zero: Text-to-image diffusion models are zero-shot video generators [[Paper](https://arxiv.org/abs/2303.13439)]
+
+4. Align your latents: High-resolution video synthesis with latent diffusion models [[Paper](https://arxiv.org/abs/2304.08818)]
+
+5. Sadtalker: Learning realistic 3d motion coefficients for stylized audio-driven single image talking face animation [[Paper](https://arxiv.org/abs/2211.12194)]
+
+6. DreamTalk: When Emotional Talking Head Generation Meets Diffusion Probabilistic Models [[Paper](https://arxiv.org/abs/2312.09767)]
+
+7. Disco: Disentangled control for realistic human dance generation [[Paper](https://arxiv.org/abs/2307.00040)]
+
+8. Imagen video: High definition video generation with diffusion models [[Paper](https://arxiv.org/abs/2210.02303)]
+
+9. Make-a-video: Text-to-video generation without text-video data [[Paper](https://arxiv.org/abs/2209.14792)]
+
 
 #### 5.3.3 Document Analysis
 
@@ -1932,6 +2067,74 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 #### 5.3.5 3D Model Analysis
 
-### 5.4 LLM/Agent for Heterogeneous Data Analysis
+##### 3D-Language Fusion
+1. 3d-llm: Injecting the 3d world into large language models [[Paper](https://arxiv.org/abs/2307.12981)]
 
- -->
+2. 3ur-llm: An end-to-end multimodal large language model for 3d scene understanding [[Paper](https://arxiv.org/abs/2501.07819)]
+
+3. Towards 3d molecule-text interpretation in language models [[Paper](https://arxiv.org/abs/2401.13923)]
+
+4. Proteinchat: Towards achieving chatgpt-like functionalities on protein 3d structures [[Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.23120606)]
+
+5. Protchatgpt: Towards understanding proteins with large language models [[Paper](https://arxiv.org/abs/2402.09649)]
+
+##### 3D-Derived Task Enhancement
+1. Do Large Language Models Truly Understand Geometric Structures? [[Paper](https://arxiv.org/abs/2501.13773)]
+
+2. 3DSMILES-GPT: 3D molecular pocket-based generation with token-only large language model [[Paper](https://pubs.rsc.org/en/content/articlehtml/2024/sc/d4sc06864e)]
+
+3. SMILES, a chemical language and information system. 1. Introduction to methodology and encoding rules [[Paper](https://pubs.acs.org/doi/pdf/10.1021/ci00057a005)]
+
+4. ProtChat: An AI Multi-Agent for Automated Protein Analysis Leveraging GPT-4 and Protein Language Model [[Paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.4c01345)]
+
+5. A multimodal protein representation framework for quantifying transferability across biochemical downstream tasks [[Paper](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202301223)]
+
+##### Cross-modal Capability Refinement
+1. Self-supervised image-based 3d model retrieval [[Paper](https://dl.acm.org/doi/abs/10.1145/3548690)]
+
+2. Llmi3d: Empowering llm with 3d perception from a single 2d image [[Paper](https://arxiv.org/abs/2408.07422)]
+
+##### 3-D data for LLM
+1. Fantasia3d: Disentangling geometry and appearance for high-quality text-to-3d content creation [[Paper](https://arxiv.org/abs/2303.13873)]
+
+2. Sweetdreamer: Aligning geometric priors in 2d diffusion for consistent text-to-3d [[Paper](https://arxiv.org/abs/2310.02596)]
+
+3. Richdreamer: A generalizable normal-depth diffusion model for detail richness in text-to-3d [[Paper](https://arxiv.org/abs/2311.16918)]
+
+4. Zero-1-to-3: Zero-shot one image to 3d object [[Paper](https://arxiv.org/abs/2303.11328)]
+
+5. Hunyuan3d 1.0: A unified framework for text-to-3d and image-to-3d generation [[Paper](https://arxiv.org/abs/2411.02293)]
+
+6. Craftsman3d: High-fidelity mesh generation with 3d native generation and interactive geometry refiner [[Paper](https://arxiv.org/abs/2405.14979)]
+
+7. Direct3d: Scalable image-to-3d generation via 3d latent diffusion transformer [[Paper](https://arxiv.org/abs/2405.14832)]
+
+8. Meshanything: Artist-created mesh generation with autoregressive transformers [[Paper](https://arxiv.org/abs/2406.10163)]
+
+9. Llama-mesh: Unifying 3d mesh generation with language models [[Paper](https://arxiv.org/abs/2411.09595)]
+
+
+### 5.4 LLM for Heterogeneous Data Analysis
+
+#### 5.4.1 LLM for Modality Alignment
+
+1. Unicorn: a unified multi-tasking matching model
+[[Paper](https://dl.acm.org/doi/10.1145/3665252.3665263)]
+
+2. Symphony: Towards Natural Language Query Answering over Multi-modal Data Lakes. [[Paper](https://www.vldb.org/cidrdb/2023/symphony-towards-natural-language-query-answering-over-multi-modal-data-lakes.html)]
+
+#### 5.4.2 LLM for Heterogeneous Data Retrieval
+
+1. Lotus: Enabling semantic queries with llms over tables of unstructured and structured data [[Paper](https://arxiv.org/html/2407.11418v1)]
+
+2. Towards Operationalizing Heterogeneous Data Discovery [[Paper](https://arxiv.org/abs/2504.02059)]
+
+3. CAESURA: Language Models as Multi-Modal Query Planners [[Paper](https://arxiv.org/abs/2308.03424)]
+
+#### 5.4.3 Heterogeneous Data Analysis Agents
+
+1. Explainable Multi-Modal Data Exploration in Natural Language via LLM Agent [[Paper](https://arxiv.org/abs/2412.18428)]
+
+2. An Interactive Multi-modal Query Answering System with Retrieval-Augmented Large Language Models [[Paper](https://arxiv.org/abs/2407.04217)]
+
+3. Must: An effective and scalable framework for multimodal search of target modality [[Paper](https://arxiv.org/abs/2312.06397)]
