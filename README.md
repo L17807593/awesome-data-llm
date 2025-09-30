@@ -1869,8 +1869,69 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 #### 5.2.1 Markup Language
 
+#### 5.2.1 Markup Language
+
+**Markup Extraction.**
+
+1.Language models enable simple systems for generating structured views of heterogeneous data lakes
+[[Paper](https://arxiv.org/abs/2304.09433)]
+
+2.Webformer: The web-page transformer for structure information extraction
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512032)]
+
+**Markup Query.**
+
+1.XPath Agent: An Efficient XPath Programming Agent Based on LLM for Web Crawler
+[[Paper](https://arxiv.org/abs/2502.15688)]
+
+2.Bridging the gap: Enabling natural language queries for nosql databases through text-to-nosql translation
+[[Paper](https://arxiv.org/abs/2502.11201)]
+
+**Markup Understanding.**
+
+1.Dom-lm: Learning generalizable representations for html documents
+[[Paper](https://arxiv.org/abs/2201.10608)]
+
+2.Markuplm: Pre-training of text and markup language for visually-rich document understanding
+[[Paper](https://arxiv.org/abs/2110.08518)]
+
+3.Hierarchical multimodal pre-training for visually rich webpage understanding
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635753)]
+
 #### 5.2.2 Semi-Structured Table
 
+**Table Representation.**
+
+Tuta: Tree-based transformers for generally structured table pre-training
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467434)]
+
+ST-Raptor: LLM-Powered Semi-Structured Table Question Answering
+[[Paper](https://arxiv.org/abs/2508.18190)]
+
+Reasoning and Retrieval for Complex Semi-structured Tables via Reinforced Relational Data Transformation
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3726302.3730071)]
+
+Auto-Tables: Synthesizing Multi-Step Transformations to Relationalize Tables without Using Examples
+[[Paper](https://arxiv.org/abs/2307.14565)]
+
+Can an LLM find its way around a Spreadsheet?
+[[Paper](https://vtechworks.lib.vt.edu/items/51d233b7-b566-4e55-9ba6-8f5d7ca8a256)]
+
+**Table Prompting.**
+
+SpreadsheetLLM: encoding spreadsheets for large language models
+[[Paper](https://arxiv.org/abs/2407.09025)]
+
+HySem: A context length optimized LLM pipeline for unstructured tabular extraction
+[[Paper](https://openreview.net/forum?id=1f6SIVYExy#discussion)]
+
+**Table Querying.**
+
+SpreadsheetLLM: encoding spreadsheets for large language models
+[[Paper](https://arxiv.org/abs/2407.09025)]
+
+ST-Raptor: LLM-Powered Semi-Structured Table Question Answering
+[[Paper](https://arxiv.org/abs/2508.18190)]
 
 ### 5.3 LLM/Agent for Unstructured Data Analysis
 
@@ -1887,3 +1948,4 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 ### 5.4 LLM/Agent for Heterogeneous Data Analysis
 
  -->
+
