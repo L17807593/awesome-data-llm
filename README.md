@@ -1957,7 +1957,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 [[Paper](https://arxiv.org/abs/1801.08163)]
 
 **Chart Captioning**
-1。 Describing Complex Charts in Natural Language A Caption Generation System
+1. Describing Complex Charts in Natural Language A Caption Generation System
 [[Paper](https://aclanthology.org/J98-3004/)]
 
 2. An Architecture for Data-to-Text Systems[[Paper](https://aclanthology.org/W07-2315/)]
@@ -2136,5 +2136,6 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 1. Explainable Multi-Modal Data Exploration in Natural Language via LLM Agent [[Paper](https://arxiv.org/abs/2412.18428)]
 
 2. An Interactive Multi-modal Query Answering System with Retrieval-Augmented Large Language Models [[Paper](https://arxiv.org/abs/2407.04217)]
+
 
 3. Must: An effective and scalable framework for multimodal search of target modality [[Paper](https://arxiv.org/abs/2312.06397)]
