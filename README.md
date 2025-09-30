@@ -75,11 +75,11 @@ We observe the evolution of **LLM/Agent-as-Data-Analyst** techniques follows a f
   - [4.1 LLM for Data Manipulation](#41-llm-for-data-manipulation)
   - [4.2 LLM for Data Analysis](#42-llm-for-data-analysis)
   - [4.3 LLM for Data System Optimization](#43-llm-for-data-system-optimization)
-<!-- - [5 LLM/Agent as Data Analyst](#5-llm-as-data-analyst)
-   - [5.1 LLM/Agent for Structured Data Analysis](#51-llm-for-structured-data)
-   - [5.2 LLM/Agent for Semi-Structured Data Analysis](#52-llm-for-semistructured-data)
-   - [5.3 LLM/Agent for unstructured Data Analysis](#53-llm-for-unstructured-data)
-   - [5.4 LLM/Agent for Heterogeneous Data Analysis](#54-llm-for-heterogenous-data) -->
+- [5 LLM as Data Analyst](#5-llm-as-data-analyst)
+   - [5.1 LLM for Structured Data Analysis](#51-llm-for-structured-data-analysis)
+   - [5.2 LLM for Semi-Structured Data Analysis](#52-llm-for-semistructured-data-analysis)
+   - [5.3 LLM for unstructured Data Analysis](#53-llm-for-unstructured-data-analysis)
+   - [5.4 LLM for Heterogeneous Data Analysis](#54-llm-for-heterogenous-data-analysis)
 
 ## Datasets
 
@@ -1649,9 +1649,9 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 4. **LLM-Enhanced Data Management**     
    Xuanhe Zhou, Xinyang Zhao, Guoliang Li. *arXiv 2024*. [[Paper](https://doi.org/10.48550/arXiv.2402.02643)]
 
-<!-- ## 5 LLM/Agent as Data Analyst
+## 5 LLM as Data Analyst
 
-### 5.1 LLM/Agent for Structured Data Analysis
+### 5.1 LLM for Structured Data Analysis
 
 #### 5.1.1 Relational Data
 
@@ -1882,9 +1882,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 
 
-### 5.2 LLM/Agent for Semi-Structured Data Analysis
-
-#### 5.2.1 Markup Language
+### 5.2 LLM for Semi-Structured Data Analysis
 
 #### 5.2.1 Markup Language
 
@@ -1950,7 +1948,7 @@ SpreadsheetLLM: encoding spreadsheets for large language models
 ST-Raptor: LLM-Powered Semi-Structured Table Question Answering
 [[Paper](https://arxiv.org/abs/2508.18190)]
 
-### 5.3 LLM/Agent for Unstructured Data Analysis
+### 5.3 LLM for Unstructured Data Analysis
 
 #### 5.3.1 Chart Analysis
 
@@ -2003,7 +2001,7 @@ ST-Raptor: LLM-Powered Semi-Structured Table Question Answering
 3. Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation[[Paper](https://arxiv.org/abs/2508.13587}]
 
 #### 5.3.2 Video Analysis
-#####Temporally-Anchored Approaches
+##### Temporally-Anchored Approaches
 
 1.Timemarker: A versatile video-llm for long and short video understanding with superior temporal localization ability [[Paper](https://arxiv.org/abs/2411.18211)]
 
@@ -2015,20 +2013,20 @@ ST-Raptor: LLM-Powered Semi-Structured Table Question Answering
 
 6.Grounded-videollm: Sharpening fine-grained temporal grounding in video large language models [[Paper](https://arxiv.org/abs/2410.03290)]
 
-#####Instruction-Aware Relative Temporal Localization
+##### Instruction-Aware Relative Temporal Localization
 
 1.From image to video, what do we need in multimodal llms? [[Paper](https://arxiv.org/abs/2404.11865)]
 
 2.Llms meet long video: Advancing long video comprehension with an interactive visual adapter in llms [[Paper](https://arxiv.org/abs/2402.13546)]
 
 
-#####Video Emotional Analysis
+##### Video Emotional Analysis
 
 1.Predicting Team Well-Being through Face Video Analysis with AI [[Paper](https://www.mdpi.com/2076-3417/14/3/1284)]
 
 2.AI based multimodal emotion and behavior analysis of interviewee [[Paper](https://www.researchgate.net/profile/Vijaya-Bharathi-Jagan/publication/370653388_I_NTERNATIONAL_J_OURNAL_OF_S_CIENTIFIC_R_ESEARCH_IN_E_NGINEERING_AND_M_ANAGEMENT_IJSREM_AI_Based_Multimodal_Emotion_and_Behavior_Analysis_of_Interviewee/links/645bd6d2f43b8a29ba40d2f8/I-NTERNATIONAL-J-OURNAL-OF-S-CIENTIFIC-R-ESEARCH-IN-E-NGINEERING-AND-M-ANAGEMENT-IJSREM-AI-Based-Multimodal-Emotion-and-Behavior-Analysis-of-Interviewee.pdf)]
 
-#####Object Detection
+##### Object Detection
 
 1.Videorefer suite: Advancing spatial-temporal object understanding with video llm [[Paper](https://arxiv.org/abs/2501.00599)]
 
@@ -2036,13 +2034,13 @@ ST-Raptor: LLM-Powered Semi-Structured Table Question Answering
 
 3.Abnormal event detection in surveillance videos through LSTM auto-encoding and local minima assistance [[Paper](https://link.springer.com/content/pdf/10.1007/s43926-025-00127-3.pdf)]
 
-#####Gesture and Behavior Detection
+##### Gesture and Behavior Detection
 
 1.Utilizing multimodal large language models for video analysis of posture in studying collaborative learning: A case study [[Paper](https://learning-analytics.info/index.php/JLA/article/view/8595)]
 
 2.Artificial intelligence–powered 3D analysis of video-based caregiver-child interactions [[Paper](https://www.science.org/doi/full/10.1126/sciadv.adp4422)]
 
-#####Video Data for LLM
+##### Video Data for LLM
 
 1.VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding [[Paper](https://arxiv.org/abs/2507.13353)]
 
@@ -2069,7 +2067,7 @@ ST-Raptor: LLM-Powered Semi-Structured Table Question Answering
 
 #### 5.3.5 3D Model Analysis
 
-#####3D-Language Fusion
+##### 3D-Language Fusion
 1.3d-llm: Injecting the 3d world into large language models [[Paper](https://arxiv.org/abs/2307.12981)]
 
 2.3ur-llm: An end-to-end multimodal large language model for 3d scene understanding [[Paper](https://arxiv.org/abs/2501.07819)]
@@ -2080,7 +2078,7 @@ ST-Raptor: LLM-Powered Semi-Structured Table Question Answering
 
 5.Protchatgpt: Towards understanding proteins with large language models [[Paper](https://arxiv.org/abs/2402.09649)]
 
-#####3D-Derived Task Enhancement
+##### 3D-Derived Task Enhancement
 1.Do Large Language Models Truly Understand Geometric Structures? [[Paper](https://arxiv.org/abs/2501.13773)]
 
 2.3DSMILES-GPT: 3D molecular pocket-based generation with token-only large language model [[Paper](https://pubs.rsc.org/en/content/articlehtml/2024/sc/d4sc06864e)]
@@ -2091,12 +2089,12 @@ ST-Raptor: LLM-Powered Semi-Structured Table Question Answering
 
 5.A multimodal protein representation framework for quantifying transferability across biochemical downstream tasks [[Paper](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202301223)]
 
-#####Cross-modal Capability Refinement
+##### Cross-modal Capability Refinement
 1.Self-supervised image-based 3d model retrieval [[Paper](https://dl.acm.org/doi/abs/10.1145/3548690)]
 
 2.Llmi3d: Empowering llm with 3d perception from a single 2d image [[Paper](https://arxiv.org/abs/2408.07422)]
 
-#####3-D data for LLM
+##### 3-D data for LLM
 1.Fantasia3d: Disentangling geometry and appearance for high-quality text-to-3d content creation [[Paper](https://arxiv.org/abs/2303.13873)]
 
 2.Sweetdreamer: Aligning geometric priors in 2d diffusion for consistent text-to-3d [[Paper](https://arxiv.org/abs/2310.02596)]
@@ -2116,8 +2114,27 @@ ST-Raptor: LLM-Powered Semi-Structured Table Question Answering
 9.Llama-mesh: Unifying 3d mesh generation with language models [[Paper](https://arxiv.org/abs/2411.09595)]
 
 
+### 5.4 LLM for Heterogeneous Data Analysis
 
-### 5.4 LLM/Agent for Heterogeneous Data Analysis
+#### 5.4.1 LLM for Modality Alignment
 
- -->
+1. Unicorn: a unified multi-tasking matching model
+[[Paper](https://dl.acm.org/doi/10.1145/3665252.3665263)]
 
+2. Symphony: Towards Natural Language Query Answering over Multi-modal Data Lakes. [[Paper](https://www.vldb.org/cidrdb/2023/symphony-towards-natural-language-query-answering-over-multi-modal-data-lakes.html)]
+
+#### 5.4.2 LLM for Heterogeneous Data Retrieval
+
+1. Lotus: Enabling semantic queries with llms over tables of unstructured and structured data [[Paper](https://arxiv.org/html/2407.11418v1)]
+
+2. Towards Operationalizing Heterogeneous Data Discovery [[Paper](https://arxiv.org/abs/2504.02059)]
+
+3. CAESURA: Language Models as Multi-Modal Query Planners [[Paper](https://arxiv.org/abs/2308.03424)]
+
+#### 5.4.3 Heterogeneous Data Analysis Agents
+
+1. Explainable Multi-Modal Data Exploration in Natural Language via LLM Agent [[Paper](https://arxiv.org/abs/2412.18428)]
+
+2. An Interactive Multi-modal Query Answering System with Retrieval-Augmented Large Language Models [[Paper](https://arxiv.org/abs/2407.04217)]
+
+3. Must: An effective and scalable framework for multimodal search of target modality [[Paper](https://arxiv.org/abs/2312.06397)]
