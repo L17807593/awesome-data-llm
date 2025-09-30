@@ -16,14 +16,6 @@
     journal={arXiv preprint arXiv:2505.18458},
     url={https://arxiv.org/abs/2505.18458}
 }
-@misc{tang2025llmagentasdataanalystsurvey,
-      title={LLM/Agent-as-Data-Analyst: A Survey}, 
-      author={Zirui Tang and Weizheng Wang and Zihang Zhou and Yang Jiao and Bangrui Xu and Boyu Niu and Xuanhe Zhou and Guoliang Li and Yeye He and Wei Zhou and Yitong Song and Cheng Tan and Bin Wang and Conghui He and Xiaoyang Wang and Fan Wu},
-      year={2025},
-      eprint={2509.23988},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2509.23988}, 
 }
 ```
 
@@ -37,9 +29,9 @@ The **IaaS** concept for LLM data (phonetically echoing *Infrastructure as a Ser
 
 [![Cover](https://github.com/SUPERZJ827/LLM4DB/raw/main/assets/iaas_overview_v2.png)](https://github.com/SUPERZJ827/LLM4DB/blob/main/assets/iaas_overview_v2.png)
 
-## 🌟 
+## 🌟 The Evolution of LLM/Agent-as-Data-Analyst Techniques
 
-[![Cover2](https://github.com/SUPERZJ827/LLM4DB/raw/main/assets/data_analysis_survey.png)](https://github.com/SUPERZJ827/LLM4DB/blob/main/assets/data_analysis_survey.png)
+[![Cover2](./assets/data_analysis_survey.png)](./assets/data_analysis_survey.png)
 
 
 ## Table of Contents
