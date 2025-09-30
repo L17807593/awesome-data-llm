@@ -1649,9 +1649,15 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 #### 5.1.1 Relational Data
 
+1. **A relational model of data for large shared data banks.** [[Paper](https://dl.acm.org/doi/abs/10.1145/362384.362685)]
+
+2. **Multilinear tensor regression for longitudinal relational data** [[Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC4957660/)]
+
+3. **Probabilistic classification and clustering in relational data** [[Paper](http://robotics.stanford.edu/~koller/Papers/Taskar+al:IJCAI01.pdf)]
+
+4. **Outlier detection in relational data: A case study in geographical information systems** [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417411014485)]
+
 ##### NL2SQL
-
-
 
 1. **Finsql: Model-agnostic llms-based text-to-sql framework for financial analysis** [[Paper](https://dl.acm.org/doi/abs/10.1145/3626246.3653375)]
 
@@ -1674,6 +1680,12 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 10. **Bridging the semantic gap between text and table: A case study on nl2sql** [[Paper](https://openreview.net/forum?id=qmsX2R19p9)]
 
 11. **The dawn of natural language to sql: Are we fully ready?** [[Paper](https://arxiv.org/abs/2406.01265)]
+
+12. **A Survey of Text-to-SQL in the Era of LLMs: Where Are We, and Where Are We Going?** [[Paper](https://ieeexplore.ieee.org/abstract/document/11095853/)]
+
+13. **Natural Language to SQL: State of the Art and Open Problems** [[Paper]([https://ieeexplore.ieee.org/abstract/document/11095853/](https://dl.acm.org/doi/abs/10.14778/3750601.3750696))]
+
+14. **A survey on employing large language models for text-to-sql tasks** [[Paper]([https://ieeexplore.ieee.org/abstract/document/11095853/](https://dl.acm.org/doi/abs/10.1145/3737873))]
 
 ##### NL2Code
 
@@ -1774,7 +1786,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 7. Large language models are few-shot multivariate time series classifiers. [[Paper](https://link.springer.com/article/10.1007/s10618-025-01145-z)]
 
-#### Graph Data Analysis
+#### 5.1.2 Graph Data Analysis
 1. A comparison of current graph database models [[Paper](https://ieeexplore.ieee.org/abstract/document/6313676)]
 
 **Natural Language To Graph Analysis Query.**
@@ -1832,7 +1844,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 3. Call me when necessary: Llms can efficiently and faithfully reason over structured environments [[Paper](https://arxiv.org/abs/2403.08593)]
 
-#### Structured Data Generation for LLM
+#### 5.1.3 Structured Data Generation for LLM
 
 1. Compositional Semantic Parsing on Semi-Structured Tables [[Paper](https://arxiv.org/abs/1508.00305)]
 
@@ -1862,7 +1874,6 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 2. A temporal knowledge graph generation dataset supervised distantly by large language models [[Paper](https://www.nature.com/articles/s41597-025-05062-0)]
 
-#### 5.1.2 Graph Data
 
 
 ### 5.2 LLM/Agent for Semi-Structured Data Analysis
@@ -1887,3 +1898,4 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 ### 5.4 LLM/Agent for Heterogeneous Data Analysis
 
  -->
+
