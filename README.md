@@ -79,7 +79,7 @@ We observe the evolution of **LLM/Agent-as-Data-Analyst** techniques follows a f
    - [5.1 LLM for Structured Data Analysis](#51-llm-for-structured-data-analysis)
    - [5.2 LLM for Semi-Structured Data Analysis](#52-llm-for-semistructured-data-analysis)
    - [5.3 LLM for unstructured Data Analysis](#53-llm-for-unstructured-data-analysis)
-   - [5.4 LLM for Heterogeneous Data Analysis](#54-llm-for-heterogenous-data-analysis)
+   - [5.4 LLM for Heterogeneous Data Analysis](#54-llm-for-heterogeneous-data-analysis)
 
 ## Datasets
 
