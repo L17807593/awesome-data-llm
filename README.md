@@ -73,7 +73,7 @@ We observe the evolution of **LLM/Agent-as-Data-Analyst** techniques follows a f
   - [3.4 Data Provenance](#34-data-provenance)
 - [4 LLM for Data Management](#4-llm-for-data-management)
   - [4.1 LLM for Data Manipulation](#41-llm-for-data-manipulation)
-  - [4.2 LLM for Data System Optimization](#43-llm-for-data-system-optimization)
+  - [4.2 LLM for Data System Optimization](#42-llm-for-data-system-optimization)
 - [5 LLM as Data Analyst](#5-llm-as-data-analyst)
    - [5.1 LLM for Structured Data Analysis](#51-llm-for-structured-data-analysis)
    - [5.2 LLM for Semi-Structured Data Analysis](#52-llm-for-semistructured-data-analysis)
