@@ -2065,58 +2065,159 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 #### 5.3.3 Document Analysis
 
 1. M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding [[Paper](https://arxiv.org/abs/2411.04952)]
+
 2. SV-RAG: LoRA-Contextualizing Adaptation of MLLMs for Long Document Understanding [[Paper](https://arxiv.org/abs/2411.01106)]
+
 3. VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding [[Paper](https://arxiv.org/abs/2407.12594)]
+
 4. DocFormer: End-to-End Transformer for Document Understanding [[Paper](https://arxiv.org/abs/2106.11539)]
+
 5. VLCDoC: Vision-Language contrastive pre-training model for cross-Modal document classification [[Paper](https://arxiv.org/abs/2205.12029)]
+
 6. Efficient End-to-End Visual Document Understanding with Rationale Distillation [[Paper](https://arxiv.org/abs/2311.09612)]
+
 7. LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking [[Paper](https://arxiv.org/abs/2204.08387)]
+
 8. MMP: Towards Robust Multi-Modal Learning with Masked Modality Projection [[Paper](https://arxiv.org/abs/2410.03010)]
+
 9. Unifying Layout Generation with a Decoupled Diffusion Model [[Paper](https://arxiv.org/abs/2303.05049)]
+
 10. LayoutDM: Discrete Diffusion Model for Controllable Layout Generation [[Paper](https://arxiv.org/abs/2303.08137)]
+
 11. FUNSD: A Dataset for Form Understanding in Noisy Scanned Documents [[Paper](https://arxiv.org/abs/1905.13538)]
+
 12. ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision [[Paper](https://arxiv.org/abs/2102.03334)]
+
 13. VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation [[Paper](https://arxiv.org/abs/2412.10704)]
+
 14. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks [[Paper](https://arxiv.org/abs/2005.11401)]
+
 15. MissModal: Increasing Robustness to Missing Modality in Multimodal Sentiment Analysis [[Paper](https://doi.org/10.1162/tacl_a_00628)]
+
 16. CREPE: Coordinate-Aware End-to-End Document Parser [[Paper](https://arxiv.org/abs/2405.00260)]
+
 17. LTSim: Layout Transportation-based Similarity Measure for Evaluating Layout Generation [[Paper](https://arxiv.org/abs/2407.12356)]
+
 18. AesthetiQ: Enhancing Graphic Layout Design via Aesthetic-Aware Preference Alignment of Multi-modal Large Language Models [[Paper](https://arxiv.org/abs/2503.00591)]
+
 19. Automatic generation of scientific papers for data augmentation in document layout analysis [[Paper](https://doi.org/10.1016/j.patrec.2023.01.011)]
+
 20. PosterLlama: Bridging Design Ability of Language Model to Content-Aware Layout Generation [[Paper](https://arxiv.org/abs/2404.00995)]
+
 21. LayoutCoT: Chain-of-Thought Prompting for Layout Generation [[Paper](https://arxiv.org/abs/2504.10829)]
+
 22. SciPostLayout: A Dataset for Layout Analysis and Layout Generation of Scientific Posters [[Paper](https://arxiv.org/abs/2407.19787)]
+
 23. OmniParser: A Unified Framework for Text Spotting, Key Information Extraction and Table Recognition [[Paper](https://arxiv.org/abs/2403.19128)]
+
 24. DLAFormer: An End-to-End Transformer For Document Layout Analysis [[Paper](https://arxiv.org/abs/2405.11757)]
+
 25. DocLLM: A layout-aware generative language model for multimodal document understanding [[Paper](https://arxiv.org/abs/2401.00908)]
+
 26. LayoutLM: Pre-training of Text and Layout for Document Image Understanding [[Paper](https://arxiv.org/abs/1912.13318)]
+
 27. LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding [[Paper](https://arxiv.org/abs/2012.14740)]
+
 28. Corrective Retrieval Augmented Generation [[Paper](https://arxiv.org/abs/2401.15884)]
+
 29. RAFT: Adapting Language Model to Domain Specific RAG [[Paper](https://arxiv.org/abs/2403.10131)]
+
 30. VASCAR: Content-Aware Layout Generation via Visual-Spatial Self-Correction [[Paper](https://arxiv.org/abs/2412.04237)]
 
 #### 5.3.4 Program Analysis
 
 1. Automatic Semantic Augmentation of Language Model Prompts (for Code Summarization) [[Paper](https://arxiv.org/abs/2304.06815)]
+
 2. Teaching Large Language Models to Self-Debug [[Paper](https://arxiv.org/abs/2304.05128)]
+
 3. Syntax-directed variational autoencoder for structured data [[Paper](https://arxiv.org/abs/1802.08786)]
+
 4. Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning [[Paper](https://arxiv.org/abs/2304.11384)]
+
 5. FT2Ra: A Fine-Tuning-Inspired Approach to Retrieval-Augmented Code Completion [[Paper](https://arxiv.org/abs/2404.01554)]
+
 6. Composing graphical models with neural networks for structured representations and fast inference [[Paper](https://arxiv.org/abs/1603.06277)]
+
 7. Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning [[Paper](https://arxiv.org/abs/2504.11354)]
+
 8. REPOFUSE: Repository-Level Code Completion with Fused Dual Context [[Paper](https://arxiv.org/abs/2402.14323)]
+
 9. Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving [[Paper](https://arxiv.org/abs/2502.07640)]
+
 10. Software Vulnerability Detection with GPT and In-Context Learning [[Paper](https://doi.org/10.1109/DSC59305.2023.00041)]
+
 11. Pre-training by Predicting Program Dependencies for Vulnerability Analysis Tasks [[Paper](https://arxiv.org/abs/2402.00657)]
+
 12. WizardCoder: Empowering Code Large Language Models with Evol-Instruct [[Paper](https://arxiv.org/abs/2306.08568)]
+
 13. SCLA: Automated Smart Contract Summarization via LLMs and Semantic Augmentation [[Paper](https://arxiv.org/abs/2402.04863)]
+
 14. Self-Instruct: Aligning Language Models with Self-Generated Instructions [[Paper](https://arxiv.org/abs/2212.10560)]
+
 15. Magicoder: Empowering Code Generation with OSS-Instruct [[Paper](https://arxiv.org/abs/2312.02120)]
+
 16. Repoformer: Selective Retrieval for Repository-Level Code Completion [[Paper](https://arxiv.org/abs/2403.10059)]
+
 17. DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data [[Paper](https://arxiv.org/abs/2405.14333)]
+
 18. Vulnerability Detection by Learning From Syntax-Based Execution Paths of Code [[Paper](https://doi.org/10.1109/TSE.2023.3286586)]
+
 19. RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation [[Paper](https://arxiv.org/abs/2303.12570)]
+
 20. Large Language Model for Vulnerability Detection: Emerging Results and Future Directions [[Paper](https://arxiv.org/abs/2401.15468)]
+
+#### 5.3.5 3D Model Analysis
+
+##### 3D-Language Fusion
+
+1. 3d-llm: Injecting the 3d world into large language models [[Paper](https://arxiv.org/abs/2307.12981)]
+
+2. 3ur-llm: An end-to-end multimodal large language model for 3d scene understanding [[Paper](https://arxiv.org/abs/2501.07819)]
+
+3. Towards 3d molecule-text interpretation in language models [[Paper](https://arxiv.org/abs/2401.13923)]
+
+4. Proteinchat: Towards achieving chatgpt-like functionalities on protein 3d structures [[Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.23120606)]
+
+5. Protchatgpt: Towards understanding proteins with large language models [[Paper](https://arxiv.org/abs/2402.09649)]
+
+##### 3D-Derived Task Enhancement
+
+1. Do Large Language Models Truly Understand Geometric Structures? [[Paper](https://arxiv.org/abs/2501.13773)]
+
+2. 3DSMILES-GPT: 3D molecular pocket-based generation with token-only large language model [[Paper](https://pubs.rsc.org/en/content/articlehtml/2024/sc/d4sc06864e)]
+
+3. SMILES, a chemical language and information system. 1. Introduction to methodology and encoding rules [[Paper](https://pubs.acs.org/doi/pdf/10.1021/ci00057a005)]
+
+4. ProtChat: An AI Multi-Agent for Automated Protein Analysis Leveraging GPT-4 and Protein Language Model [[Paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.4c01345)]
+
+5. A multimodal protein representation framework for quantifying transferability across biochemical downstream tasks [[Paper](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202301223)]
+
+##### Cross-modal Capability Refinement
+
+1. Self-supervised image-based 3d model retrieval [[Paper](https://dl.acm.org/doi/abs/10.1145/3548690)]
+
+2. Llmi3d: Empowering llm with 3d perception from a single 2d image [[Paper](https://arxiv.org/abs/2408.07422)]
+
+##### 3-D data for LLM
+
+1. Fantasia3d: Disentangling geometry and appearance for high-quality text-to-3d content creation [[Paper](https://arxiv.org/abs/2303.13873)]
+
+2. Sweetdreamer: Aligning geometric priors in 2d diffusion for consistent text-to-3d [[Paper](https://arxiv.org/abs/2310.02596)]
+
+3. Richdreamer: A generalizable normal-depth diffusion model for detail richness in text-to-3d [[Paper](https://arxiv.org/abs/2311.16918)]
+
+4. Zero-1-to-3: Zero-shot one image to 3d object [[Paper](https://arxiv.org/abs/2303.11328)]
+
+5. Hunyuan3d 1.0: A unified framework for text-to-3d and image-to-3d generation [[Paper](https://arxiv.org/abs/2411.02293)]
+
+6. Craftsman3d: High-fidelity mesh generation with 3d native generation and interactive geometry refiner [[Paper](https://arxiv.org/abs/2405.14979)]
+
+7. Direct3d: Scalable image-to-3d generation via 3d latent diffusion transformer [[Paper](https://arxiv.org/abs/2405.14832)]
+
+8. Meshanything: Artist-created mesh generation with autoregressive transformers [[Paper](https://arxiv.org/abs/2406.10163)]
+
+9. Llama-mesh: Unifying 3d mesh generation with language models [[Paper](https://arxiv.org/abs/2411.09595)]
+
 
 ### 5.4 LLM for Heterogeneous Data Analysis
 
