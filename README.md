@@ -2061,57 +2061,123 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 9. Make-a-video: Text-to-video generation without text-video data [[Paper](https://arxiv.org/abs/2209.14792)]
 
 
+
+
 #### 5.3.3 Document Analysis
+
+
+
+1. M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding. Jaemin Cho et al.. arXiv preprint arXiv:2411.04952 2024. [https://arxiv.org/abs/2411.04952]
+2. SV-RAG: LoRA-Contextualizing Adaptation of MLLMs for Long Document Understanding. Jian Chen et al.. arXiv preprint arXiv:2411.01106 2024. [https://arxiv.org/abs/2411.01106]
+3. VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding. Ofir Abramovich et al.. arXiv preprint arXiv:2407.12594 2024. [https://arxiv.org/abs/2407.12594]
+4. DocFormer: End-to-End Transformer for Document Understanding. Appalaraju, Srikar et al.. Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) 2021. [Paper]
+5. VLCDoC: Vision-Language contrastive pre-training model for cross-Modal document classification. Sahar Bakkali et al.. Pattern Recognition 2023. [Paper]
+6. Efficient End-to-End Visual Document Understanding with Rationale Distillation. Wang Zhu et al.. arXiv preprint arXiv:2412.08519 2024. [https://arxiv.org/abs/2412.08519]
+7. LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking. Yupan Huang et al.. Proceedings of the 30th ACM International Conference on Multimedia 2022. [Paper]
+8. MMP: Towards Robust Multi-Modal Learning with Masked Modality Projection. Ting-Yu Huang, Shan-Yu Chuang, Li-Heng Sun, Min-Hung Chen. arXiv preprint arXiv:2410.03010 2024. [https://arxiv.org/abs/2410.03010]
+9. Unifying Layout Generation with a Decoupled Diffusion Model. Mude Hui et al.. arXiv preprint arXiv:2303.05049 2023. [https://arxiv.org/abs/2303.05049]
+10. LayoutDM: Discrete Diffusion Model for Controllable Layout Generation. Inoue, Naoto et al.. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023. [Paper]
+11. FUNSD: A Dataset for Form Understanding in Noisy Scanned Documents. Guillaume Jaume, Hazim Kemal Ekenel, Jean-Philippe Thiran. 2019 International Conference on Document Analysis and Recognition Workshops (ICDARW) 2019. [Paper]
+12. ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision. Wonjae Kim, Bokyung Son, Ildoo Kim. International Conference on Machine Learning 2021. [Paper]
+13. VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation. Manan Suri et al.. arXiv preprint arXiv:2407.12733 2024. [https://arxiv.org/abs/2407.12733]
+14. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. Patrick Lewis et al.. Advances in Neural Information Processing Systems 2020. [Paper]
+15. MissModal: Increasing Robustness to Missing Modality in Multimodal Sentiment Analysis. Mengmeng Ma et al.. Transactions of the Association for Computational Linguistics 2023. [Paper]
+16. CREPE: Coordinate-Aware End-to-End Document Parser. Yamato Okamoto et al.. arXiv preprint arXiv:2405.00260 2024. [https://arxiv.org/abs/2405.00260]
+17. LTSim: Layout Transportation-based Similarity Measure for Evaluating Layout Generation. Mayu Otani, Naoto Inoue, Kotaro Kikuchi, Riku Togashi. arXiv preprint arXiv:2407.12356 2024. [https://arxiv.org/abs/2407.12356]
+18. AesthetiQ: Enhancing Graphic Layout Design via Aesthetic-Aware Preference Alignment of Multi-modal Large Language Models. Sohan Patnaik, Rishabh Jain, Balaji Krishnamurthy, Mausoom Sarkar. arXiv preprint arXiv:2503.00591 2025. [https://arxiv.org/abs/2503.00591]
+19. Automatic generation of scientific papers for data augmentation in document layout analysis. Marco Pisaneschi, Srikar Appalaraju, R. Manmatha. Pattern Recognition Letters 2023. [DOI:10.1016/j.patrec.2023.01.011](https://doi.org/10.1016/j.patrec.2023.01.011)
+20. PosterLlama: Bridging Design Ability of Language Model to Content-Aware Layout Generation. Jaejung Seol, Seojun Kim, Jaejun Yoo. European Conference on Computer Vision (ECCV) 2024. [Paper]
+21. LayoutCoT: Chain-of-Thought Prompting for Layout Generation. Shang Chai, Liansheng Zhuang, Fengying Yan. arXiv preprint arXiv:2504.10829 2024. [https://arxiv.org/abs/2504.10829]
+22. SciPostLayout: A Dataset for Layout Analysis and Layout Generation of Scientific Posters. Shohei Tanaka, Hao Wang, Yoshitaka Ushiku. arXiv preprint arXiv:2407.19787 2024. [https://arxiv.org/abs/2407.19787]
+23. OmniParser: A Unified Framework for Text Spotting, Key Information Extraction and Table Recognition. Jianqiang Wan et al.. 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024. [Paper]
+24. DLAFormer: An End-to-End Transformer For Document Layout Analysis. Jiawei Wang, Kai Hu, Qiang Huo. arXiv preprint arXiv:2405.11757 2024. [https://arxiv.org/abs/2405.11757]
+25. DocLLM: A layout-aware generative language model for multimodal document understanding. Dongsheng Wang et al.. arXiv preprint arXiv:2401.00908 2024. [https://arxiv.org/abs/2401.00908]
+26. LayoutLM: Pre-training of Text and Layout for Document Image Understanding. Yiheng Xu et al.. Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining 2020. [Paper]
+27. LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding. Yang Xu et al.. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) 2021. [Paper]
+28. Corrective Retrieval Augmented Generation. Shi-Qi Yan, Jia-Chen Gu, Yun Zhu, Zhen-Hua Ling. arXiv preprint arXiv:2401.15884 2024. [https://arxiv.org/abs/2401.15884]
+29. RAFT: Adapting Language Model to Domain Specific RAG. Tianjun Zhang et al.. arXiv preprint arXiv:2403.10131 2024. [https://arxiv.org/abs/2403.10131]
+30. VASCAR: Content-Aware Layout Generation via Visual-Spatial Self-Correction. Chengyou Jia et al.. arXiv preprint arXiv:2412.04237 2024. [https://arxiv.org/abs/2412.04237]
+
 
 #### 5.3.4 Program Analysis
 
-#### 5.3.5 3D Model Analysis
+1. Automatic Semantic Augmentation of Language Model Prompts (for Code Summarization). Ahmed, Toufique, Pai, Kunal Suresh, Devanbu, Premkumar, Barr, Earl. Proceedings of the IEEE/ACM 46th International Conference on Software Engineering 2024. [DOI:10.1145/3597503.3639183](https://doi.org/10.1145/3597503.3639183)
+2. Teaching Large Language Models to Self-Debug. Chen, Xinyun, Lin, Maxwell I., Schärli, Nathanael, Zhou, Denny. The Eleventh International Conference on Learning Representations (ICLR 2023) 2023. [arXiv:2304.05128](https://arxiv.org/abs/2304.05128)
+3. Syntax-directed variational autoencoder for structured data. Dai, Hanjun et al.. International Conference on Learning Representations 2018. [Paper]
+4. Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning. Mingyang Geng et al.. misc 2023. [arXiv:2304.11384](https://arxiv.org/abs/2304.11384)
+5. FT2Ra. Guo, Qi et al.. Proceedings of the 46th IEEE/ACM International Conference on Software Engineering (ICSE '24) 2024. [arXiv:2402.00862](https://arxiv.org/abs/2402.00862)
+6. Composing graphical models with neural networks for structured representations and fast inference. Johnson, Matthew J et al.. Advances in neural information processing systems 2016. [Paper]
+7. Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning. {Numina, Kimi Team. arXiv preprint arXiv:2504.11354 2025. [https://arxiv.org/abs/2504.11354]
+8. REPOFUSE. Liang, Ming et al.. arXiv preprint arXiv:2402.14275 2024. [arXiv:2402.14275](https://arxiv.org/abs/2402.14275)
+9. G\"o. Lin, Yong et al.. arXiv preprint arXiv:2502.07640 2025. [https://arxiv.org/abs/2502.07640]
+10. Software Vulnerability Detection with GPT and In-Context Learning. Liu, Zhihong, Liao, Qing, Gu, Wenchao, Gao, Cuiyun. 2023 8th International Conference on Data Science in Cyberspace (DSC) 2023. [DOI:10.1109/DSC59305.2023.00041](https://doi.org/10.1109/DSC59305.2023.00041)
+11. Pre-training by Predicting Program Dependencies for Vulnerability Analysis Tasks. Zhongxin Liu et al.. misc 2024. [arXiv:2402.00657](https://arxiv.org/abs/2402.00657)
+12. WizardCoder: Empowering Code Large Language Models with Evol-Instruct. Ziyang Luo et al.. misc 2023. [arXiv:2306.08568](https://arxiv.org/abs/2306.08568)
+13. SCLA: Automated Smart Contract Summarization via LLMs and Semantic Augmentation. Yingjie Mao et al.. misc 2024. [arXiv:2402.04863](https://arxiv.org/abs/2402.04863)
+14. Self-Instruct: Aligning Language Models with Self-Generated Instructions. Yizhong Wang et al.. misc 2022. [arXiv:2212.10560](https://arxiv.org/abs/2212.10560)
+15. Magicoder: Empowering Code Generation with OSS-Instruct. Yuxiang Wei et al.. misc 2023. [arXiv:2312.02120](https://arxiv.org/abs/2312.02120)
+16. Repoformer. Wu, Di, Ahmad, Wasi Uddin, Li, Shanshan, Ma, Xiaofei. Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '24) 2024. [arXiv:2403.09858](https://arxiv.org/abs/2403.09858)
+17. DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data. Xin, Huajian et al.. arXiv preprint arXiv:2405.14333 2024. [https://arxiv.org/abs/2405.14333]
+18. Vulnerability Detection by Learning From Syntax-Based Execution Paths of Code. Zhang, Junwei et al.. IEEE Transactions on Software Engineering 2023. [DOI:10.1109/TSE.2023.3286586](https://doi.org/10.1109/TSE.2023.3286586)
+19. RepoCoder. Zhang, Fengji et al.. Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing 2023. [arXiv:2303.12570](https://arxiv.org/abs/2303.12570)
+20. Large Language Model for Vulnerability Detection: Emerging Results and Future Directions. Xin Zhou, Ting Zhang, David Lo. misc 2024. [arXiv:2401.15468](https://arxiv.org/abs/2401.15468)
 
-##### 3D-Language Fusion
-1. 3d-llm: Injecting the 3d world into large language models [[Paper](https://arxiv.org/abs/2307.12981)]
 
-2. 3ur-llm: An end-to-end multimodal large language model for 3d scene understanding [[Paper](https://arxiv.org/abs/2501.07819)]
+#### 5.3.3 Document Analysis
 
-3. Towards 3d molecule-text interpretation in language models [[Paper](https://arxiv.org/abs/2401.13923)]
+1. M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding. Jaemin Cho et al.. arXiv preprint arXiv:2411.04952 2024. [https://arxiv.org/abs/2411.04952]
+2. SV-RAG: LoRA-Contextualizing Adaptation of MLLMs for Long Document Understanding. Jian Chen et al.. arXiv preprint arXiv:2411.01106 2024. [https://arxiv.org/abs/2411.01106]
+3. VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding. Ofir Abramovich et al.. arXiv preprint arXiv:2407.12594 2024. [https://arxiv.org/abs/2407.12594]
+4. DocFormer: End-to-End Transformer for Document Understanding. Appalaraju, Srikar et al.. Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) 2021. [https://arxiv.org/abs/2106.11539]
+5. VLCDoC: Vision-Language contrastive pre-training model for cross-Modal document classification. Sahar Bakkali et al.. Pattern Recognition 2023. [https://arxiv.org/abs/2205.12029]
+6. Efficient End-to-End Visual Document Understanding with Rationale Distillation. Wang Zhu et al.. arXiv preprint arXiv:2412.08519 2024. [https://arxiv.org/abs/2412.08519]
+7. LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking. Yupan Huang et al.. Proceedings of the 30th ACM International Conference on Multimedia 2022. [https://arxiv.org/abs/2204.08387]
+8. MMP: Towards Robust Multi-Modal Learning with Masked Modality Projection. Ting-Yu Huang, Shan-Yu Chuang, Li-Heng Sun, Min-Hung Chen. arXiv preprint arXiv:2410.03010 2024. [https://arxiv.org/abs/2410.03010]
+9. Unifying Layout Generation with a Decoupled Diffusion Model. Mude Hui et al.. arXiv preprint arXiv:2303.05049 2023. [https://arxiv.org/abs/2303.05049]
+10. LayoutDM: Discrete Diffusion Model for Controllable Layout Generation. Inoue, Naoto et al.. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023. [https://arxiv.org/abs/2303.08137]
+11. FUNSD: A Dataset for Form Understanding in Noisy Scanned Documents. Guillaume Jaume, Hazim Kemal Ekenel, Jean-Philippe Thiran. 2019 International Conference on Document Analysis and Recognition Workshops (ICDARW) 2019. [https://arxiv.org/abs/1905.13538]
+12. ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision. Wonjae Kim, Bokyung Son, Ildoo Kim. International Conference on Machine Learning 2021. [https://arxiv.org/abs/2102.03334]
+13. VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation. Manan Suri et al.. arXiv preprint arXiv:2407.12733 2024. [https://arxiv.org/abs/2407.12733]
+14. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. Patrick Lewis et al.. Advances in Neural Information Processing Systems 2020. [https://arxiv.org/abs/2005.11401]
+15. MissModal: Increasing Robustness to Missing Modality in Multimodal Sentiment Analysis. Mengmeng Ma et al.. Transactions of the Association for Computational Linguistics 2023. [DOI:10.1162/tacl_a_00628](https://doi.org/10.1162/tacl_a_00628)
+16. CREPE: Coordinate-Aware End-to-End Document Parser. Yamato Okamoto et al.. arXiv preprint arXiv:2405.00260 2024. [https://arxiv.org/abs/2405.00260]
+17. LTSim: Layout Transportation-based Similarity Measure for Evaluating Layout Generation. Mayu Otani, Naoto Inoue, Kotaro Kikuchi, Riku Togashi. arXiv preprint arXiv:2407.12356 2024. [https://arxiv.org/abs/2407.12356]
+18. AesthetiQ: Enhancing Graphic Layout Design via Aesthetic-Aware Preference Alignment of Multi-modal Large Language Models. Sohan Patnaik, Rishabh Jain, Balaji Krishnamurthy, Mausoom Sarkar. arXiv preprint arXiv:2503.00591 2025. [https://arxiv.org/abs/2503.00591]
+19. Automatic generation of scientific papers for data augmentation in document layout analysis. Marco Pisaneschi, Srikar Appalaraju, R. Manmatha. Pattern Recognition Letters 2023. [DOI:10.1016/j.patrec.2023.01.011](https://doi.org/10.1016/j.patrec.2023.01.011)
+20. PosterLlama: Bridging Design Ability of Language Model to Content-Aware Layout Generation. Jaejung Seol, Seojun Kim, Jaejun Yoo. European Conference on Computer Vision (ECCV) 2024. [https://arxiv.org/abs/2404.00995]
+21. LayoutCoT: Chain-of-Thought Prompting for Layout Generation. Shang Chai, Liansheng Zhuang, Fengying Yan. arXiv preprint arXiv:2504.10829 2024. [https://arxiv.org/abs/2504.10829]
+22. SciPostLayout: A Dataset for Layout Analysis and Layout Generation of Scientific Posters. Shohei Tanaka, Hao Wang, Yoshitaka Ushiku. arXiv preprint arXiv:2407.19787 2024. [https://arxiv.org/abs/2407.19787]
+23. OmniParser: A Unified Framework for Text Spotting, Key Information Extraction and Table Recognition. Jianqiang Wan et al.. 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024. [https://arxiv.org/abs/2403.19128]
+24. DLAFormer: An End-to-End Transformer For Document Layout Analysis. Jiawei Wang, Kai Hu, Qiang Huo. arXiv preprint arXiv:2405.11757 2024. [https://arxiv.org/abs/2405.11757]
+25. DocLLM: A layout-aware generative language model for multimodal document understanding. Dongsheng Wang et al.. arXiv preprint arXiv:2401.00908 2024. [https://arxiv.org/abs/2401.00908]
+26. LayoutLM: Pre-training of Text and Layout for Document Image Understanding. Yiheng Xu et al.. Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining 2020. [https://arxiv.org/abs/1912.13318]
+27. LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding. Yang Xu et al.. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) 2021. [https://arxiv.org/abs/2012.14740]
+28. Corrective Retrieval Augmented Generation. Shi-Qi Yan, Jia-Chen Gu, Yun Zhu, Zhen-Hua Ling. arXiv preprint arXiv:2401.15884 2024. [https://arxiv.org/abs/2401.15884]
+29. RAFT: Adapting Language Model to Domain Specific RAG. Tianjun Zhang et al.. arXiv preprint arXiv:2403.10131 2024. [https://arxiv.org/abs/2403.10131]
+30. VASCAR: Content-Aware Layout Generation via Visual-Spatial Self-Correction. Chengyou Jia et al.. arXiv preprint arXiv:2412.04237 2024. [https://arxiv.org/abs/2412.04237]
 
-4. Proteinchat: Towards achieving chatgpt-like functionalities on protein 3d structures [[Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.23120606)]
+#### 5.3.4 Program Analysis
 
-5. Protchatgpt: Towards understanding proteins with large language models [[Paper](https://arxiv.org/abs/2402.09649)]
-
-##### 3D-Derived Task Enhancement
-1. Do Large Language Models Truly Understand Geometric Structures? [[Paper](https://arxiv.org/abs/2501.13773)]
-
-2. 3DSMILES-GPT: 3D molecular pocket-based generation with token-only large language model [[Paper](https://pubs.rsc.org/en/content/articlehtml/2024/sc/d4sc06864e)]
-
-3. SMILES, a chemical language and information system. 1. Introduction to methodology and encoding rules [[Paper](https://pubs.acs.org/doi/pdf/10.1021/ci00057a005)]
-
-4. ProtChat: An AI Multi-Agent for Automated Protein Analysis Leveraging GPT-4 and Protein Language Model [[Paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.4c01345)]
-
-5. A multimodal protein representation framework for quantifying transferability across biochemical downstream tasks [[Paper](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202301223)]
-
-##### Cross-modal Capability Refinement
-1. Self-supervised image-based 3d model retrieval [[Paper](https://dl.acm.org/doi/abs/10.1145/3548690)]
-
-2. Llmi3d: Empowering llm with 3d perception from a single 2d image [[Paper](https://arxiv.org/abs/2408.07422)]
-
-##### 3-D data for LLM
-1. Fantasia3d: Disentangling geometry and appearance for high-quality text-to-3d content creation [[Paper](https://arxiv.org/abs/2303.13873)]
-
-2. Sweetdreamer: Aligning geometric priors in 2d diffusion for consistent text-to-3d [[Paper](https://arxiv.org/abs/2310.02596)]
-
-3. Richdreamer: A generalizable normal-depth diffusion model for detail richness in text-to-3d [[Paper](https://arxiv.org/abs/2311.16918)]
-
-4. Zero-1-to-3: Zero-shot one image to 3d object [[Paper](https://arxiv.org/abs/2303.11328)]
-
-5. Hunyuan3d 1.0: A unified framework for text-to-3d and image-to-3d generation [[Paper](https://arxiv.org/abs/2411.02293)]
-
-6. Craftsman3d: High-fidelity mesh generation with 3d native generation and interactive geometry refiner [[Paper](https://arxiv.org/abs/2405.14979)]
-
-7. Direct3d: Scalable image-to-3d generation via 3d latent diffusion transformer [[Paper](https://arxiv.org/abs/2405.14832)]
-
-8. Meshanything: Artist-created mesh generation with autoregressive transformers [[Paper](https://arxiv.org/abs/2406.10163)]
-
-9. Llama-mesh: Unifying 3d mesh generation with language models [[Paper](https://arxiv.org/abs/2411.09595)]
+1. Automatic Semantic Augmentation of Language Model Prompts (for Code Summarization). Ahmed, Toufique, Pai, Kunal Suresh, Devanbu, Premkumar, Barr, Earl. Proceedings of the IEEE/ACM 46th International Conference on Software Engineering 2024. [DOI:10.1145/3597503.3639183](https://doi.org/10.1145/3597503.3639183)
+2. Teaching Large Language Models to Self-Debug. Chen, Xinyun, Lin, Maxwell I., Schärli, Nathanael, Zhou, Denny. The Eleventh International Conference on Learning Representations (ICLR 2023) 2023. [arXiv:2304.05128](https://arxiv.org/abs/2304.05128)
+3. Syntax-directed variational autoencoder for structured data. Dai, Hanjun et al.. International Conference on Learning Representations 2018. [https://arxiv.org/abs/1802.08786]
+4. Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning. Mingyang Geng et al.. misc 2023. [arXiv:2304.11384](https://arxiv.org/abs/2304.11384)
+5. FT2Ra. Guo, Qi et al.. Proceedings of the 46th IEEE/ACM International Conference on Software Engineering (ICSE '24) 2024. [arXiv:2402.00862](https://arxiv.org/abs/2402.00862)
+6. Composing graphical models with neural networks for structured representations and fast inference. Johnson, Matthew J et al.. Advances in neural information processing systems 2016. [https://arxiv.org/abs/1603.06277]
+7. Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning. {Numina, Kimi Team. arXiv preprint arXiv:2504.11354 2025. [https://arxiv.org/abs/2504.11354]
+8. REPOFUSE. Liang, Ming et al.. arXiv preprint arXiv:2402.14275 2024. [arXiv:2402.14275](https://arxiv.org/abs/2402.14275)
+9. G\"o. Lin, Yong et al.. arXiv preprint arXiv:2502.07640 2025. [https://arxiv.org/abs/2502.07640]
+10. Software Vulnerability Detection with GPT and In-Context Learning. Liu, Zhihong, Liao, Qing, Gu, Wenchao, Gao, Cuiyun. 2023 8th International Conference on Data Science in Cyberspace (DSC) 2023. [DOI:10.1109/DSC59305.2023.00041](https://doi.org/10.1109/DSC59305.2023.00041)
+11. Pre-training by Predicting Program Dependencies for Vulnerability Analysis Tasks. Zhongxin Liu et al.. misc 2024. [arXiv:2402.00657](https://arxiv.org/abs/2402.00657)
+12. WizardCoder: Empowering Code Large Language Models with Evol-Instruct. Ziyang Luo et al.. misc 2023. [arXiv:2306.08568](https://arxiv.org/abs/2306.08568)
+13. SCLA: Automated Smart Contract Summarization via LLMs and Semantic Augmentation. Yingjie Mao et al.. misc 2024. [arXiv:2402.04863](https://arxiv.org/abs/2402.04863)
+14. Self-Instruct: Aligning Language Models with Self-Generated Instructions. Yizhong Wang et al.. misc 2022. [arXiv:2212.10560](https://arxiv.org/abs/2212.10560)
+15. Magicoder: Empowering Code Generation with OSS-Instruct. Yuxiang Wei et al.. misc 2023. [arXiv:2312.02120](https://arxiv.org/abs/2312.02120)
+16. Repoformer. Wu, Di, Ahmad, Wasi Uddin, Li, Shanshan, Ma, Xiaofei. Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '24) 2024. [arXiv:2403.09858](https://arxiv.org/abs/2403.09858)
+17. DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data. Xin, Huajian et al.. arXiv preprint arXiv:2405.14333 2024. [https://arxiv.org/abs/2405.14333]
+18. Vulnerability Detection by Learning From Syntax-Based Execution Paths of Code. Zhang, Junwei et al.. IEEE Transactions on Software Engineering 2023. [DOI:10.1109/TSE.2023.3286586](https://doi.org/10.1109/TSE.2023.3286586)
+19. RepoCoder. Zhang, Fengji et al.. Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing 2023. [arXiv:2303.12570](https://arxiv.org/abs/2303.12570)
+20. Large Language Model for Vulnerability Detection: Emerging Results and Future Directions. Xin Zhou, Ting Zhang, David Lo. misc 2024. [arXiv:2401.15468](https://arxiv.org/abs/2401.15468)
 
 
 ### 5.4 LLM for Heterogeneous Data Analysis
@@ -2139,3 +2205,4 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 
 3. Must: An effective and scalable framework for multimodal search of target modality [[Paper](https://arxiv.org/abs/2312.06397)]
+
