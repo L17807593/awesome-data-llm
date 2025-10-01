@@ -73,13 +73,14 @@ We observe the evolution of **LLM/Agent-as-Data-Analyst** techniques follows a f
   - [3.4 Data Provenance](#34-data-provenance)
 - [4 LLM for Data Management](#4-llm-for-data-management)
   - [4.1 LLM for Data Manipulation](#41-llm-for-data-manipulation)
-  - [4.2 LLM for Data Analysis](#42-llm-for-data-analysis)
-  - [4.3 LLM for Data System Optimization](#43-llm-for-data-system-optimization)
+  - [4.2 LLM for Data System Optimization](#43-llm-for-data-system-optimization)
 - [5 LLM as Data Analyst](#5-llm-as-data-analyst)
    - [5.1 LLM for Structured Data Analysis](#51-llm-for-structured-data-analysis)
    - [5.2 LLM for Semi-Structured Data Analysis](#52-llm-for-semistructured-data-analysis)
    - [5.3 LLM for unstructured Data Analysis](#53-llm-for-unstructured-data-analysis)
    - [5.4 LLM for Heterogeneous Data Analysis](#54-llm-for-heterogeneous-data-analysis)
+
+  <!-- - [4.2 LLM for Data Analysis](#42-llm-for-data-analysis) -->
 
 ## Datasets
 
@@ -1319,7 +1320,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 12. **Large Language Models as Annotators: Enhancing Generalization of NLP Models at Minimal Cost**
 
     Bansal, Parikshit, and Amit Sharma. *arXiv 2023*. [[Paper](https://arxiv.org/abs/2306.15766)]
-
+<!-- 
 ### 4.2 LLM for Data Analysis
 
 [⬆️top](#table-of-contents)
@@ -1543,14 +1544,14 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
    Shuzheng Gao, et al. *ACM Transactions on Software Engineering and Methodology 2023.* [[Paper](https://doi.org/10.1145/3522674)]
 7.  **RepoFusion: Training Code Models to Understand Your Repository**  
    Disha Shrivastava, Denis Kocetkov, Harm de Vries, et al. *arXiv 2023.* [[Paper](https://doi.org/10.48550/arXiv.2306.10998)]
+ -->
 
 
-
-### 4.3 LLM for Data System Optimization
+### 4.2 LLM for Data System Optimization
 
 [⬆️top](#table-of-contents)
 
-#### 4.3.1 LLM for Configuration Tuning
+#### 4.2.1 LLM for Configuration Tuning
 
 1. **ELMo-Tune-V2: LLM-Assisted Full-Cycle Auto-Tuning to Optimize LSM-Based Key-Value Stores**  
     Viraj Thakkar, Qi Lin, Kenanya Keandra Adriel Prasetyo, et al. *arXiv 2025*. [[Paper](https://arxiv.org/abs/2502.17606)]
@@ -1586,7 +1587,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 
 
-#### 4.3.2 LLM for Query Optimization
+#### 4.2.2 LLM for Query Optimization
 
 ##### Optimization-Aware Prompt Engineering
 
@@ -1614,7 +1615,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 
 
-#### 4.3.3 LLM for Anomaly Diagnosis
+#### 4.2.3 LLM for Anomaly Diagnosis
 
 ##### Manually Crafted Prompts for Anomaly Diagnosis
 
@@ -1655,7 +1656,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 #### 5.1.1 Relational Data
 
-1. **A relational model of data for large shared data banks.** [[Paper](https://dl.acm.org/doi/abs/10.1145/362384.362685)]
+1. **A relational model of data for large shared data banks.** [[Paper](https://dl.acm.org/doi/abs/10.1145/362384.262685)]
 
 2. **Multilinear tensor regression for longitudinal relational data** [[Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC4957660/)]
 
@@ -1673,7 +1674,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 4. **Codes: Towards building open-source language models for text-to-sql** [[Paper](https://dl.acm.org/doi/abs/10.1145/3654930)]
 
-5. **Combining small language models and large language models for zero-shot nl2sql** [[Paper](https://dl.acm.org/doi/abs/10.14778/3681954.3681960)]
+5. **Combining small language models and large language models for zero-shot nl2sql** [[Paper](https://dl.acm.org/doi/abs/10.14778/3681954.2681960)]
 
 6. **Cracking SQL Barriers: An llm-based dialect translation system** [[Paper](https://dl.acm.org/doi/abs/10.1145/3725278)]
 
@@ -2131,7 +2132,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 3. CAESURA: Language Models as Multi-Modal Query Planners [[Paper](https://arxiv.org/abs/2308.03424)]
 
-#### 5.4.3 Heterogeneous Data Analysis Agents
+#### 5.4.2 Heterogeneous Data Analysis Agents
 
 1. Explainable Multi-Modal Data Exploration in Natural Language via LLM Agent [[Paper](https://arxiv.org/abs/2412.18428)]
 
