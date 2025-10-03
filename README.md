@@ -1683,9 +1683,9 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 6. **BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension**    
    Mike Lewis, Yinhan Liu, Naman Goyal, et al. *ACL 2020 (2020)*. [[Paper](https://aclanthology.org/2020.acl-main.703/)]
 
-##### LLM for Semantic Analysis.
+##### LLM for Semantic Analysis
 
-**Multi-Step QA.**
+**Multi-Step QA**
 
 1. **Plugging Schema Graph into Multi-Table QA: A Human-Guided Framework for Reducing LLM Reliance**    
    Xixi Wang, Miguel Costa, Jordanka Kovaceva, et al. *Findings of EMNLP 2025 (2025)*. [[Paper](https://doi.org/10.48550/arXiv.2506.04427)]
@@ -1712,17 +1712,17 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 ##### LLM for Time Series Analysis
 
-1. **Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era**
+1. **Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era**     
    Chenxi Liu, et al. *IJCAI 2025 Survey Track (2025)*. [[Paper](https://doi.org/10.48550/arXiv.2505.02583)]
-2. **Association between forecasting models’ precision and nonlinear patterns of daily river flow time series**
+2. **Association between forecasting models’ precision and nonlinear patterns of daily river flow time series**    
    Farhang Rahmani & Mohammad Hadi Fattahi. *Modeling Earth Systems and Environment, 2022*. [[Paper](https://link.springer.com/article/10.1007/s40808-022-01351-4)]
-3. **HMCKRAutoEncoder: An Interpretable Deep Learning Framework for Time Series Analysis**
+3. **HMCKRAutoEncoder: An Interpretable Deep Learning Framework for Time Series Analysis**    
    Jilong Wang, Rui Li, Renfa Li, et al. *IEEE Transactions on Emerging Topics in Computing, 2022*. [[Paper](https://doi.org/10.1109/TETC.2022.3143154)]
 4. **The Performance of LSTM and BiLSTM in Forecasting Time Series**  
    Sima Siami-Namini, Neda Tavakoli, Akbar Siami Namin. *IEEE International Conference on Big Data, 2019*. [[Paper](https://doi.org/10.1109/BigData47090.2019.9005997 )]
-5. **A Comparison of ARIMA and LSTM in Forecasting Time Series**
+5. **A Comparison of ARIMA and LSTM in Forecasting Time Series**    
    Sima Siami-Namini, Neda Tavakoli, Akbar Siami Namin. *ICMLA, 2018*. [[Paper](https://doi.org/10.1109/ICMLA.2018.00227)]
-6. **Time Series Databases and InfluxDB**
+6. **Time Series Databases and InfluxDB **    
    Syeda Noor Zehra Naqvi, Sofia Yfantidou, et al. *Université libre de Bruxelles, Advanced Databases, 2017*. [[Paper](https://www.devopsschool.com/blog/wp-content/uploads/2022/09/influxdb_2017.pdf)]
 
 **TS2NL**
@@ -1733,7 +1733,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
    Geon Lee, Wenchao Yu, Kijung Shin, et al. *AAAI 2025*. [[Paper](https://doi.org/10.1609/aaai.v39i17.33989 )]
 3. **Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop**  
    Yushan Jiang, Wenchao Yu, Geon Lee, et al. *arXiv:2503.01013 [cs.LG] (2025)*. [[Paper](https://doi.org/10.48550/arXiv.2503.01013 )]
-4. **From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection**
+4. **From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection**   
    Xinlei Wang, Maike Feng, Jing Qiu, et al. *NeurIPS 2024*. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6aef8bffb372096ee73d98da30119f89-Abstract-Conference.html)]
 5. **Dynamic Dynamic Time Warping**  
    Karl Bringmann, Nick Fischer, Ivor van der Hoog, et al. *SODA 2024*. [[Paper](https://doi.org/10.48550/arXiv.2310.18128 )]
@@ -1748,7 +1748,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 1. **SEED: A Structural Encoder for Embedding-Driven Decoding in Time Series Prediction with LLMs**  
    Fengze Li, Yue Wang, Yangle Liu, et al. *arXiv:2506.20167 [cs.CL] (2025)*. [[Paper](https://doi.org/10.48550/arXiv.2506.20167 )]
-2. **TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment**
+2. **TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment**    
    Chenxi Liu, Qianxiong Xu, Hao Miao, et al. *AAAI 2025*. [[Paper](https://doi.org/10.1609/aaai.v39i18.34067)]
 3. **CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning**  
    Peiyuan Liu, Hang Guo, Tao Dai, et al. *AAAI 2025*. [[Paper](https://doi.org/10.1609/aaai.v39i18.34082 )]
@@ -1766,7 +1766,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 1. **A Comparison of Current Graph Database Models**  
    Renzo Angles. *IEEE 28th International Conference on Data Engineering Workshops, 2012*. [[Paper](https://doi.org/10.1109/ICDEW.2012.31 )]
 
-**Natural Language To Graph Analysis Query.**
+**Natural Language To Graph Analysis Query**
 
 1. **Aligning Large Language Models to a Domain-specific Graph Database for NL2GQL**  
    Yuanyuan Liang, Keren Tan, Tingyu Xie, et al. *CIKM '24, 2024*. [[Paper](https://doi.org/10.1145/3627673.3679713 )]
@@ -1793,7 +1793,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 3. **Flexkbqa: A flexible llm-powered framework for few-shot knowledge base question answering** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29823)]
 
-**Graph Task Based Fine-tuning Methods.**
+**Graph Task Based Fine-tuning Methods**
 
 1. **InstructGraph: Boosting Large Language Models via Graph-Centric Instruction Tuning and Preference Alignment**  
    Jianing Wang, Junda Wu, Yupeng Hou, et al. *Findings of ACL 2024*. [[Paper](https://aclanthology.org/2024.findings-acl.801/ )]
@@ -1820,7 +1820,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 2. **Compositional Semantic Parsing on Semi-Structured Tables**  
    Panupong Pasupat, Percy Liang. *ACL 2015, Pages 1470–1480*. [[Paper](https://aclanthology.org/P15-1142/ )]
 
-##### Relational Data Generation.
+##### Relational Data Generation
 
 1. **ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning**  
    Zhe Xie, Zeyan Li, Xiao He, et al. *Proceedings of the VLDB Endowment, 2025*. [[Paper](https://doi.org/10.14778/3742728.3742735 )]
@@ -1834,13 +1834,13 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
    Aivin V. Solatorio, Olivier Dupriez. *arXiv:2302.02041 [cs.LG] (2023)*. [[Paper](https://doi.org/10.48550/arXiv.2302.02041 )]
 6. **Synthetic Data Generation of Many-to-Many Datasets via Random Graph Generation**  
    Kai Xu, Georgi Ganev, Emile Joubert, et al. *ICLR 2023*. [[Paper](https://openreview.net/forum?id=Q120_4COf-K )]
-7. **SyntaxSQLNet: Syntax Tree Networks for Complex and Cross-Domain Text-to-SQL Task**
+7. **SyntaxSQLNet: Syntax Tree Networks for Complex and Cross-Domain Text-to-SQL Task**    
    Tao Yu, Michihiro Yasunaga, Kai Yang, et al. *EMNLP 2018*. [[Paper](https://doi.org/10.48550/arXiv.1810.05237)]
 8. **Codes: Towards building open-source language models for text-to-sql** [[Paper](https://dl.acm.org/doi/abs/10.1145/3654930)]
 
 ##### Graph Data Generation
 
-1. **A Temporal Knowledge Graph Generation Dataset Supervised Distantly by Large Language Models**
+1. **A Temporal Knowledge Graph Generation Dataset Supervised Distantly by Large Language Models**    
     Jun Zhu, Yan Fu, Junlin Zhou, Duanbing Chen. *Scientific Data, 12:734 (2025)*. [[Paper](https://doi.org/10.1038/s41597-025-05062-0 )]
 2. **A Framework for Large-Scale Synthetic Graph Dataset Generation**  
    Sajad Darabi, Piotr Bigaj, Dawid Majchrowski, et al. *IEEE Transactions on Neural Networks and Learning Systems, Volume 36, Issue 8, Pages 14258 - 14268 (2025)*. [[Paper](https://doi.org/10.1109/TNNLS.2025.3540392 )]
@@ -1849,15 +1849,14 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 #### 5.2.1 Markup Language
 
-**Markup Extraction.**
+**Markup Extraction**
 
 1. **Language models enable simple systems for generating structured views of heterogeneous data lakes** [[Paper](https://dl.acm.org/doi/abs/10.14778/3626292.3626294)]
 
 2. **WebFormer: The Web-page Transformer for Structure Information Extraction**  
     Qifan Wang, Yi Fang, Anirudh Ravula, et al. *WWW '22, 2022*. [[Paper](https://doi.org/10.1145/3485447.3512032 )]
 
-
-**Markup Query.**
+**Markup Query**
 
 1. **XPath Agent: An Efficient XPath Programming Agent Based on LLM for Web Crawler**  
     Yu Li, Bryce Wang, Xinyu Luan. *arXiv:2502.15688 [cs.IR] (2025)*. [[Paper](https://doi.org/10.48550/arXiv.2502.15688 )]
@@ -1865,8 +1864,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 2. **Bridging the Gap: Enabling Natural Language Queries for NoSQL Databases through Text-to-NoSQL Translation**  
     Jinwei Lu, Yuanfeng Song, Zhiqian Qin, et al. *arXiv:2502.11201 [cs.DB] (2025)*. [[Paper](https://doi.org/10.48550/arXiv.2502.11201 )]
 
-
-**Markup Understanding.**
+**Markup Understanding**
 
 1. **Hierarchical Multimodal Pre-training for Visually Rich Webpage Understanding**  
     Hongshen Xu, Lu Chen, Zihan Zhao, et al. *WSDM '24, 2024*. [[Paper](https://doi.org/10.1145/3616855.3635753 )]
@@ -1877,7 +1875,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 #### 5.2.2 Semi-Structured Table
 
-**Table Representation.**
+**Table Representation**
 
 1. **ST-Raptor: LLM-Powered Semi-Structured Table Question Answering**  
      Zirui Tang, Boyu Niu, Xuanhe Zhou, et al. *arXiv:2508.18190 [cs.AI] (2025)*. *Extension of SIGMOD 2026 paper*. [[Paper](https://doi.org/10.48550/arXiv.2508.18190 )]
@@ -1887,10 +1885,10 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
      Cho-Ting Lee, Andrew Neeser, Shengzhe Xu, et al. *ICSE 2025*. [[Paper](https://doi.org/10.1109/ICSE55347.2025.00101 )]
 4. **Auto-Tables: Relationalize Tables without Using Examples**  
      Peng Li, Yeye He, Cong Yan, et al. *SIGMOD Record, Volume 53, Issue 1, Pages 76 - 85 (2024)*. [[Paper](https://doi.org/10.1145/3665252.3665269 )]
-5. **TUTA: Tree-based Transformers for Generally Structured Table Pre-training**
+5. **TUTA: Tree-based Transformers for Generally Structured Table Pre-training**    
      Zhiruo Wang, Haoyu Dong, Ran Jia, et al. *KDD '21, Pages 1780 - 1790 (2021)*. [[Paper](https://doi.org/10.1145/3447548.3467434)]
 
-**Table Prompting.**
+**Table Prompting**
 
 1. **SpreadsheetLLM: Encoding Spreadsheets for Large Language Models**  
     Haoyu Dong, Jianbo Zhao, Yuzhang Tian, et al. *arXiv:2407.09025 [cs.AI] (2024)*. [[Paper](https://doi.org/10.48550/arXiv.2407.09025 )]
@@ -1898,8 +1896,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 2. **HySem: A Context Length Optimized LLM Pipeline for Unstructured Tabular Extraction**  
     Narayanan PP, Anantharaman Palacode Narayana Iyer. *TRL @ NeurIPS 2024 Poster, 2024*. [[Paper](https://nips.cc/virtual/2024/103176 )]
 
-
-**Table Querying.**
+**Table Querying**
 
 1. **ST-Raptor: LLM-Powered Semi-Structured Table Question Answering** [[Paper](https://arxiv.org/abs/2508.18190)]
 2. **SpreadsheetLLM: encoding spreadsheets for large language models** [[Paper](https://arxiv.org/abs/2407.09025)]
@@ -2217,6 +2214,6 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
    Mengzhao Wang, Haotian Wu, Xiangyu Ke, et al. *Proc. VLDB Endow., Vol. 17, No. 12, pp. 4333-4336 (2024)*. [[Paper](https://doi.org/10.14778/3685800.3685868)]
 1. **MUST: An Effective and Scalable Framework for Multimodal Search of Target Modality**  
    Mengzhao Wang, Xiangyu Ke, Xiaoliang Xu, et al. *ICDE 2024*. [[Paper](https://doi.org/10.1109/ICDE60146.2024.00361)]
-1. **Explainable Multi-Modal Data Exploration in Natural Language via LLM Agent**
+1. **Explainable Multi-Modal Data Exploration in Natural Language via LLM Agent**     
    Farhad Nooralahzadeh, Yi Zhang, Jonathan Furst, Kurt Stockinger. *arXiv 2024*. [[Paper](https://doi.org/10.48550/arXiv.2412.18428)]
 
