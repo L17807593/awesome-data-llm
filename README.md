@@ -1281,13 +1281,11 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 8. **An LLM Agent-Based Complex Semantic Table Annotation Approach**    
    Yilin Geng, Shujing Wang, Chuan Wang, et al. *arXiv 2025*. [[Paper](https://arxiv.org/abs/2508.12868)]
 
-9. **Prompt Candidates, then Distill: A Teacher-Student Framework for LLM-driven Data Annotation**
-
+9. **Prompt Candidates, then Distill: A Teacher-Student Framework for LLM-driven Data Annotation**    
    Xia, Mingxuan, et al. *arXiv 2025*. [[Paper](https://arxiv.org/abs/2506.03857)]
-
-10. **Evaluating how LLM annotations represent diverse views on contentious topics**
-
-   Brown, Megan A., et al. *arXiv 2025*. [[Paper](https://arxiv.org/abs/2503.23243)]
+   
+10. **Evaluating how LLM annotations represent diverse views on contentious topics**    
+    Brown, Megan A., et al. *arXiv 2025*. [[Paper](https://arxiv.org/abs/2503.23243)]
 
 11. **CHORUS: Foundation Models for Unified Data Discovery and Exploration**  
     Moe Kayali, et al. *Proceedings of the VLDB Endowment, Volume 17, Issue 8, 2024.* [[Paper](https://dl.acm.org/doi/10.14778/3659437.3659461)]
@@ -1524,7 +1522,6 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
    Shuzheng Gao, et al. *ACM Transactions on Software Engineering and Methodology 2023.* [[Paper](https://doi.org/10.1145/3522674)]
 7.  **RepoFusion: Training Code Models to Understand Your Repository**  
    Disha Shrivastava, Denis Kocetkov, Harm de Vries, et al. *arXiv 2023.* [[Paper](https://doi.org/10.48550/arXiv.2306.10998)]
-    -->
 
 
 ### 4.2 LLM for Data System Optimization
@@ -1655,9 +1652,9 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 4. **A Survey on Employing Large Language Models for Text-to-SQL Tasks**  
    Liang Shi, Zhengju Tang, Nan Zhang, et al. *ACM Comput. Surv., Vol. 58, No. 2, Article 54, pp. 1-37 (2025)*. [[Paper](https://doi.org/10.1145/3737873)]
 5. **Bridging the Semantic Gap Between Text and Table: A Case Study on NL2SQL**    
-   Lin Long, Xijun Gu, Xinjie Sun, et al. *International Conference on Representation Learning 2025 (ICLR 2025)*. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/283f1354f1de1c53a14afe0a6740e889-Abstract-Conference.html#:~:text=The rise of Large Language Models (LLMs) has,and efficiently abstract structure-enriched semantics from tabular data)]
+   Lin Long, Xijun Gu, Xinjie Sun, et al. *International Conference on Representation Learning 2025 (ICLR 2025)*. [[Paper](https://openreview.net/forum?id=qmsX2R19p9)]
 6. **A Survey of Text-to-SQL in the Era of LLMs: Where Are We, and Where Are We Going?**    
-   Xinyu Liu, Shuyu Shen, Boyan Li, et al. *IEEE Transactions on Knowledge and Data Engineering, Volume: 37, Issue: 10, Pages: 5735 - 5754, October 2025*. [[Paper](https://doi.org/10.1109/TKDE.2025.3592032)]
+   Xinyu Liu, Shuyu Shen, Boyan Li, et al. *IEEE Transactions on Knowledge and Data Engineering, 2025*. [[Paper](https://doi.org/10.1109/TKDE.2025.3592032)]
 7. **Finsql: Model-agnostic llms-based text-to-sql framework for financial analysis** [[Paper](https://dl.acm.org/doi/abs/10.1145/3626246.3653375)]
 8. **Codes: Towards building open-source language models for text-to-sql** [[Paper](https://dl.acm.org/doi/abs/10.1145/3654930)]
 9. **Combining Small Language Models and Large Language Models for Zero-Shot NL2SQL**     
@@ -1673,7 +1670,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 1. **Data Interpreter: An LLM Agent for Data Science** [[Paper](https://aclanthology.org/2025.findings-acl.1016/)]
    
 2. **Collaboration between Intelligent Agents and Large Language Models: A Novel Approach for Enhancing Code Generation Capability**    
-   Xingyuan Bai, Shaobin Huang, Chi Wei, et al. *Expert Systems with Applications, Volume 269, Issue C, 15 April 2025*. [[Paper](https://doi.org/10.1016/j.eswa.2024.126357)]
+   Xingyuan Bai, Shaobin Huang, Chi Wei, et al. *Expert Systems with Applications, 2025*. [[Paper](https://doi.org/10.1016/j.eswa.2024.126357)]
 
 3. **Contextualized Data-Wrangling Code Generation in Computational Notebooks**    
    Junjie Huang, Daya Guo, Chenglong Wang, et al. *ASE '24 (2024)*. [[Paper](https://doi.org/10.1145/3691620.3695503)]
@@ -1681,7 +1678,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 4. **Natural Language to Code Generation in Interactive Data Science Notebooks**     
    Pengcheng Yin, Wen-Ding Li, Kefan Xiao, et al. *ACL 2023*. [[Paper](https://aclanthology.org/2023.acl-long.9/)]
 
-5. **PaLM: Scaling Language Modeling with Pathways **   
+5. **PaLM: Scaling Language Modeling with Pathways**   
    Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, et al. *Journal of Machine Learning Research 24 (2023).* [[Paper](http://arxiv.org/abs/2204.02311)]
 6. **BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension**    
    Mike Lewis, Yinhan Liu, Naman Goyal, et al. *ACL 2020 (2020)*. [[Paper](https://aclanthology.org/2020.acl-main.703/)]
@@ -1693,7 +1690,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 1. **Plugging Schema Graph into Multi-Table QA: A Human-Guided Framework for Reducing LLM Reliance**    
    Xixi Wang, Miguel Costa, Jordanka Kovaceva, et al. *Findings of EMNLP 2025 (2025)*. [[Paper](https://doi.org/10.48550/arXiv.2506.04427)]
 2. **TAT-LLM: A Specialized Language Model for Discrete Reasoning over Financial Tabular and Textual Data** [[Paper](https://doi.org/10.1145/3677052.3698685)]
-3. **Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding **    
+3. **Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding**    
    Zilong Wang, Hao Zhang, Chun-Liang Li, et al. *ICLR 2024 (2024)*. [[Paper](https://doi.org/10.48550/arXiv.2401.04398)]
 4. **TaPERA: Enhancing Faithfulness and Interpretability in Long-Form Table QA by Content Planning and Execution-based Reasoning** [[Paper](https://aclanthology.org/2024.acl-long.692/)]
 5. **S3HQA: A three-stage approach for multi-hop text-table hybrid question answering** [[Paper](https://aclanthology.org/2023.acl-short.147/)]
@@ -1703,7 +1700,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 1. **MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions**    
    Jian Wu, Linyi Yang, Dongyuan Li, et al. *ICLR 2025 (2025)*. [[Paper](https://openreview.net/forum?id=GGlpykXDCa)]
-2. **Improved Baselines with Visual Instruction Tuning **   
+2. **Improved Baselines with Visual Instruction Tuning**   
    Haotian Liu, Chunyuan Li, Yuheng Li, et al. *CVPR 2024 (2024)*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Improved_Baselines_with_Visual_Instruction_Tuning_CVPR_2024_paper.html)]
 3. **Table-GPT: Table Fine-tuned GPT for Diverse Table Tasks** [[Paper](https://dl.acm.org/doi/abs/10.1145/3654979)]
 4. **Tablegpt2: A large multimodal model with tabular data integration** [[Paper](https://arxiv.org/abs/2411.02059)]
@@ -1826,7 +1823,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 ##### Relational Data Generation.
 
 1. **ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning**  
-   Zhe Xie, Zeyan Li, Xiao He, et al. *Proceedings of the VLDB Endowment, Volume 18, Issue 8, Pages 2385 - 2398 (2025)*. [[Paper](https://doi.org/10.14778/3742728.3742735 )]
+   Zhe Xie, Zeyan Li, Xiao He, et al. *Proceedings of the VLDB Endowment, 2025*. [[Paper](https://doi.org/10.14778/3742728.3742735 )]
 2. **Relational Data Generation with Graph Neural Networks and Latent Diffusion Models**  
    Valter Hudovernik. *TRL @ NeurIPS 2024 Poster, 2024*. [[Paper](https://openreview.net/forum?id=MNLR2NYN2Z#discussion )]
 3. **Mixed-Type Tabular Data Synthesis with Score-based Diffusion in Latent Space**  
@@ -1866,7 +1863,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
     Yu Li, Bryce Wang, Xinyu Luan. *arXiv:2502.15688 [cs.IR] (2025)*. [[Paper](https://doi.org/10.48550/arXiv.2502.15688 )]
 
 2. **Bridging the Gap: Enabling Natural Language Queries for NoSQL Databases through Text-to-NoSQL Translation**  
-    Jinwei Lu, Yuanfeng Song, Zhiqian Qin, Haodi Zhang, Chen Zhang, Raymond Chi-Wing Wong. *arXiv:2502.11201 [cs.DB] (2025)*. [[Paper](https://doi.org/10.48550/arXiv.2502.11201 )]
+    Jinwei Lu, Yuanfeng Song, Zhiqian Qin, et al. *arXiv:2502.11201 [cs.DB] (2025)*. [[Paper](https://doi.org/10.48550/arXiv.2502.11201 )]
 
 
 **Markup Understanding.**
@@ -1920,7 +1917,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 1. **ChartThinker: A Contextual Chain-of-Thought Approach to Optimized Chart Summarization**  
    Mengsha Liu, Daoyuan Chen, Yaliang Li, et al. *LREC-COLING 2024, Pages 3057–3074 (2024)*. [[Paper](https://aclanthology.org/2024.lrec-main.273/ )]
 2. **UniChart: A Universal Vision-Language Pretrained Model for Chart Comprehension and Reasoning**  
-   Ahmed Masry, Parsa Kavehzadeh, Xuan Long Do, Enamul Hoque, Shafiq Joty. *EMNLP 2023, Pages 14662–14684 (2023)*. [[Paper](https://aclanthology.org/2023.emnlp-main.906/ )]
+   Ahmed Masry, Parsa Kavehzadeh, Xuan Long Do, Enamul Hoque, Shafiq Joty. *EMNLP 2023*. [[Paper](https://aclanthology.org/2023.emnlp-main.906/ )]
 3. **FigCaps-HF: A Figure-to-Caption Generative Framework and Benchmark with Human Feedback**  
    Ashish Singh, Ashutosh Singh, Prateek Agarwal, et al. *arXiv:2307.10867 [cs.CL] (2023)*. [[Paper](https://doi.org/10.48550/arXiv.2307.10867 )]
 4. **Chart-to-Text: Generating Natural Language Descriptions for Charts by Adapting the Transformer Model**  
@@ -2077,7 +2074,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 19. **MissModal: Increasing Robustness to Missing Modality in Multimodal Sentiment Analysis**  
     Ronghao Lin, Haifeng Hu. *TACL 2023, pp. 1686-1702 (2023)*. [[Paper](https://aclanthology.org/2023.tacl-1.94/)]
 20. **Automatic Generation of Scientific Papers for Data Augmentation in Document Layout Analysis**  
-    Lorenzo Pisaneschi, Andrea Gemelli, Simone Marinai. *Pattern Recognition Letters, Vol. 167, pp. 38-44 (2023)*. [[Paper](https://doi.org/10.1016/j.patrec.2023.01.018)]
+    Lorenzo Pisaneschi, Andrea Gemelli, Simone Marinai. *Pattern Recognition Letters, 2023*. [[Paper](https://doi.org/10.1016/j.patrec.2023.01.018)]
 21. **Unifying Layout Generation With a Decoupled Diffusion Model**  
     Mude Hui, Zhizheng Zhang, Xiaoyi Zhang, et al. *CVPR 2023, pp. 1942-1951 (2023)*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hui_Unifying_Layout_Generation_With_a_Decoupled_Diffusion_Model_CVPR_2023_paper.html)]
 22. **LayoutDM: Discrete Diffusion Model for Controllable Layout Generation**  
@@ -2131,7 +2128,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 19. **Syntax-Directed Variational Autoencoder for Structured Data**  
     Hanjun Dai, Yingtao Tian, Bo Dai, et al. *ICLR 2018*. [[Paper](https://doi.org/10.48550/arXiv.1802.08786)]
 20. **Composing Graphical Models with Neural Networks for Structured Representations and Fast Inference**  
-    Matthew James Johnson, David Duvenaud, Alexander B. Wiltschko, et al. *NeurIPS 2016, pp. 2954-2962 (2016)*. [[Paper](https://papers.nips.cc/paper/6398-composing-graphical-models-with-neural-networks-for-structured-representations-and-fast-inference)]
+    Matthew James Johnson, David Duvenaud, Alexander B. Wiltschko, et al. *NeurIPS 2016*. [[Paper](https://papers.nips.cc/paper/6398-composing-graphical-models-with-neural-networks-for-structured-representations-and-fast-inference)]
 
 #### 5.3.5 3D Model Analysis
 
