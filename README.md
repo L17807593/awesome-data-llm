@@ -1715,15 +1715,15 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 1. **Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era**
    Chenxi Liu, et al. *IJCAI 2025 Survey Track (2025)*. [[Paper](https://doi.org/10.48550/arXiv.2505.02583)]
 2. **Association between forecasting models’ precision and nonlinear patterns of daily river flow time series**
-   Farhang Rahmani & Mohammad Hadi Fattahi. *Modeling Earth Systems and Environment, Volume 8, pages 4267–4276 (2022)*. [[Paper](https://link.springer.com/article/10.1007/s40808-022-01351-4)]
+   Farhang Rahmani & Mohammad Hadi Fattahi. *Modeling Earth Systems and Environment, 2022*. [[Paper](https://link.springer.com/article/10.1007/s40808-022-01351-4)]
 3. **HMCKRAutoEncoder: An Interpretable Deep Learning Framework for Time Series Analysis**
-   Jilong Wang, Rui Li, Renfa Li, Bin Fu, Danny Z. Chen. *IEEE Transactions on Emerging Topics in Computing, Volume: 10, Issue: 1, Pages: 99 - 111 (2022)*. [[Paper](https://doi.org/10.1109/TETC.2022.3143154)]
+   Jilong Wang, Rui Li, Renfa Li, et al. *IEEE Transactions on Emerging Topics in Computing, 2022*. [[Paper](https://doi.org/10.1109/TETC.2022.3143154)]
 4. **The Performance of LSTM and BiLSTM in Forecasting Time Series**  
-   Sima Siami-Namini, Neda Tavakoli, Akbar Siami Namin. *IEEE International Conference on Big Data (Big Data), 2019*. [[Paper](https://doi.org/10.1109/BigData47090.2019.9005997 )]
+   Sima Siami-Namini, Neda Tavakoli, Akbar Siami Namin. *IEEE International Conference on Big Data, 2019*. [[Paper](https://doi.org/10.1109/BigData47090.2019.9005997 )]
 5. **A Comparison of ARIMA and LSTM in Forecasting Time Series**
-   Sima Siami-Namini, Neda Tavakoli, Akbar Siami Namin. *IEEE International Conference on Machine Learning and Applications (ICMLA), 2018*. [[Paper](https://doi.org/10.1109/ICMLA.2018.00227)]
+   Sima Siami-Namini, Neda Tavakoli, Akbar Siami Namin. *ICMLA, 2018*. [[Paper](https://doi.org/10.1109/ICMLA.2018.00227)]
 6. **Time Series Databases and InfluxDB**
-   Syeda Noor Zehra Naqvi, Sofia Yfantidou, et al. *Université libre de Bruxelles, Advanced Databases, Winter Semester 2017-2018 (2017)*. [[Paper](https://www.devopsschool.com/blog/wp-content/uploads/2022/09/influxdb_2017.pdf)]
+   Syeda Noor Zehra Naqvi, Sofia Yfantidou, et al. *Université libre de Bruxelles, Advanced Databases, 2017*. [[Paper](https://www.devopsschool.com/blog/wp-content/uploads/2022/09/influxdb_2017.pdf)]
 
 **TS2NL**
 
@@ -1798,7 +1798,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 1. **InstructGraph: Boosting Large Language Models via Graph-Centric Instruction Tuning and Preference Alignment**  
    Jianing Wang, Junda Wu, Yupeng Hou, et al. *Findings of ACL 2024*. [[Paper](https://aclanthology.org/2024.findings-acl.801/ )]
 2. **GLaM: Fine-Tuning Large Language Models for Domain Knowledge Graph Alignment via Neighborhood Partitioning and Generative Subgraph Encoding**  
-    Stefan Dernbach, Khushbu Agarwal, Alejandro Zuniga, Michael Henry, Sutanay Choudhury. *AAAI Symposium Series, 3(1), 82-89 (2024)*. [[Paper](https://doi.org/10.1609/aaaiss.v3i1.31186 )]
+    Stefan Dernbach, Khushbu Agarwal, Alejandro Zuniga, et al. *AAAI Symposium Series, 3(1), 82-89 (2024)*. [[Paper](https://doi.org/10.1609/aaaiss.v3i1.31186 )]
 3. **Semi-Supervised Learning With Graph Learning-Convolutional Networks**  
    Bo Jiang, Ziyan Zhang, Doudou Lin, Jin Tang, Bin Luo. *CVPR 2019, pp. 11313-11320*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Jiang_Semi-Supervised_Learning_With_Graph_Learning-Convolutional_Networks_CVPR_2019_paper.html )]
 4. **Language is all a graph needs** [[Paper](https://arxiv.org/abs/2308.07134)]
@@ -1925,7 +1925,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 5. **An Architecture for Data-to-Text Systems**  
    Ehud Baruch Reiter. *ENLG 07, 2007*. [[Paper](https://aclanthology.org/W07-2315/ )]
 6. **Describing Complex Charts in Natural Language: A Caption Generation System**  
-   Vibhu O. Mittal, Giuseppe Carenini, Johanna D. Moore, Steven Roth. *Computational Linguistics, Volume 24, Issue 3, Pages 431 - 467 (1998)*. [[Paper](https://dl.acm.org/doi/10.5555/972749.972754 )]
+   Vibhu O. Mittal, Giuseppe Carenini, Johanna D. Moore, Steven Roth. *Computational Linguistics, 1998*. [[Paper](https://dl.acm.org/doi/10.5555/972749.972754 )]
 
 **Chart Question Answering**
 
@@ -1987,8 +1987,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
    Moritz Müller, Ambre Dupuis, Tobias Zeulner, et al. *Applied Sciences, 14(3), 1284 (2024)*. [[Paper](https://www.mdpi.com/2076-3417/14/3/1284 )]
 
 2. **AI Based Multimodal Emotion and Behavior Analysis of Interviewee**  
-   Aaditya Jadhav, Rushikesh Ghodake, Karthik Muralidharan, G Tarun Varma. *International Journal of Scientific Research in Engineering and Management (IJSREM), May 2023*. [[Paper](https://www.researchgate.net/publication/370653388_I_NTERNATIONAL_J_OURNAL_OF_S_CIENTIFIC_R_ESEARCH_IN_E_NGINEERING_AND_M_ANAGEMENT_IJSREM_AI_Based_Multimodal_Emotion_and_Behavior_Analysis_of_Interviewee#:~:text=There%20is%20a%20suggestion%20for%20a%20machine%20learning )]
-
+   Aaditya Jadhav, Rushikesh Ghodake, Karthik Muralidharan, G Tarun Varma. *IJSREM, May 2023*. [[Paper](https://www.researchgate.net/publication/370653388_I_NTERNATIONAL_J_OURNAL_OF_S_CIENTIFIC_R_ESEARCH_IN_E_NGINEERING_AND_M_ANAGEMENT_IJSREM_AI_Based_Multimodal_Emotion_and_Behavior_Analysis_of_Interviewee#:~:text=There%20is%20a%20suggestion%20for%20a%20machine%20learning )]
 
 ##### Object Detection
 
