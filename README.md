@@ -256,8 +256,8 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
    Ao Wang, Hui Chen, Lihao Liu, et al. *NeurIPS 2024.* [[Paper](https://arxiv.org/abs/2405.14458)]
 3. **UMIE: Unified Multimodal Information Extraction with Instruction Tuning**  
    Lin Sun, Kai Zhang, Qingyuan Li, Renze Lou. *AAAI 2024.* [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29873)]
-4. **ChatEL: Entity linking with chatbots**  
-   Yifan Ding, Qingkai Zeng, Tim Weninger. *LREC | COLING 2024*. [[Paper](https://aclanthology.org/2024.lrec-main.275/)]
+4. **ChatEL: Entity Linking with Chatbots**  
+   Yifan Ding, Qingkai Zeng, Tim Weninger. *LREC-COLING 2024*. [[Paper](https://aclanthology.org/2024.lrec-main.275/)]
 5. **Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models**  
    Haoran Wei, Lingyu Kong, Jinyue Chen, et al. *ECCV 2024.* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-73235-5_23)]
 6. **General OCR Theory: Towards OCR - 2.0 via a Unified End - to - end Model**  
@@ -1301,7 +1301,6 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 14. **Large Language Models as Annotators: Enhancing Generalization of NLP Models at Minimal Cost**
 
     Bansal, Parikshit, and Amit Sharma. *arXiv 2023*. [[Paper](https://arxiv.org/abs/2306.15766)]
-    <!-- 
 
 ### 4.2 LLM for Data Analysis
 
@@ -1332,7 +1331,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 9. **Automatic Metadata Extraction for Text-to-SQL**     
    Vladislav Shkapenyuk, Divesh Srivastava, Theodore Johnson, et al. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2505.19988)]
 10. **CSC-SQL: Corrective Self-Consistency in Text-to-SQL via Reinforcement Learning**     
-   Lei Sheng, Shuai-Shuai Xu. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2505.13271)]
+      Lei Sheng, Shuai-Shuai Xu. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2505.13271)]
 11. **OmniSQL: Synthesizing High-quality Text-to-SQL Data at Scale**    
     Haoyang Li, Shang Wu, Xiaokang Zhang, et al. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2503.02240)]
 12. **Cheaper, Better, Faster, Stronger: Robust Text-to-SQL without Chain-of-Thought or Fine-Tuning**    
@@ -2118,7 +2117,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 9. **REPOFUSE: Repository-Level Code Completion with Fused Dual Context**  
    Ming Liang, Xiaoheng Xie, Gehao Zhang, et al. *arXiv 2024*. [[Paper](https://doi.org/10.48550/arXiv.2402.14323)]
 10. **DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data**  
-   Huajian Xin, Daya Guo, Zhihong Shao, et al. *arXiv 2024*. [[Paper](https://doi.org/10.48550/arXiv.2405.14333)]
+      Huajian Xin, Daya Guo, Zhihong Shao, et al. *arXiv 2024*. [[Paper](https://doi.org/10.48550/arXiv.2405.14333)]
 11. **Repoformer: Selective Retrieval for Repository-Level Code Completion** [[Paper](https://dl.acm.org/doi/abs/10.5555/3692070.3694253)]
 12. **Magicoder: Empowering Code Generation with OSS-Instruct** [[Paper](https://dl.acm.org/doi/10.5555/3692070.3694228)]
 13. **SCLA: Automated Smart Contract Summarization via LLMs and Semantic Augmentation** [[Paper](https://arxiv.org/abs/2402.04863)]
@@ -2198,7 +2197,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 #### 5.4.1 LLM for Modality Alignment
 
 1. **Unicorn: A Unified Multi-Tasking Matching Model**  
-  Ju Fan, Jianhong Tu, Guoliang Li, et al. *ACM SIGMOD Record, Vol. 53, No. 1, pp. 44-53 (2024)*. [[Paper](https://doi.org/10.1145/3665252.3665263)]
+    Ju Fan, Jianhong Tu, Guoliang Li, et al. *ACM SIGMOD Record, Vol. 53, No. 1, pp. 44-53 (2024)*. [[Paper](https://doi.org/10.1145/3665252.3665263)]
 
 2. **Symphony: Towards Natural Language Query Answering over Multi-modal Data Lakes**  
    Zui Chen, Zihui Gu, Lei Cao, Ju Fan, Sam Madden, Nan Tang. *CIDR 2023*. [[Paper](https://www.vldb.org/cidrdb/2023/symphony-towards-natural-language-query-answering-over-multi-modal-data-lakes.html)]
@@ -2220,11 +2219,8 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 1. **An Interactive Multi-Modal Query Answering System with Retrieval-Augmented Large Language Models**  
    Mengzhao Wang, Haotian Wu, Xiangyu Ke, et al. *Proc. VLDB Endow., Vol. 17, No. 12, pp. 4333-4336 (2024)*. [[Paper](https://doi.org/10.14778/3685800.3685868)]
-
-
-
-3. **MUST: An Effective and Scalable Framework for Multimodal Search of Target Modality**  
+1. **MUST: An Effective and Scalable Framework for Multimodal Search of Target Modality**  
    Mengzhao Wang, Xiangyu Ke, Xiaoliang Xu, et al. *ICDE 2024*. [[Paper](https://doi.org/10.1109/ICDE60146.2024.00361)]
-4. **Explainable Multi-Modal Data Exploration in Natural Language via LLM Agent**
+1. **Explainable Multi-Modal Data Exploration in Natural Language via LLM Agent**
    Farhad Nooralahzadeh, Yi Zhang, Jonathan Furst, Kurt Stockinger. *arXiv 2024*. [[Paper](https://doi.org/10.48550/arXiv.2412.18428)]
 
