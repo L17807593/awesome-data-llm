@@ -1722,7 +1722,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
    Sima Siami-Namini, Neda Tavakoli, Akbar Siami Namin. *IEEE International Conference on Big Data, 2019*. [[Paper](https://doi.org/10.1109/BigData47090.2019.9005997 )]
 5. **A Comparison of ARIMA and LSTM in Forecasting Time Series**    
    Sima Siami-Namini, Neda Tavakoli, Akbar Siami Namin. *ICMLA, 2018*. [[Paper](https://doi.org/10.1109/ICMLA.2018.00227)]
-6. **Time Series Databases and InfluxDB **    
+6. **Time Series Databases and InfluxDB**    
    Syeda Noor Zehra Naqvi, Sofia Yfantidou, et al. *Université libre de Bruxelles, Advanced Databases, 2017*. [[Paper](https://www.devopsschool.com/blog/wp-content/uploads/2022/09/influxdb_2017.pdf)]
 
 **TS2NL**
@@ -2216,4 +2216,5 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
    Mengzhao Wang, Xiangyu Ke, Xiaoliang Xu, et al. *ICDE 2024*. [[Paper](https://doi.org/10.1109/ICDE60146.2024.00361)]
 1. **Explainable Multi-Modal Data Exploration in Natural Language via LLM Agent**     
    Farhad Nooralahzadeh, Yi Zhang, Jonathan Furst, Kurt Stockinger. *arXiv 2024*. [[Paper](https://doi.org/10.48550/arXiv.2412.18428)]
+
 
