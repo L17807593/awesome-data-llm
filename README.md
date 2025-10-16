@@ -503,7 +503,8 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 [⬆️top](#table-of-contents)
 
-1. **Mixtera: A Data Plane for Foundation Model Training** Maximilian Böther, Xiaozhe Yao, Tolga Kerimoglu, Dan Graur, Viktor Gsteiger, Ana Klimovic. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2502.19790)]
+1. **Mixtera: A Data Plane for Foundation Model Training**    
+   Maximilian Böther, Xiaozhe Yao, Tolga Kerimoglu, Dan Graur, Viktor Gsteiger, Ana Klimovic. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2502.19790)]
 2. **Scalable Data Ablation Approximations for Language Models through Modular Training and Merging**  
    Clara Na, Ian Magnusson, Ananya Harsh Jha, et al. *EMNLP 2024.* [[Paper](https://arxiv.org/abs/2410.15661v1)]
 3. **Mixture-of-LoRAs: An Efficient Multitask Tuning for Large Language Models**  
@@ -1107,10 +1108,9 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 ##### Data Standardization
 
-1. **Exploring the Feasibility of Automated Data Standardization using Large Language Models for Seamless Positioning**
-
+1. **Exploring the Feasibility of Automated Data Standardization using Large Language Models for Seamless Positioning**    
    Lee, Max JL, et al.  *2024 14th International Conference on Indoor Positioning and Indoor Navigation (IPIN)*. IEEE, 2024. [[Paper](https://arxiv.org/abs/2408.12080)]
-
+   
 2. **CleanAgent: Automating Data Standardization with LLM-based Agents**  
    Danrui Qi, Jiannan Wang. *arXiv 2024.* [[Paper](https://arxiv.org/pdf/2403.08291)]
 
@@ -1123,9 +1123,8 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 5. **LLMs with User-defined Prompts as Generic Data Operators for Reliable Data Processing**  
    Luyi Ma, et al. *1st IEEE International Workshop on Data Engineering and Modeling for AI (DEMAI), IEEE BigData 2023.* [[Paper](https://arxiv.org/abs/2312.16351)]
 
-6. **Large language models as data preprocessors.**  
-
-   Zhang, Haochen, et al. *arXiv 2023*. [[Paper](https://arxiv.org/abs/2308.16361)]
+6. **Large language models as data preprocessors**    
+Zhang, Haochen, et al. *arXiv 2023*. [[Paper](https://arxiv.org/abs/2308.16361)]
 
 ##### Data Error Processing
 
@@ -1150,10 +1149,9 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 7. **LLMClean: Context-Aware Tabular Data Cleaning via LLM-Generated OFDs**  
    Fabian Biester, Mohamed Abdelaal, Daniel Del Gaudio. *arXiv 2024.* [[Paper](https://arxiv.org/abs/2404.18681)]
 
-8. **Cleaning Semi-Structured Errors in Open Data Using Large Language Models**
-
+8. **Cleaning Semi-Structured Errors in Open Data Using Large Language Models**    
    M. Mondal, J. Audiffren, L. Dolamic, et al, *2024 11th IEEE Swiss Conference on Data Science (SDS), 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10675754)]
-
+   
 9. **IterClean: An Iterative Data Cleaning Framework with Large Language Models**       
    Wei Ni, et al. *Proceedings of the ACM Turing Award Celebration Conference - China 2024*. [[Paper](https://dl.acm.org/doi/abs/10.1145/3674399.3674436)]
 
@@ -1165,10 +1163,9 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 2. **A Context-Aware Approach for Enhancing Data Imputation with Pre-trained Language Models**  
    Ahatsham Hayat, Mohammad R. Hasan. *COLING 2025, pp. 5668-5685 (2025)*. [[Paper](https://aclanthology.org/2025.coling-main.380/)]
 
-3. **Does Prompt Design Impact Quality of Data Imputation by LLMs?**
-
+3. **Does Prompt Design Impact Quality of Data Imputation by LLMs?**    
    Srinivasan, Shreenidhi, and Lydia Manikonda. *arXiv 2025*. [[Paper](https://arxiv.org/abs/2506.04172)]
-
+   
 4. **RetClean: Retrieval-Based Data Cleaning Using LLMs and Data Lakes**  
    Zan Ahmad Naeem, et al. *VLDB Endowment 2024*. [[Paper](https://dl.acm.org/doi/10.14778/3685800.3685890)]
 
@@ -1179,14 +1176,12 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 ##### Entity Matching
 
-1. **A Deep Dive Into Cross-Dataset Entity Matching with Large and Small Language Models**
-
+1. **A Deep Dive Into Cross-Dataset Entity Matching with Large and Small Language Models**   
    Zhang, Zeyu, et al. *International Conference on Extending Database Technology (EDBT) 2025.* [[Paper](https://deem.berlin/publication/2025-02-05-a-deep-dive-into-cross-dataset-em-with-small-and-large-language-models-edbt/)]
 
-2. **Large Language Models for Data Discovery and Integration: Challenges and Opportunities**
-
+2. **Large Language Models for Data Discovery and Integration: Challenges and Opportunities**      
    Freire, Juliana, et al.   *[IEEE Data Eng. Bull. 49(1)](https://dblp.org/db/journals/debu/debu49.html#FreireFFKLPSSW25): 3-31 (2025)*. [[Paper](http://sites.computer.org/debull/A25mar/p3.pdf)]
-
+   
 3. **Entity matching using large language models**  
    Ralph Peeters, Christian Bizer. *EDBT 2025.* [[Paper](https://arxiv.org/abs/2310.11244)]
 
@@ -1202,9 +1197,8 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 7. **Jellyfish: A Large Language Model for Data Preprocessing**  
    Haochen Zhang, Yuyang Dong, Chuan Xiao, et al. *EMNLP 2024.* [[Paper](https://arxiv.org/abs/2312.01678)]
 
-8. **Fine-tuning Large Language Models for Entity Matching**
-
-   Steiner, Aaron, Ralph Peeters, et al. *arXiv 2024*. [[Paper](https://arxiv.org/abs/2409.08185)]
+8. **Fine-tuning Large Language Models for Entity Matching**     
+Steiner, Aaron, Ralph Peeters, et al. *arXiv 2024*. [[Paper](https://arxiv.org/abs/2409.08185)]
 
 ##### Schema Matching
 
@@ -1220,7 +1214,7 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
    Marcel Parciak, Brecht Vandevoort, Frank Neven, et al. *TaDA 2024 Workshop, collocated with VLDB 2024.* [[Paper](https://doi.org/10.48550/arXiv.2407.11852)]
 6. **Magneto: Combining Small and Large Language Models for Schema Matching**  
    Yurong Liu, Eduardo Pena, Aecio Santos, et al. *VLDB Endowment 2024.*  [[Paper](https://www.vldb.org/pvldb/vol17/p2750-fan.pdf)]
-7. **Agent-OM: Leveraging LLM Agents for Ontology Matching**
+7. **Agent-OM: Leveraging LLM Agents for Ontology Matching**    
    Zhangcheng Qiang, et al. *Proceedings of the VLDB Endowment, Volume 18, Issue 3, 2024.* [[Paper](https://dl.acm.org/doi/10.14778/3712221.3712222)]
 8. **Matchmaker: Self-Improving Large Language Model Programs for Schema Matching**  
    Nabeel Seedat, Mihaela van der Schaar. *NeurIPS 2024 (GenAI for Health & Table Representation Learning Workshops)*. [[Paper](https://doi.org/10.48550/arXiv.2410.24105)]
@@ -1246,13 +1240,11 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 4. **LEDD: Large Language Model-Empowered Data Discovery in Data Lakes**  
    Qi An, Chihua Ying, Yuqing Zhu, et al. *arXiv 2025*. [[Paper](https://arxiv.org/abs/2502.15182)]
 
-5. **LLM-Aided Customizable Profiling of Code Data Based On Programming Language Concepts**
-
+5. **LLM-Aided Customizable Profiling of Code Data Based On Programming Language Concepts**    
    Thorat, Pankaj, et al. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2503.15571)]
-
-6. **Cocoon: Semantic Table Profiling Using Large Language Models**
-
-   Huang, Zezhou, et al. *Proceedings of the 2024 Workshop on Human-In-the-Loop Data Analytics*. 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3665939.3665957)]
+   
+6. **Cocoon: Semantic Table Profiling Using Large Language Models**      
+Huang, Zezhou, et al. *Proceedings of the 2024 Workshop on Human-In-the-Loop Data Analytics*. 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3665939.3665957)]
 
 ##### Data Annotation
 
@@ -1265,10 +1257,9 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 3. **Mind the Data Gap: Bridging LLMs to Enterprise Data Integration**  
    Moe Kayali, Fabian Wenz, Nesime Tatbul, et al. *CIDR 2025.* [[Paper](https://arxiv.org/abs/2412.20331)]
 
-4. **Open-Source LLMs for Text Annotation: A Practical Guide for Model Setting and Fine-Tuning**
-
+4. **Open-Source LLMs for Text Annotation: A Practical Guide for Model Setting and Fine-Tuning**    
    Alizadeh, Meysam, et al. *Journal of Computational Social Science* 8.1 (2025): 1-25. [[Paper](https://arxiv.org/abs/2307.02179)]
-
+   
 5. **Evaluating Knowledge Generation and Self-Refinement Strategies for LLM-based Column Type Annotation**  
    Keti Korini, Christian Bizer. *arXiv 2025*. [[Paper](https://arxiv.org/abs/2503.02718)]
 
@@ -1296,9 +1287,8 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 13. **AutoLabel: Automated Textual Data Annotation Method Based on Active Learning and Large Language Model**    
     Ming, Xuran, et al. *International Conference on Knowledge Science, Engineering and Management*. 2024. [[Paper](https://dl.acm.org/doi/10.1007/978-981-97-5501-1_30)]
 
-14. **Large Language Models as Annotators: Enhancing Generalization of NLP Models at Minimal Cost**
-
-    Bansal, Parikshit, and Amit Sharma. *arXiv 2023*. [[Paper](https://arxiv.org/abs/2306.15766)]
+14. **Large Language Models as Annotators: Enhancing Generalization of NLP Models at Minimal Cost**    
+Bansal, Parikshit, and Amit Sharma. *arXiv 2023*. [[Paper](https://arxiv.org/abs/2306.15766)]
 
 ### 4.2 LLM for Data Analysis
 
@@ -2207,7 +2197,6 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 3. **CAESURA: Language Models as Multi-Modal Query Planners**  
    Matthias Urban, Carsten Binnig. *arXiv 2023*. [[Paper](https://doi.org/10.48550/arXiv.2308.03424)]
 
-
 #### 5.4.2 Heterogeneous Data Analysis Agents
 
 1. **An Interactive Multi-Modal Query Answering System with Retrieval-Augmented Large Language Models**  
@@ -2216,5 +2205,4 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
    Mengzhao Wang, Xiangyu Ke, Xiaoliang Xu, et al. *ICDE 2024*. [[Paper](https://doi.org/10.1109/ICDE60146.2024.00361)]
 1. **Explainable Multi-Modal Data Exploration in Natural Language via LLM Agent**     
    Farhad Nooralahzadeh, Yi Zhang, Jonathan Furst, Kurt Stockinger. *arXiv 2024*. [[Paper](https://doi.org/10.48550/arXiv.2412.18428)]
-
 
