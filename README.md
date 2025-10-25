@@ -23,19 +23,15 @@
 }
 ```
 
-
-
 ## 🌤 The IaaS Concept of DATA4LLM
 
-
-
-The **IaaS** concept for LLM data (phonetically echoing *Infrastructure as a Service*) defines the characteristics of high-quality datasets along four key dimensions: (1) **Inclusiveness** ensures broad coverage across domains, tasks, sources, languages, styles, and modalities. (2) **Abundance** emphasizes sufficient and well-balanced data volume to support scaling, fine-tuning, and continual learning without overfitting. (3) **Articulation** requires clear, coherent, and instructive content with step-by-step reasoning to enhance model understanding and task performance. (4) **Sanitization** involves rigorous filtering to remove private, toxic, unethical, and misleading content, ensuring data safety, neutrality, and compliance. [![arXiv](https://camo.githubusercontent.com/dc1f84975e5d05724930d5c650e4b6eaea49e9f4c03d00de50bd7bf950394b4f/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f6261646765732f7261772f6d61696e2f70617065722d706167652d736d2d6461726b2e737667)](https://github.com/SUPERZJ827/LLM4DB/blob/main/assets/data_llm_survey_v3.pdf)
+The **IaaS** concept for LLM data (phonetically echoing *Infrastructure as a Service*) defines the characteristics of high-quality datasets along four key dimensions: (1) **Inclusiveness** ensures broad coverage across domains, tasks, sources, languages, styles, and modalities. (2) **Abundance** emphasizes sufficient and well-balanced data volume to support scaling, fine-tuning, and continual learning without overfitting. (3) **Articulation** requires clear, coherent, and instructive content with step-by-step reasoning to enhance model understanding and task performance. (4) **Sanitization** involves rigorous filtering to remove private, toxic, unethical, and misleading content, ensuring data safety, neutrality, and compliance. [![arXiv](https://camo.githubusercontent.com/dc1f84975e5d05724930d5c650e4b6eaea49e9f4c03d00de50bd7bf950394b4f/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f6261646765732f7261772f6d61696e2f70617065722d706167652d736d2d6461726b2e737667)](https://arxiv.org/abs/2505.18458)
 
 [![Cover](https://github.com/SUPERZJ827/LLM4DB/raw/main/assets/iaas_overview_v2.png)](https://github.com/SUPERZJ827/LLM4DB/blob/main/assets/iaas_overview_v2.png)
 
 ## 🌟 LLM/Agent-as-Data-Analyst
 
-We observe the evolution of **LLM/Agent-as-Data-Analyst** techniques follows a five-dimension trajectory: (1) Data Modality (homogeneous → heterogeneous); (2) Analysis Functionality (literal → semantic); (3) Knowledge Scope (closed-world →open-world); (4) Tool Integration (tool-coupled → tool-assisted); (5) Development Autonomy (manual → fully autonomous).
+We observe the evolution of **LLM/Agent-as-Data-Analyst** techniques follows a five-dimension trajectory: (1) Data Modality (homogeneous → heterogeneous); (2) Analysis Functionality (literal → semantic); (3) Knowledge Scope (closed-world →open-world); (4) Tool Integration (tool-coupled → tool-assisted); (5) Development Autonomy (manual → fully autonomous). [![arXiv](https://camo.githubusercontent.com/dc1f84975e5d05724930d5c650e4b6eaea49e9f4c03d00de50bd7bf950394b4f/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f6261646765732f7261772f6d61696e2f70617065722d706167652d736d2d6461726b2e737667)](https://arxiv.org/abs/2509.23988)
 
 [![Cover2](https://github.com/SUPERZJ827/LLM4DB/blob/main/assets/data_analysis_survey.png)](https://github.com/SUPERZJ827/LLM4DB/blob/main/assets/data_analysis_survey.png)
 
@@ -1634,26 +1630,59 @@ Bansal, Parikshit, and Amit Sharma. *arXiv 2023*. [[Paper](https://arxiv.org/abs
 
 ##### NL2SQL
 
-1. **Cracking SQL Barriers: An LLM-based Dialect Translation System**  
-   Wei Zhou, Yuyang Gao, Xuanhe Zhou, Guoliang Li. *Proc. ACM Manag. Data, Vol. 3, No. 3, Article 141, pp. 1-26 (2025)*. [[Paper](https://doi.org/10.1145/3725278)]
-2. **CrackSQL: A Hybrid SQL Dialect Translation System Powered by Large Language Models** [[Paper](https://doi.org/10.48550/arXiv.2504.00882)]
-3. **Natural Language to SQL: State of the Art and Open Problems**  
-   Yuyu Luo, Guoliang Li, Ju Fan, Chengliang Chai, Nan Tang. *Proc. VLDB Endow., Vol. 18, No. 12, pp. 5466-5471 (2025)*. [[Paper](https://doi.org/10.14778/3750601.3750696)]
-4. **A Survey on Employing Large Language Models for Text-to-SQL Tasks**  
-   Liang Shi, Zhengju Tang, Nan Zhang, et al. *ACM Comput. Surv., Vol. 58, No. 2, Article 54, pp. 1-37 (2025)*. [[Paper](https://doi.org/10.1145/3737873)]
-5. **Bridging the Semantic Gap Between Text and Table: A Case Study on NL2SQL**    
-   Lin Long, Xijun Gu, Xinjie Sun, et al. *International Conference on Representation Learning 2025 (ICLR 2025)*. [[Paper](https://openreview.net/forum?id=qmsX2R19p9)]
-6. **A Survey of Text-to-SQL in the Era of LLMs: Where Are We, and Where Are We Going?**    
+1. **A Survey of Text-to-SQL in the Era of LLMs: Where Are We, and Where Are We Going?**    
    Xinyu Liu, Shuyu Shen, Boyan Li, et al. *IEEE Transactions on Knowledge and Data Engineering, 2025*. [[Paper](https://doi.org/10.1109/TKDE.2025.3592032)]
-7. **Finsql: Model-agnostic llms-based text-to-sql framework for financial analysis** [[Paper](https://dl.acm.org/doi/abs/10.1145/3626246.3653375)]
-8. **Codes: Towards building open-source language models for text-to-sql** [[Paper](https://dl.acm.org/doi/abs/10.1145/3654930)]
-9. **Combining Small Language Models and Large Language Models for Zero-Shot NL2SQL**     
+2. **Natural Language to SQL: State of the Art and Open Problems**  
+   Yuyu Luo, Guoliang Li, Ju Fan, Chengliang Chai, Nan Tang. *Proc. VLDB Endow., Vol. 18, No. 12, pp. 5466-5471 (2025)*. [[Paper](https://doi.org/10.14778/3750601.3750696)]
+3. **A Survey on Employing Large Language Models for Text-to-SQL Tasks**  
+   Liang Shi, Zhengju Tang, Nan Zhang, et al. *ACM Comput. Surv., Vol. 58, No. 2, Article 54, pp. 1-37 (2025)*. [[Paper](https://doi.org/10.1145/3737873)]
+4. **Bridging the Semantic Gap Between Text and Table: A Case Study on NL2SQL**    
+   Lin Long, Xijun Gu, Xinjie Sun, et al. *International Conference on Representation Learning 2025 (ICLR 2025)*. [[Paper](https://openreview.net/forum?id=qmsX2R19p9)]
+5. **RubikSQL: Lifelong Learning Agentic Knowledge Base as an Industrial NL2SQL System**  
+   Zui Chen, Han Li, Xinhao Zhang, et al. *submitted to VLDB 2026 (PVLDB Vol. 19)*. [[Paper](https://doi.org/10.48550/arXiv.2508.17590)]
+6. **Combining Small Language Models and Large Language Models for Zero-Shot NL2SQL**     
    Ju Fan, Zihui Gu, Songyue Zhang, et al. *Proceedings of the VLDB Endowment, Volume 17, Issue 11 (2024)*. [[Paper](https://doi.org/10.14778/3681954.3681960)]
-10. **PET-SQL: A Prompt-Enhanced Two-Round Refinement of Text-to-SQL with Cross-consistency** [[Paper](https://doi.org/10.48550/arXiv.2403.09732)]
-11. **CHESS: Contextual Harnessing for Efficient SQL Synthesis** [[Paper](https://doi.org/10.48550/arXiv.2405.16755)]
-12. **DIN-SQL: decomposed in-context learning of text-to-SQL with self-correction** [[Paper](https://dl.acm.org/doi/10.5555/3666122.3667699)]
-13. **OpenSearch-SQL: Enhancing Text-to-SQL with Dynamic Few-shot and Consistency Alignment** [[Paper](https://doi.org/10.1145/3725331)]
-14. **The Dawn of Natural Language to SQL: Are We Fully Ready?** [[Paper](https://doi.org/10.48550/arXiv.2406.01265)]
+7. **Cracking SQL Barriers: An LLM-based Dialect Translation System**  
+   Wei Zhou, Yuyang Gao, Xuanhe Zhou, Guoliang Li. *SIGMOD 2025*. [[Paper](https://dbgroup.cs.tsinghua.edu.cn/ligl/SIGMOD25-CrackSQL.pdf)]
+8. **OpenSearch-SQL: Enhancing Text-to-SQL with Dynamic Few-shot and Consistency Alignment**  
+   Xiangjin Xie, Guangwei Xu, Lingyan Zhao, Ruijie Guo. *Proc. ACM Manag. Data, Vol. 3, No. 3, Article 194, pp. 1-24 (2025)*. [[Paper](https://doi.org/10.1145/3725331)]
+9. **Data Interpreter: An LLM Agent for Data Science**  
+   Sirui Hong, Yizhang Lin, Bang Liu, et al. *ACL 2025 Findings, pp. 19796-19821 (2025)*. [[Paper](https://aclanthology.org/2025.findings-acl.1016/)]
+10. **Reasoning-SQL: Reinforcement Learning with SQL-Tailored Partial Rewards for Reasoning-Enhanced Text-to-SQL**  
+   Mohammadreza Pourreza, Shayan Talaei, Ruoxi Sun, et al. *COLM 2025*. [[Paper](https://openreview.net/forum?id=HbwkIDWQgN)]
+11. **An advanced AI driven database system**     
+   M. Tedeschi, S. Rizwan, C. Shringi, et al. *EDULEARN25 Conference Proceedings. 2025.* [[Paper](https://arxiv.org/abs/2507.17778)]
+12. **Text to Query Plans for Question Answering on Large Tables**    
+   Yipeng Zhang, Chen Wang, Yuzhe Zhang, et al. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2508.18758v1)]
+13. **Automatic Metadata Extraction for Text-to-SQL**     
+   Vladislav Shkapenyuk, Divesh Srivastava, Theodore Johnson, et al. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2505.19988)]
+14. **CSC-SQL: Corrective Self-Consistency in Text-to-SQL via Reinforcement Learning**     
+      Lei Sheng, Shuai-Shuai Xu. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2505.13271)]
+15. **OmniSQL: Synthesizing High-quality Text-to-SQL Data at Scale**    
+    Haoyang Li, Shang Wu, Xiaokang Zhang, et al. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2503.02240)]
+16. **Cheaper, Better, Faster, Stronger: Robust Text-to-SQL without Chain-of-Thought or Fine-Tuning**    
+    Yusuf Denizay Dönder, Derek Hommel, Andrea W Wen-Yi, et al. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2505.14174)]
+17. **A Preview of XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**   
+    Yingqi Gao, Yifu Liu, Xiaoxia Li, et al. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2411.08599)]
+18. **FinSQL: Model-Agnostic LLMs-based Text-to-SQL Framework for Financial Analysis**  
+    Chao Zhang, Yuren Mao, Yijiang Fan, et al. *SIGMOD 2024.* [[Paper](https://doi.org/10.1145/3626246.3653375)]
+19. **CodeS: Towards Building Open-source Language Models for Text-to-SQL**  
+    Haoyang Li, et al. *Proceedings of the ACM on Management of Data, Volume 2, Issue 3, 2024.* [[Paper](https://doi.org/10.1145/3654930)]
+20. **The Dawn of Natural Language to SQL: Are We Fully Ready?**  
+    Boyan Li, Yuyu Luo, Chengliang Chai, Guoliang Li, Nan Tang. *VLDB 2024.* [[Paper](https://arxiv.org/abs/2406.01265)]
+21. **Contextualized Data-Wrangling Code Generation in Computational Notebooks**  
+    Junjie Huang, Daya Guo, Chenglong Wang, et al. *ASE 2024*. [[Paper](https://dl.acm.org/doi/abs/10.1145/3691620.3695503)]
+22. **PET-SQL: A Prompt-Enhanced Two-Round Refinement of Text-to-SQL with Cross-consistency**  
+    Zhishuai Li, Xiang Wang, Jingjing Zhao, et al. *arXiv 2024.* [[Paper](https://doi.org/10.48550/arXiv.2403.09732)]
+23. **CHESS: Contextual Harnessing for Efficient SQL Synthesis**   
+    Shayan Talaei, Mohammadreza Pourreza, Yu-Chen Chang, et al. *arXiv 2024.* [[Paper](https://doi.org/10.48550/arXiv.2405.16755)]
+24. **DIN-SQL: Decomposed In-Context Learning of Text-to-SQL with Self-Correction**  
+    Mohammadreza Pourreza, Davood Rafiei. *NeurIPS 2023*. [[Paper](https://dl.acm.org/doi/10.5555/3666122.3667699)]
+25. **Natural Language to Code Generation in Interactive Data Science Notebooks**   
+    Pengcheng Yin, Wen-Ding Li, Kefan Xiao, et al. *ACL 2023.* [[Paper](https://aclanthology.org/2023.acl-long.9/)]
+26. **PaLM: Scaling Language Modeling with Pathways**   
+    Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, et al. *JMLR 2023.* [[Paper](https://dl.acm.org/doi/10.5555/3648699.3648939)]
+
 
 ##### NL2Code
 
