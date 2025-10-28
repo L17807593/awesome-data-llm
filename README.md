@@ -33,7 +33,7 @@ The **IaaS** concept for LLM data (phonetically echoing *Infrastructure as a Ser
 
 We observe the evolution of **LLM/Agent-as-Data-Analyst** techniques follows a five-dimension trajectory: (1) Data Modality (homogeneous → heterogeneous); (2) Analysis Functionality (literal → semantic); (3) Knowledge Scope (closed-world →open-world); (4) Tool Integration (tool-coupled → tool-assisted); (5) Development Autonomy (manual → fully autonomous). [![arXiv](https://camo.githubusercontent.com/dc1f84975e5d05724930d5c650e4b6eaea49e9f4c03d00de50bd7bf950394b4f/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f6261646765732f7261772f6d61696e2f70617065722d706167652d736d2d6461726b2e737667)](https://arxiv.org/abs/2509.23988)
 
-[![Cover2](https://github.com/SUPERZJ827/LLM4DB/blob/main/assets/data_analysis_survey_v2.png)](https://github.com/SUPERZJ827/LLM4DB/blob/main/assets/data_analysis_survey_v2.png)
+[![Cover2](assets/data_analysis_survey_v2.png)](assets/data_analysis_survey_v2.png)
 
 ## Table of Contents
 
