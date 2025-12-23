@@ -213,26 +213,18 @@ Mike Conover, Matt Hayes, Ankit Mathur, et al. *2023*. [[Source](https://www.dat
 
 Open-source or copyright-free resources
 
-##### Webpages
-
 1. **Common Crawl**: A large-scale publicly accessible web crawl dataset that provides massive raw webpages and metadata. It serves as a crucial raw data source in typical pretraining data pipelines, where it undergoes multiple processing steps such as cleaning, deduplication, and formatting to produce high-quality corpora for downstream model training. [[Source](https://commoncrawl.org/)]
 2. **CulturaX: A Cleaned, Enormous, and Multilingual Dataset for Large Language Models in 167 Languages**
    Thuat Nguyen, Chien Van Nguyen, Viet Dac Lai, et al. *LREC-COLING 2024.* [[Paper](https://aclanthology.org/2024.lrec-main.377.pdf)]
-
-##### Digital Books
-
-1. **Project Gutenberg**: A large collection of free eBooks from the public domain; supports training language models on long-form literary text. [[Source](https://www.gutenberg.org/)]
-2. **Open Library**: A global catalog of books with metadata and some open-access content; useful for multilingual and knowledge-enhanced language modeling. [[Source](https://openlibrary.org/)]
-
-##### Code Repositories
-
-1. **GitHub**: The world’s largest open-source code hosting platform; supports training models for code generation and understanding. [[Source](https://github.com/)]
-2. **GitLab**: A DevOps platform for hosting both private and open-source projects; provides high-quality programming and documentation data. [[Source](https://gitlab.com/)]
-3. **Bitbucket**: A source code hosting platform by Atlassian; suitable for mining enterprise-level software development data. [[Source](https://bitbucket.org/product/)]
-<!-- 4. **The Stack: 3 TB of permissively licensed source code**
+3. **Project Gutenberg**: A large collection of free eBooks from the public domain; supports training language models on long-form literary text. [[Source](https://www.gutenberg.org/)]
+4. **Open Library**: A global catalog of books with metadata and some open-access content; useful for multilingual and knowledge-enhanced language modeling. [[Source](https://openlibrary.org/)]
+5. **GitHub**: The world’s largest open-source code hosting platform; supports training models for code generation and understanding. [[Source](https://github.com/)]
+6. **GitLab**: A DevOps platform for hosting both private and open-source projects; provides high-quality programming and documentation data. [[Source](https://gitlab.com/)]
+7. **Bitbucket**: A source code hosting platform by Atlassian; suitable for mining enterprise-level software development data. [[Source](https://bitbucket.org/product/)]
+8. **The Stack: 3 TB of permissively licensed source code**
    Denis Kocetkov, Raymond Li, Loubna Ben Allal, et al. *arXiv 2022*. [[Paper](https://arxiv.org/abs/2211.15533)]
-5. **CodeSearchNet Challenge: Evaluating the State of Semantic Code Search**
-   Hamel Husain, Ho-Hsiang Wu, Tiferet Gazit, et al. *arXiv 2019*. [[Paper](https://arxiv.org/abs/1909.09436)]    -->
+9. **CodeSearchNet Challenge: Evaluating the State of Semantic Code Search**
+   Hamel Husain, Ho-Hsiang Wu, Tiferet Gazit, et al. *arXiv 2019*. [[Paper](https://arxiv.org/abs/1909.09436)]
 
 #### Website Crawling
 
@@ -243,18 +235,18 @@ Open-source or copyright-free resources
 3. **An Empirical Comparison of Web Content Extraction Algorithms**
    Janek Bevendorff, Sanket Gupta, Johannes Kiesel, Benno Stein. *SIGIR 2023*. [[Paper](https://dl.acm.org/doi/10.1145/3539618.3591920)]
 
-##### Auxiliary Tools
+#### Website Crawling Tools
 
 1. **Beautiful Soup**: A Python-based library for parsing HTML and XML documents; supports extracting structured information from static web pages. [[Source](https://beautiful-soup-4.readthedocs.io/en/latest/)]
 2. **Selenium**: A browser automation tool that enables interaction with dynamic web pages; suitable for scraping JavaScript-heavy content. [[Github](https://github.com/seleniumhq/selenium)]
 3. **Playwright**: A browser automation framework developed by Microsoft; supports multi-browser environments and is ideal for high-quality, concurrent web scraping tasks. [[Source](https://playwright.dev/)]
 4. **Puppeteer**: A Node.js library that provides a high-level API to control headless Chrome or Chromium; useful for scraping complex pages, taking screenshots, or generating PDFs. [[Source](https://pptr.dev/)]
 
-#### Layout Analysis
+#### Layout Analysis Pipelines
 
 Extract text from hand-written or non-textual data (e.g., scanned PDF documents)
 
-##### Layout Analysis Pipelines
+##### Pipelines
 
 Extract text using multiple components as a pipeline, including segmentation and OCR
 
@@ -270,8 +262,12 @@ Extract text using multi-modal LLMs as a whole, from image to text directly
    Haoran Wei, Chenglong Liu, Jinyue Chen, et al. *arXiv 2024.* [[Paper](https://arxiv.org/abs/2409.01704v1)]
 2. **Focus Anywhere for Fine-grained Multi-page Document Understanding**
    Chenglong Liu, Haoran Wei, Jinyue Chen, et al. *arXiv 2024.* [[Paper](https://arxiv.org/abs/2405.14295)]
+3. **DeepSeek-OCR: Contexts Optical Compression**
+   Haoran Wei, Yaofeng Sun, Yukun Li. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2510.18234)]
+4. **dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model**
+   Yumeng Li, Guang Yang, Hao Liu, Bowen Wang, Colin Zhang. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2512.02498)]
 
-#### Entity Recognition & Linking
+##### Entity Recognition & Linking
 
 Identify and link entities for the extracted text
 
@@ -295,34 +291,26 @@ Identify and link entities for the extracted text
 
 #### Exact Substring Matching
 
-Identify samples with identical patterns, including...
+Identify samples with identical patterns, such as hashes (MD5/SHA256) or substring.
 
 ##### Hashing
 
-...the same MD5/SHA256 hashes. Variants include:
-
-**Sample-Level Hashing**
+Identify samples with the same MD5/SHA256 hashes.
 
 1. **BaichuanSEED: Sharing the Potential of ExtensivE Data Collection and Deduplication by Introducing a Competitive Large Language Model Baseline**
    Guosheng Dong, Da Pan, Yiding Sun, et al. *arXiv 2024.* [[Paper](https://arxiv.org/abs/2408.15079)]
-
-**Line-Level Hashing**
-
-1. **The llama 3 herd of models** [[Paper](https://arxiv.org/abs/2407.21783)]
-
-**Image Hashing**
-
-1. **MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens**
+2. **The llama 3 herd of models** [[Paper](https://arxiv.org/abs/2407.21783)]
+3. **MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens**
    Anas Awadalla, Le Xue, Oscar Lo, Manli Shu, Hannah Lee, Etash Guha, Matt Jordan, Sheng Shen, Mohamed Awadalla, Silvio Savarese, Caiming Xiong, Ran Xu, Yejin Choi, Ludwig Schmidt. *NeurIPS 2024.* [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/40b9196c25fe1d64d87ca3a80a91d0ce-Abstract-Datasets_and_Benchmarks_Track.html)]
 
-##### [Suffix Array](https://epubs.siam.org/doi/abs/10.1137/0222058)
+##### Suffix Array
 
 1. **Deduplicating Training Data Makes Language Models Better**
    Katherine Lee, Daphne Ippolito, Andrew Nystrom, et al. *ACL 2022.* [[Paper](https://arxiv.org/abs/2107.06499)]
 2. **The RefinedWeb dataset for falcon LLM: outperforming curated corpora with web data only**
    Guilherme Penedo, Quentin Malartic, Daniel Hesslow, et al. *NeurIPS 2023.* [[Paper](https://dl.acm.org/doi/10.5555/3666122.3669586)]
 
-##### [Bloom Filter](https://dl.acm.org/doi/abs/10.1145/362686.362692)
+##### Bloom Filter
 
 1. **Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research**
    Luca Soldaini, Rodney Kinney, Akshita Bhagia, et al. *ACL 2024*. [[Paper](https://arxiv.org/abs/2402.00159)]
@@ -331,16 +319,14 @@ Identify samples with identical patterns, including...
 
 #### Approximate Hash Matching
 
-Identify samples with similar patterns. The algorithms include:
-
-##### [SimHash](https://dl.acm.org/doi/abs/10.1145/509907.509965)
-
-##### [MinHash](https://doi.org/10.1109/SEQUEN.1997.666900) (and variants MinHashLSH and [LSHBloom](https://arxiv.org/abs/2411.04257))
+Identify samples with similar patterns. Algorithms include SimHash, MinHash and DotHash.
 
 1. **SlimPajama-DC: Understanding Data Combinations for LLM Training**
    Zhiqiang Shen, Tianhua Tao, Liqun Ma, et al. *arXiv 2023.* [[Paper](https://arxiv.org/abs/2309.10818)]
 2. **Noise-Robust De-Duplication at Scale**
    Emily Silcock, Luca D'Amico-Wong, Jinglin Yang, Melissa Dell. *arXiv 2022.* [[Paper](https://arxiv.org/abs/2210.04261)]
+3. **LSHBloom: Memory-efficient, Extreme-scale Document Deduplication**
+   Arham Khan, Robert Underwood, Carlo Siebenschuh, Yadu Babuji, Aswathy Ajith, Kyle Hippe, Ozan Gokdemir, Alexander Brace, Kyle Chard, Ian Foster. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2411.04257)]
 
 **Sample-Level:**
 
@@ -357,8 +343,6 @@ Identify samples with similar patterns. The algorithms include:
 
 1. **DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence** [[Paper](https://arxiv.org/abs/2401.14196)]
 2. **BaichuanSEED: Sharing the Potential of ExtensivE Data Collection and Deduplication by Introducing a Competitive Large Language Model Baseline** [[Paper](https://arxiv.org/abs/2408.15079)]
-
-##### [DotHash](https://doi.org/10.1145/3580305.3599314)
 
 #### Approximate Embedding Clustering
 
