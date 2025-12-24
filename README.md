@@ -264,7 +264,7 @@ Extract text using multi-modal LLMs as a whole, from image to text directly
    Haoran Wei, Yaofeng Sun, Yukun Li. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2510.18234)]
 2. **dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model**
    Yumeng Li, Guang Yang, Hao Liu, Bowen Wang, Colin Zhang. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2512.02498)]
-3. **General OCR Theory: Towards OCR - 2.0 via a Unified End - to - end Model**
+3. **General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model**
    Haoran Wei, Chenglong Liu, Jinyue Chen, et al. *arXiv 2024.* [[Paper](https://arxiv.org/abs/2409.01704v1)]
 4. **Focus Anywhere for Fine-grained Multi-page Document Understanding**
    Chenglong Liu, Haoran Wei, Jinyue Chen, et al. *arXiv 2024.* [[Paper](https://arxiv.org/abs/2405.14295)]
@@ -1511,18 +1511,17 @@ Bansal, Parikshit, and Amit Sharma. *arXiv 2023*. [[Paper](https://arxiv.org/abs
 1. **AOP: Automated and Interactive LLM Pipeline Orchestration for Answering Complex Queries** [[Paper](https://vldb.org/cidrdb/papers/2025/p32-wang.pdf)]
 2. **Focus Anywhere for Fine-grained Multi-page Document Understanding** [[Paper](https://arxiv.org/abs/2405.14295)]
 3. **Exploring the limits of transfer learning with a unified text-to-text transformer** [[Paper](https://arxiv.org/abs/1910.10683v4)]
-4. **Palimpzest: Optimizing AI-Powered Analytics with Declarative Query Processing**
+4. **General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model** [[Paper](https://arxiv.org/abs/2409.01704v1)]
+5. **Palimpzest: Optimizing AI-Powered Analytics with Declarative Query Processing**
     Chunwei Liu, Matthew Russo, Michael Cafarella, et al. *CIDR 2025* [[Paper](https://www.vldb.org/cidrdb/papers/2025/p12-liu.pdf)]
-5. **DocFormerv2: Local Features for Document Understanding**
+6. **DocFormerv2: Local Features for Document Understanding**
    Srikar Appalaraju, Peng Tang, Qi Dong, et al. *AAAI 2024.* [[Paper](https://doi.org/10.1609/aaai.v38i2.27828)]
-6. **mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding**
+7. **mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding**
    Anwen Hu, Haiyang Xu, Jiabo Ye, et al. *Findings of EMNLP 2024.* [[Paper](https://aclanthology.org/2024.findings-emnlp.175/)]
-7. **DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding**
+8. **DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding**
    Hao Feng, Qi Liu, Hao Liu, et al. *SCIS 2024.* [[Paper](https://doi.org/10.48550/arXiv.2311.11810)]
-8. **Towards Accurate and Efficient Document Analytics with Large Language Models**
+9. **Towards Accurate and Efficient Document Analytics with Large Language Models**
    Y. Lin, M. Hulsebos, R. Ma, et al. *arXiv 2024.* [[Paper](https://arxiv.org/abs/2405.04674/)]
-9. **General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model**
-    Haoran Wei, Chenglong Liu, Jinyue Chen, et al. *arXiv 2024*. [[Paper](https://arxiv.org/abs/2409.01704v1)]
 10. **Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding**
     Kenton Lee, Mandar Joshi, Iulia Turc, et al. *ICML 2023.* [[Paper](https://dl.acm.org/doi/10.5555/3618408.3619188?ref=localhost)]
 11. **Unifying Vision, Text, and Layout for Universal Document Processing**
