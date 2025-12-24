@@ -253,6 +253,8 @@ Extract text using multiple components as a pipeline, including segmentation and
 1. **PaddleOCR**: An open-source Optical Character Recognition (OCR) toolkit based on the PaddlePaddle deep learning framework; supports multilingual text detection and recognition, ideal for extracting text from images and document layout analysis. [[Github](https://github.com/paddlepaddle/paddleocr)]
 2. **MinerU: An Open-Source Solution for Precise Document Content Extraction**
    Bin Wang, Chao Xu, Xiaomeng Zhao, et al. *arXiv 2024.* [[Paper](https://arxiv.org/abs/2409.18839)]
+3. **MinerU2.5: A Decoupled Vision-Language Model for Efficient High-Resolution Document Parsing**
+   Junbo Niu, Zheng Liu, Zhuangcheng Gu, et al. *arXiv 2025.* [[Paper](https://arxiv.org/abs/2509.22186)]
 
 ##### End-to-End Models
 
@@ -2305,4 +2307,5 @@ Bansal, Parikshit, and Amit Sharma. *arXiv 2023*. [[Paper](https://arxiv.org/abs
    Mengzhao Wang, Xiangyu Ke, Xiaoliang Xu, et al. *ICDE 2024*. [[Paper](https://doi.org/10.1109/ICDE60146.2024.00361)]
 1. **Explainable Multi-Modal Data Exploration in Natural Language via LLM Agent**
    Farhad Nooralahzadeh, Yi Zhang, Jonathan Furst, Kurt Stockinger. *arXiv 2024*. [[Paper](https://doi.org/10.48550/arXiv.2412.18428)]
+
 
