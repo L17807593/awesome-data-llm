@@ -1164,6 +1164,21 @@ Zhang, Haochen, et al. *arXiv 2023*. [[Paper](https://arxiv.org/abs/2308.16361)]
 5. **Data Augmentation using LLMs: Data Perspectives, Learning Paradigms and Challenges**  
    Bosheng Ding, Chengwei Qin, Ruochen Zhao, et al. *ACL Findings 2024, pp. 1679-1705 (2024)*. [[Paper](https://aclanthology.org/2024.findings-acl.97/)]
 
+6. **Ldi: Localized data imputation for text-rich tables**
+   S.Omidvartehrani and D. Rafiei. *arXiv 2025*. [[Paper](https://arxiv.org/abs/2506.16616)]
+
+7. **LLM-Forest: Ensemble Learning of LLMs with Graph-Augmented Prompts for Data Imputation**
+   Xinrui He, Yikun Ban, et al. *ACL Findings 2025, pp. 6921–6936(2025)*. [[Paper](https://aclanthology.org/2025.findings-acl.361/)]
+
+8. **Data imputation with limited data redundancy using data lakes**
+   Chenyu Yang, Yuyu Luo, et al. *Proc. VLDB Endow ,vol. 18, no. 10, pp. 3354–3367(2025)*. [[Paper](https://dl.acm.org/doi/10.14778/3748191.3748200)]
+
+9. **Data imputation using large language model to accelerate recommendation system**
+   Zhicheng Ding, Jiahao Tian, et al. *arXiv, 2024*. [[Paper](https://arxiv.org/abs/2407.10078)]
+
+10. **Quantum-Accelerated Neural Imputation with Large Language Models (LLMs)**
+   Hossein Jamali. *CoRR, 2025*. [[Paper](https://arxiv.org/abs/2507.08255)]
+
 #### 4.1.2 LLM 用于数据集成
 
 ##### 实体匹配
