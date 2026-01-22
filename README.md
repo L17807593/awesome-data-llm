@@ -1232,9 +1232,6 @@ Zhang, Haochen, et al. *arXiv 2023*. [[Paper](https://arxiv.org/abs/2308.16361)]
 4. **RetClean: Retrieval-Based Data Cleaning Using LLMs and Data Lakes**
    Zan Ahmad Naeem, et al. *VLDB Endowment 2024*. [[Paper](https://dl.acm.org/doi/10.14778/3685800.3685890)]
 
-5. **Data Augmentation using LLMs: Data Perspectives, Learning Paradigms and Challenges**
-   Bosheng Ding, Chengwei Qin, Ruochen Zhao, et al. *ACL Findings 2024, pp. 1679-1705 (2024)*. [[Paper](https://aclanthology.org/2024.findings-acl.97/)]
-
 #### 4.1.2 LLM for Data Integration
 
 ##### Entity Matching
@@ -2290,4 +2287,5 @@ Bansal, Parikshit, and Amit Sharma. *arXiv 2023*. [[Paper](https://arxiv.org/abs
    Mengzhao Wang, Xiangyu Ke, Xiaoliang Xu, et al. *ICDE 2024*. [[Paper](https://doi.org/10.1109/ICDE60146.2024.00361)]
 1. **Explainable Multi-Modal Data Exploration in Natural Language via LLM Agent**
    Farhad Nooralahzadeh, Yi Zhang, Jonathan Furst, Kurt Stockinger. *arXiv 2024*. [[Paper](https://doi.org/10.48550/arXiv.2412.18428)]
+
 
